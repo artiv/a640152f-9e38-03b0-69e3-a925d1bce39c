@@ -1,0 +1,368 @@
+{
+	"fileName": "hi_i1_nsw.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "349fdfa4-c947-67f2-06e8-d7efdef8debb",
+			"fileItemDate": "2018-08-30T07:53:17.364Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "mNoBFtySGcEGRpKRh",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT",
+				"mNoBFtySGcEGRpKRh",
+				"Y4FbmNRvZboJQLruG"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "0d4c0a4e-6e24-a0c6-b467-dbcc36938f63",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "genericText info",
+						"genericChildren": [],
+						"genericKey": "genericText key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "00b2114f-ebbc-387a-5ee5-3c501086aac2",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Label",
+						"genericChildren": [],
+						"genericKey": "label key",
+						"genericValues": [
+							"label info"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "0879ef17-1905-9a1e-6dec-7cc88bc13c72",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "video info",
+						"fieldKey": "video key",
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch",
+								"version": 1535571573,
+								"signature": "2c9e9ad0cf2f8a648817925bb708de51e29dfe86",
+								"width": 640,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-08-29T19:39:33Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 2086056,
+								"type": "upload",
+								"etag": "75a9e31a1aaf144c16c23634dfa39d49",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1535571573/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1535571573/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "48126",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "206925",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 23.976023976023978,
+								"bit_rate": 258063,
+								"duration": 64.523,
+								"rotation": 0,
+								"original_filename": "NSW_Health__2018_Global_Transformation_Award_Winner",
+								"path": "v1535571573/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1535571573/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch.jpg",
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:05,600 --> 00:00:06,900\nस्वास्थ्य देखभाल की एक समझ लागत \n\n2\n00:00:07,400 --> 00:00:07,800\nएक है \n\n3\n00:00:08,000 --> 00:00:08,600\nकरने में सक्षम \n\n4\n00:00:10,000 --> 00:00:10,900\nचीजों की एक संख्या बेहतर स्वास्थ्य \n\n5\n00:00:17,000 --> 00:00:18,500\nरणनीतिक योजना है ।  क्या \n\n6\n00:00:19,700 --> 00:00:19,900\nप्राथमिकता के बारे में? \n\n7\n00:00:20,400 --> 00:00:21,500\nयह एक \n\n8\n00:00:23,400 --> 00:00:23,800\nरिच जानकारी \n\n9\n00:00:24,100 --> 00:00:25,500\nस्रोत, और यह लिंक \n\n10\n00:00:26,100 --> 00:00:26,600\nएक फाइनेंशियल \n\n11\n00:00:27,300 --> 00:00:27,900\nडेटा से एक \n\n12\n00:00:28,000 --> 00:00:28,500\nवित्तीय प्रणालियों \n\n13\n00:00:29,300 --> 00:00:29,900\nको एक नैदानिक \n\n14\n00:00:30,500 --> 00:00:30,600\nसे डेटा \n\n15\n00:00:31,100 --> 00:00:31,700\nएक रोगी प्रणालियों \n\n16\n00:00:32,400 --> 00:00:32,900\nगिरने वाला था \n\n17\n00:00:42,300 --> 00:00:43,900\nअसाधारण अनुग्रह \n\n18\n00:00:44,500 --> 00:00:45,600\nबहुत वर्ग में \n\n19\n00:00:46,400 --> 00:00:46,900\nदैनिक सहयोग \n\n20\n00:00:47,900 --> 00:00:48,800\nमेरे नैदानिक समय के साथ \n\n21\n00:00:49,200 --> 00:00:49,800\nमें Y \n\n22\n00:00:50,000 --> 00:00:50,500\nजिसमें हम संयुक्त रूप से \n\n23\n00:00:51,100 --> 00:00:52,600\nव्यवसाय चलाएं \n\n24\n00:00:53,500 --> 00:00:53,900\nतरह से हम \n\n25\n00:00:54,100 --> 00:00:54,500\nसंयुक्त रूप से बात \n\n26\n00:00:55,000 --> 00:00:55,900\nके बारे में और देखभाल के बारे में \n\n27\n00:00:56,200 --> 00:00:56,700\nरोगियों का अनुभव \n\n28\n00:00:57,300 --> 00:00:57,800\nऔर शराब \n\n29\n00:00:58,100 --> 00:00:58,600\nकौन सा रास्ता है \n\n30\n00:00:59,000 --> 00:00:59,900\nभविष्य की कल्पना ।\n",
+									"parsed": [
+										{
+											"start": 5600,
+											"end": 6900,
+											"text": "स्वास्थ्य देखभाल की एक समझ लागत "
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "एक है "
+										},
+										{
+											"start": 8000,
+											"end": 8600,
+											"text": "करने में सक्षम "
+										},
+										{
+											"start": 10000,
+											"end": 10900,
+											"text": "चीजों की एक संख्या बेहतर स्वास्थ्य "
+										},
+										{
+											"start": 17000,
+											"end": 18500,
+											"text": "रणनीतिक योजना है ।  क्या "
+										},
+										{
+											"start": 19700,
+											"end": 19900,
+											"text": "प्राथमिकता के बारे में? "
+										},
+										{
+											"start": 20400,
+											"end": 21500,
+											"text": "यह एक "
+										},
+										{
+											"start": 23400,
+											"end": 23800,
+											"text": "रिच जानकारी "
+										},
+										{
+											"start": 24100,
+											"end": 25500,
+											"text": "स्रोत, और यह लिंक "
+										},
+										{
+											"start": 26100,
+											"end": 26600,
+											"text": "एक फाइनेंशियल "
+										},
+										{
+											"start": 27300,
+											"end": 27900,
+											"text": "डेटा से एक "
+										},
+										{
+											"start": 28000,
+											"end": 28500,
+											"text": "वित्तीय प्रणालियों "
+										},
+										{
+											"start": 29300,
+											"end": 29900,
+											"text": "को एक नैदानिक "
+										},
+										{
+											"start": 30500,
+											"end": 30600,
+											"text": "से डेटा "
+										},
+										{
+											"start": 31100,
+											"end": 31700,
+											"text": "एक रोगी प्रणालियों "
+										},
+										{
+											"start": 32400,
+											"end": 32900,
+											"text": "गिरने वाला था "
+										},
+										{
+											"start": 42300,
+											"end": 43900,
+											"text": "असाधारण अनुग्रह "
+										},
+										{
+											"start": 44500,
+											"end": 45600,
+											"text": "बहुत वर्ग में "
+										},
+										{
+											"start": 46400,
+											"end": 46900,
+											"text": "दैनिक सहयोग "
+										},
+										{
+											"start": 47900,
+											"end": 48800,
+											"text": "मेरे नैदानिक समय के साथ "
+										},
+										{
+											"start": 49200,
+											"end": 49800,
+											"text": "में Y "
+										},
+										{
+											"start": 50000,
+											"end": 50500,
+											"text": "जिसमें हम संयुक्त रूप से "
+										},
+										{
+											"start": 51100,
+											"end": 52600,
+											"text": "व्यवसाय चलाएं "
+										},
+										{
+											"start": 53500,
+											"end": 53900,
+											"text": "तरह से हम "
+										},
+										{
+											"start": 54100,
+											"end": 54500,
+											"text": "संयुक्त रूप से बात "
+										},
+										{
+											"start": 55000,
+											"end": 55900,
+											"text": "के बारे में और देखभाल के बारे में "
+										},
+										{
+											"start": 56200,
+											"end": 56700,
+											"text": "रोगियों का अनुभव "
+										},
+										{
+											"start": 57300,
+											"end": 57800,
+											"text": "और शराब "
+										},
+										{
+											"start": 58100,
+											"end": 58600,
+											"text": "कौन सा रास्ता है "
+										},
+										{
+											"start": 59000,
+											"end": 59900,
+											"text": "भविष्य की कल्पना ।"
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch_hi.srt",
+										"version": 1535615671,
+										"signature": "885f073d23c063080a48e2525ed1b536bc26ebc1",
+										"resource_type": "raw",
+										"created_at": "2018-08-30T07:54:31Z",
+										"tags": [],
+										"bytes": 2350,
+										"type": "upload",
+										"etag": "60a8d6befdad7a8e1451b3b5dc2eb82b",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1535615671/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch_hi.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1535615671/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health__2018_Global_Transformation_Award_Winner_fqjtch_hi.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
+								"overlays": []
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
