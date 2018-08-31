@@ -4,15 +4,439 @@
 		"fileTemplateGeneral": {
 			"fileTemplateGuid": "3d2dfc3d-28f1-499d-6893-3726909f5090",
 			"fileTemplateDate": "2018-08-31T07:29:55.833Z",
-			"fileTemplateCollections": [],
-			"fileTemplateCollectionsForTranslation": []
+			"fileTemplateCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
 		},
 		"fileTemplateLanguage": {
 			"primaryLanguage": "s92WwXsGAnDHNAHiT",
-			"possibleLanguages": []
+			"possibleLanguages": [
+				"mNoBFtySGcEGRpKRh",
+				"Y4FbmNRvZboJQLruG",
+				"s92WwXsGAnDHNAHiT"
+			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "0bcf567b-9902-3587-89b3-fb63d51e5146",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "TITLE",
+						"genericChildren": [],
+						"genericKey": "TITLE",
+						"genericValues": [
+							"Centre for Oncology Education and Research Translation Biobank"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "6070cfcc-211a-89b3-03be-ecb17d89021e",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "LOCATION",
+						"genericChildren": [],
+						"genericKey": "LOCATION",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "4mjls",
+										"text": "Liverpool Hospital",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 18,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 18,
+												"style": "fontsize-18"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "c0347d3a-cca9-aaa1-75df-ab4875171ece",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "WHAT DOES MY PARTICIPATION INVOLVE?",
+						"genericChildren": [
+							"7d82a326-a3ce-be01-52fa-5f696a949529",
+							"cadac2ec-be6a-3adf-d7af-e2269c05dd14",
+							"bbc9a6c2-a5c2-c775-8225-2845b8ad6e78"
+						],
+						"genericKey": "PART 1",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "cadac2ec-be6a-3adf-d7af-e2269c05dd14",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Introduction",
+						"genericChildren": [],
+						"genericKey": "1.1",
+						"genericValues": [
+							"You are invited to take part in the Centre for Oncology Education and Research Translation (CONCERT) Biobank. The CONCERT Biobank is a ‘bank’ that aims to collect and distribute cancer specimens and information for cancer research projects. You are invited to take part in this project because you may have cancer. You will be asked to donate a sample of tissue and blood which will be stored for future use into research for the prevention, early detection, diagnosis and treatment of cancer. This Participant Information Sheet/Consent Form tells you about the CONCERT Biobank. It explains who we are, what we do and what is involved in your participation. Knowing what is involved will help you decide if you want to take part in this project. Please read this information carefully. Ask questions about anything that you don’t understand or want to know more about. Before deciding whether or not to take part, you might want to talk about it with a relative, friend or your local doctor. Participation in this research is VOLUNTARY. If you don’t wish to take part, you don’t have to. You will receive the best possible care whether or not you take part. If you decide you want to take part in this project, you will be asked to sign the consent section. By signing it you are telling us that you: • Understand what you have read • Consent to take part in the CONCERT Biobank • Consent to the use of your tissue, blood and health information as described. You will be given a copy of this Participant Information and Consent Form to keep."
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "bbc9a6c2-a5c2-c775-8225-2845b8ad6e78",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "What is the purpose of the CONCERT Biobank?",
+						"genericChildren": [],
+						"genericKey": "1.2",
+						"genericValues": [
+							"“Banking” is storing of tissue, blood and/or health information for future research studies. A “bank”, like this CONCERT Biobank, is a place where the tissue, blood and/or health information is stored. We are seeking your permission to store your tissue, blood and information for future research. We would like you to consider taking part in this bank because you may have cancer. In the future, other doctors and scientists at this and other medical and research centres may use your tissue, blood and information to learn about helping discover new tests for cancer or new treatments to prevent or cure cancer."
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "1e774954-1f48-e21e-b33d-9c43aa725fc8",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "HOW IS THE CONCERT BIOBANK BEING CONDUCTED?",
+						"genericChildren": [
+							"a1d03795-6f0c-50d3-366b-95cf50eb8444",
+							"d0b9c0ee-2c2e-03d3-d021-05ba98e73293"
+						],
+						"genericKey": "PART 2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "a1d03795-6f0c-50d3-366b-95cf50eb8444",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Who is conducting the CONCERT Biobank?",
+						"genericChildren": [],
+						"genericKey": "2.9",
+						"genericValues": [
+							"The CONCERT Biobank is being overseen by Professor Soon Lee and conducted by scientists at the Ingham Institute for Applied Medical Research, together with doctors at several of the major hospitals in NSW."
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "d0b9c0ee-2c2e-03d3-d021-05ba98e73293",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Who is funding the CONCERT Biobank?",
+						"genericChildren": [],
+						"genericKey": "2.10",
+						"genericValues": [
+							"The CONCERT Biobank is funded by the Cancer Institute NSW."
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "55b97c75-fdda-1ab7-64ed-56c36465fa43",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "THANK YOU",
+						"genericChildren": [],
+						"genericKey": "THANK YOU",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "763v6",
+										"text": "THANK YOU for taking the time to consider this study.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 53,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 53,
+												"style": "fontsize-18"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "center"
+										}
+									},
+									{
+										"key": "egcjp",
+										"text": "If you wish to take part in it, please sign the attached consent form.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 70,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 70,
+												"style": "fontsize-18"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "center"
+										}
+									},
+									{
+										"key": "egkbr",
+										"text": "This information sheet is for you to keep.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 42,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 42,
+												"style": "fontsize-18"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "center"
+										}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": []
 		},
 		"fileTemplatePublish": {
