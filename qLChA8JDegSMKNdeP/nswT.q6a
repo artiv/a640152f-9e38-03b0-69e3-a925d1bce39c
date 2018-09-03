@@ -987,7 +987,7 @@
 						"genericCanChild": false
 					},
 					"genericSpecific": {
-						"genericInformation": "",
+						"genericInformation": "Gender",
 						"genericChildren": [],
 						"genericKey": "Gender",
 						"genericValues": [
@@ -1041,7 +1041,10 @@
 					},
 					"genericSpecific": {
 						"genericInformation": "",
-						"genericChildren": [],
+						"genericChildren": [
+							"206c66e8-0b00-9e6d-cf7c-71500fc91b65",
+							"12f6f149-36be-857e-43e2-419f626b8e31"
+						],
 						"genericKey": "PAST HISTORY",
 						"genericValues": []
 					},
@@ -1076,7 +1079,7 @@
 						"genericCanChild": true
 					},
 					"genericSpecific": {
-						"genericInformation": "",
+						"genericInformation": "CANCER",
 						"genericChildren": [],
 						"genericKey": "CANCER",
 						"genericValues": [
@@ -1097,6 +1100,651 @@
 								"label": "CANCER"
 							}
 						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "12f6f149-36be-857e-43e2-419f626b8e31",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Yes options",
+						"genericChildren": [
+							"356e1dd2-d54b-083a-2a0d-f0052e245a19",
+							"6965de91-e9a6-88c5-08d4-1009dee68c59",
+							"7a131810-78c5-aa00-d89f-e4bf734329e3",
+							"07544324-746c-11e2-f94f-82cf22294363"
+						],
+						"genericKey": "Yes options",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "356e1dd2-d54b-083a-2a0d-f0052e245a19",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Type of Cancer",
+						"genericChildren": [],
+						"genericKey": "Type of Cancer",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "6965de91-e9a6-88c5-08d4-1009dee68c59",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Age at Diagnosis",
+						"genericChildren": [],
+						"genericKey": "Age at Diagnosis",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "7a131810-78c5-aa00-d89f-e4bf734329e3",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Detection Method",
+						"genericChildren": [],
+						"genericKey": "Detection Method",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "07544324-746c-11e2-f94f-82cf22294363",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Cancer Treatment",
+						"genericChildren": [],
+						"genericKey": "Cancer Treatment",
+						"genericValues": [
+							{
+								"allowsMultiple": true,
+								"optionValues": [
+									{
+										"key": "Surgery",
+										"value": "Surgery",
+										"isTrue": false
+									},
+									{
+										"key": "Radiotherapy",
+										"value": "Radiotherapy",
+										"isTrue": false
+									},
+									{
+										"key": "Chemotherapy",
+										"value": "Chemotherapy",
+										"isTrue": false
+									},
+									{
+										"key": "Hormone",
+										"value": "Hormone",
+										"isTrue": false
+									}
+								],
+								"label": "Cancer Treatment"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "1d1827c4-f809-b7e1-a6dd-dd5cb69ee6d3",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "RISK FACTORS",
+						"genericChildren": [
+							"4616f922-a1a2-fa5a-e7e6-70d80ac67bf0",
+							"0f20597e-266f-8bd5-310c-a596ebb4af46",
+							"b9a2f939-7363-9c4a-cded-d1eaa7c3c24c"
+						],
+						"genericKey": "RISK FACTORS",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "4616f922-a1a2-fa5a-e7e6-70d80ac67bf0",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Height (cm)",
+						"genericChildren": [],
+						"genericKey": "Height (cm)",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "0f20597e-266f-8bd5-310c-a596ebb4af46",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Weight (kg)",
+						"genericChildren": [],
+						"genericKey": "Weight (kg)",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b9a2f939-7363-9c4a-cded-d1eaa7c3c24c",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Risk factor options",
+						"genericChildren": [],
+						"genericKey": "Risk factor options",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "Yes",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "No",
+										"isTrue": false
+									}
+								],
+								"label": "Are you a Smoker?"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "Yes",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "No",
+										"isTrue": false
+									}
+								],
+								"label": "Were you ever a Smoker?"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Ceased",
+										"value": "Ceased",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "No",
+										"isTrue": false
+									},
+									{
+										"key": "Yes",
+										"value": "Yes",
+										"isTrue": false
+									}
+								],
+								"label": "Alcohol Use"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "09099c00-22a0-6068-aaf9-186473561c03",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": false,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "",
+						"genericChildren": [],
+						"genericKey": "",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "8e79345d-d63c-6a3c-b29d-8333b06cda96",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "FAMILY HISTORY",
+						"genericChildren": [
+							"5a077e15-b66e-5154-3158-5d33b878e2ec",
+							"ffe046d5-ef00-7b80-f017-1f31f47a0d0d"
+						],
+						"genericKey": "FAMILY HISTORY",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "5a077e15-b66e-5154-3158-5d33b878e2ec",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Relationship of Relative e.g. Mother, Brother...",
+						"genericChildren": [],
+						"genericKey": "Relationship of Relative e.g. Mother, Brother",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "ffe046d5-ef00-7b80-f017-1f31f47a0d0d",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "FAMILY HISTORY OPTIONS",
+						"genericChildren": [],
+						"genericKey": "FAMILY HISTORY OPTIONS",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Maternal",
+										"value": "Maternal",
+										"isTrue": false
+									},
+									{
+										"key": "Paternal",
+										"value": "Paternal",
+										"isTrue": false
+									},
+									{
+										"key": "Unknown",
+										"value": "Unknown",
+										"isTrue": false
+									}
+								],
+								"label": "Side of Family"
+							},
+							{
+								"allowsMultiple": true,
+								"optionValues": [
+									{
+										"key": "Surgery",
+										"value": "Surgery",
+										"isTrue": false
+									},
+									{
+										"key": "Radiotherapy",
+										"value": "Radiotherapy",
+										"isTrue": false
+									},
+									{
+										"key": "Chemotherapy",
+										"value": "Chemotherapy",
+										"isTrue": false
+									},
+									{
+										"key": "Hormone",
+										"value": "Hormone",
+										"isTrue": false
+									}
+								],
+								"label": "Cancer Treatment"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "f592534e-00f6-6325-a3d9-c2e54bb46a22",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "ADDITIONAL NOTES",
+						"genericChildren": [],
+						"genericKey": "ADDITIONAL NOTES",
+						"genericValues": []
 					},
 					"genericWorking": {
 						"genericOrderId": "",
