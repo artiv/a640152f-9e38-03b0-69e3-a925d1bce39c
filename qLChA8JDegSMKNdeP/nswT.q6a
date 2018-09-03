@@ -661,7 +661,8 @@
 					"genericSpecific": {
 						"genericInformation": "signatures",
 						"genericChildren": [
-							"46d08bf1-7a59-d7fd-3658-fae7e5fcd514"
+							"46d08bf1-7a59-d7fd-3658-fae7e5fcd514",
+							"0173804c-c7db-712b-10fc-ed7534449443"
 						],
 						"genericKey": "signatures",
 						"genericValues": []
@@ -734,13 +735,368 @@
 					"genericMeta": {
 						"genericCanTranslate": true,
 						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Consents",
+						"genericChildren": [],
+						"genericKey": "Consents",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "Yes",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "No",
+										"isTrue": false
+									}
+								],
+								"label": "Consent to the CONCERT Biobank"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "Yes",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "No",
+										"isTrue": false
+									}
+								],
+								"label": "Consent for Biobank Sub-Study: EpiAxis Phase I, ‘Dry Run’"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "c5ca28cf-2070-20c6-350d-20a6a17d31d7",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "PARTICIPANT NAME",
+						"genericChildren": [],
+						"genericKey": "PARTICIPANT NAME",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "cec4018b-5215-3dba-3c71-4531b0367279",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "SIGNATURE",
+						"genericChildren": [],
+						"genericKey": "SIGNATURE",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "3e617cbf-1a4c-6b86-d472-2c400b4db6de",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "SIGNATURE OF WITNESS",
+						"genericChildren": [],
+						"genericKey": "SIGNATURE OF WITNESS",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "c489c0ef-76a5-bd04-ed40-68ede7204437",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Participant's MRN",
+						"genericChildren": [],
+						"genericKey": "Participant's MRN",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "a1532a21-c86b-f35a-db9b-99d1d2c803e3",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
 						"genericCanChild": false
 					},
 					"genericSpecific": {
 						"genericInformation": "",
 						"genericChildren": [],
-						"genericKey": "",
+						"genericKey": "Hospital",
 						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "82e97e6d-6116-83a8-0064-a0c65b29ba3c",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "",
+						"genericChildren": [],
+						"genericKey": "Gender",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Male",
+										"value": "Male",
+										"isTrue": false
+									},
+									{
+										"key": "Female",
+										"value": "Female",
+										"isTrue": false
+									}
+								],
+								"label": "Gender"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "d012a157-c8fc-305d-eb8e-768968762f56",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "",
+						"genericChildren": [],
+						"genericKey": "PAST HISTORY",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "206c66e8-0b00-9e6d-cf7c-71500fc91b65",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "",
+						"genericChildren": [],
+						"genericKey": "CANCER",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "NO",
+										"value": "NO",
+										"isTrue": false
+									},
+									{
+										"key": "YES",
+										"value": "YES",
+										"isTrue": false
+									}
+								],
+								"label": "CANCER"
+							}
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
