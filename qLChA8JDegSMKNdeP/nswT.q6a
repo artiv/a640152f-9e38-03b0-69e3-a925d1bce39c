@@ -635,6 +635,122 @@
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "ec4988db-7ed6-c9a5-ffb2-a4f5d26d2a1b",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "signatures",
+						"genericChildren": [
+							"46d08bf1-7a59-d7fd-3658-fae7e5fcd514"
+						],
+						"genericKey": "signatures",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "46d08bf1-7a59-d7fd-3658-fae7e5fcd514",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "initials",
+						"genericChildren": [],
+						"genericKey": "initials",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "0173804c-c7db-712b-10fc-ed7534449443",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "",
+						"genericChildren": [],
+						"genericKey": "",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			],
 			"fileTemplateFields": []
