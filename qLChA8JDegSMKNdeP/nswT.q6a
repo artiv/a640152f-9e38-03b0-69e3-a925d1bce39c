@@ -435,6 +435,206 @@
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "85867132-69f6-d932-2fd0-6a14e2c0f50d",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericKey": "Some information",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "d03oi",
+										"text": "I, the undersigned",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "b9mng",
+										"text": "of acknowledge that I have read the Participant Information Sheet and have discussed the consequences",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "559ip",
+										"text": "involved in my voluntary donation of tissue and blood to the CONCERT Biobank with",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "445uk",
+										"text": "[Doctor or health professional name]. I have had",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "ep5nr",
+										"text": "an opportunity to ask questions and am satisfied with the answers given.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "dg7rh",
+										"text": "In making my donation, I understand and agree that:",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "7l4pq",
+										"text": " Contributing to the CONCERT Biobank is entirely voluntary and will in no way affect my treatment or",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "e3587",
+										"text": "relationship with my doctor or other members of my health care team.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "2pvgd",
+										"text": " I can withdraw my consent at any time.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "9bkpu",
+										"text": " Information relating to my donation to the CONCERT Biobank is strictly confidential.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "6osqc",
+										"text": " Contributing to the CONCERT Biobank will allow the researchers to have access to my medical",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "8bev2",
+										"text": "records and I give permission to the CONCERT Biobank team to contact my GP for collection of",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "6af25",
+										"text": "information up to 10 years.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "7g9hr",
+										"text": " If my GP cannot be contacted, I give permission for the CONCERT Biobank to contact me directly",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "bdcu0",
+										"text": "on contact number mentioned below.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "tjln",
+										"text": "I acknowledge that it is unlikely that the results from any studies performed on my tissue and blood will be",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "39n94",
+										"text": "of direct benefit to me.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "cuev5",
+										"text": "I hereby agree to contribute to this Biobank.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			],
 			"fileTemplateFields": []
