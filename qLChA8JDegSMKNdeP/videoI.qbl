@@ -92,7 +92,197 @@
 								"done": true,
 								"path": "v1536563993/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1536563993/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb.jpg",
-								"captions": {},
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n09:15:33,334 --> 20:50:00,000\nAre\n\n2\n20:50:00,000 --> 09:15:34,334\nyou set \n\n3\n09:15:34,334 --> 11:34:27,667\nup\n\n4\n11:34:27,667 --> 20:50:01,000\nmessage?\n\n5\n20:50:01,000 --> 02:18:55,334\nI\n\n6\n02:18:55,334 --> 09:15:35,334\ndidn't\n\n7\n09:15:35,334 --> 20:50:02,000\nfight\n\n8\n20:50:02,000 --> 13:53:23,000\nimportant\n\n9\n13:53:23,000 --> 20:50:03,000\nTrends\n\n10\n20:50:03,000 --> 02:18:57,334\nand\n\n11\n02:18:57,334 --> 11:34:30,667\nneed\n\n12\n11:34:30,667 --> 16:12:17,334\nto\n\n13\n16:12:17,334 --> 20:50:04,000\nset\n\n14\n20:50:04,000 --> 02:18:58,334\nup\n\n15\n02:18:58,334 --> 04:37:51,667\non\n\n16\n04:37:51,667 --> 09:15:38,334\nyour\n\n17\n09:15:38,334 --> 18:31:11,667\nnose.\n\n18\n18:31:11,667 --> 11:34:32,667\nFor example \n\n19\n11:34:32,667 --> 16:12:19,334\nwhere\n\n20\n16:12:19,334 --> 18:31:12,667\nthey\n\n21\n18:31:12,667 --> 02:19:00,334\nlike\n\n22\n02:19:00,334 --> 11:34:33,667\nthings\n\n23\n11:34:33,667 --> 11:34:33,667\nlike\n\n24\n11:34:33,667 --> 02:19:01,334\nmarketing\n\n25\n02:19:01,334 --> 11:34:35,667\ncommunication skills. \n\n26\n11:34:35,667 --> 02:19:03,334\nWe can \n\n27\n02:19:03,334 --> 09:15:43,334\nimprovise\n\n28\n09:15:43,334 --> 20:50:10,000\nthis\n\n29\n20:50:10,000 --> 13:53:31,000\ntraining\n\n30\n13:53:31,000 --> 11:34:38,667\ncourse that \n\n31\n11:34:38,667 --> 20:50:12,000\nship\n\n32\n20:50:12,000 --> 06:56:53,000\n101.\n",
+									"parsed": [
+										{
+											"start": 33333334,
+											"end": 75000000,
+											"text": "Are"
+										},
+										{
+											"start": 75000000,
+											"end": 33334334,
+											"text": "you set "
+										},
+										{
+											"start": 33334334,
+											"end": 41667667,
+											"text": "up"
+										},
+										{
+											"start": 41667667,
+											"end": 75001000,
+											"text": "message?"
+										},
+										{
+											"start": 75001000,
+											"end": 8335334,
+											"text": "I"
+										},
+										{
+											"start": 8335334,
+											"end": 33335334,
+											"text": "didn't"
+										},
+										{
+											"start": 33335334,
+											"end": 75002000,
+											"text": "fight"
+										},
+										{
+											"start": 75002000,
+											"end": 50003000,
+											"text": "important"
+										},
+										{
+											"start": 50003000,
+											"end": 75003000,
+											"text": "Trends"
+										},
+										{
+											"start": 75003000,
+											"end": 8337334,
+											"text": "and"
+										},
+										{
+											"start": 8337334,
+											"end": 41670667,
+											"text": "need"
+										},
+										{
+											"start": 41670667,
+											"end": 58337334,
+											"text": "to"
+										},
+										{
+											"start": 58337334,
+											"end": 75004000,
+											"text": "set"
+										},
+										{
+											"start": 75004000,
+											"end": 8338334,
+											"text": "up"
+										},
+										{
+											"start": 8338334,
+											"end": 16671667,
+											"text": "on"
+										},
+										{
+											"start": 16671667,
+											"end": 33338334,
+											"text": "your"
+										},
+										{
+											"start": 33338334,
+											"end": 66671667,
+											"text": "nose."
+										},
+										{
+											"start": 66671667,
+											"end": 41672667,
+											"text": "For example "
+										},
+										{
+											"start": 41672667,
+											"end": 58339334,
+											"text": "where"
+										},
+										{
+											"start": 58339334,
+											"end": 66672667,
+											"text": "they"
+										},
+										{
+											"start": 66672667,
+											"end": 8340334,
+											"text": "like"
+										},
+										{
+											"start": 8340334,
+											"end": 41673667,
+											"text": "things"
+										},
+										{
+											"start": 41673667,
+											"end": 41673667,
+											"text": "like"
+										},
+										{
+											"start": 41673667,
+											"end": 8341334,
+											"text": "marketing"
+										},
+										{
+											"start": 8341334,
+											"end": 41675667,
+											"text": "communication skills. "
+										},
+										{
+											"start": 41675667,
+											"end": 8343334,
+											"text": "We can "
+										},
+										{
+											"start": 8343334,
+											"end": 33343334,
+											"text": "improvise"
+										},
+										{
+											"start": 33343334,
+											"end": 75010000,
+											"text": "this"
+										},
+										{
+											"start": 75010000,
+											"end": 50011000,
+											"text": "training"
+										},
+										{
+											"start": 50011000,
+											"end": 41678667,
+											"text": "course that "
+										},
+										{
+											"start": 41678667,
+											"end": 75012000,
+											"text": "ship"
+										},
+										{
+											"start": 75012000,
+											"end": 25013000,
+											"text": "101."
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Ad83yGx2E4MtddRkc_en-US.srt",
+										"version": 1536589287,
+										"signature": "99e8e462daa982ee045455c8f6d1cccee3312df8",
+										"resource_type": "raw",
+										"created_at": "2018-09-10T14:21:27Z",
+										"tags": [],
+										"bytes": 1297,
+										"type": "upload",
+										"etag": "548e205ceba49f7a4a087e8025722e95",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1536589287/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Ad83yGx2E4MtddRkc_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1536589287/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Ad83yGx2E4MtddRkc_en-US.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"overlays": []
 							}
 						],
