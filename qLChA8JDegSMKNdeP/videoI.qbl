@@ -103,92 +103,92 @@
 											"a": 1
 										}
 									},
-									"captionString": "",
+									"captionString": "1\n00:00:00,400 --> 00:00:00,900\nare you \n\n2\n00:00:00,900 --> 00:00:01,600\nstart-up Muster \n\n3\n00:00:01,600 --> 00:00:02,600\nto identify \n\n4\n00:00:02,600 --> 00:00:03,900\nimportant trends \n\n5\n00:00:03,900 --> 00:00:04,600\nand needs  for \n\n6\n00:00:04,600 --> 00:00:05,200\nstart-up entrepreneurs \n\n7\n00:00:05,200 --> 00:00:06,700\nexample where  they \n\n8\n00:00:06,700 --> 00:00:07,600\nlack things  like \n\n9\n00:00:07,600 --> 00:00:08,900\nmarketing and  communication \n\n10\n00:00:08,900 --> 00:00:09,900\nskills we \n\n11\n00:00:09,900 --> 00:00:10,800\ncan then  provide  this \n\n12\n00:00:10,800 --> 00:00:11,900\nto our  training  course \n\n13\n00:00:11,900 --> 00:00:12,600\nentrepreneurship\n\n14\n00:00:12,600 --> 00:00:13,200\n101\n",
 									"parsed": [
 										{
 											"start": 400,
 											"end": 900,
-											"text": "Are"
+											"text": "are you "
 										},
 										{
 											"start": 900,
-											"end": 1900,
-											"text": "you set  up  message? "
+											"end": 1600,
+											"text": "start-up Muster "
 										},
 										{
-											"start": 1900,
-											"end": 2900,
-											"text": "I didn't  fight "
+											"start": 1600,
+											"end": 2600,
+											"text": "to identify "
 										},
 										{
-											"start": 2900,
+											"start": 2600,
 											"end": 3900,
-											"text": "important Trends "
+											"text": "important trends "
 										},
 										{
 											"start": 3900,
-											"end": 4900,
-											"text": "and need  to  set "
+											"end": 4600,
+											"text": "and needs  for "
 										},
 										{
-											"start": 4900,
-											"end": 5800,
-											"text": "up on  your  nose. "
+											"start": 4600,
+											"end": 5200,
+											"text": "start-up entrepreneurs "
 										},
 										{
-											"start": 5800,
-											"end": 6800,
-											"text": "For example  where  they "
+											"start": 5200,
+											"end": 6700,
+											"text": "example where  they "
 										},
 										{
-											"start": 6800,
-											"end": 7500,
-											"text": "like things  like "
+											"start": 6700,
+											"end": 7600,
+											"text": "lack things  like "
 										},
 										{
-											"start": 7500,
-											"end": 8100,
-											"text": "marketing"
+											"start": 7600,
+											"end": 8900,
+											"text": "marketing and  communication "
 										},
 										{
-											"start": 8100,
-											"end": 9500,
-											"text": "communication skills. "
+											"start": 8900,
+											"end": 9900,
+											"text": "skills we "
 										},
 										{
-											"start": 9500,
-											"end": 10900,
-											"text": "We can  improvise  this "
+											"start": 9900,
+											"end": 10800,
+											"text": "can then  provide  this "
 										},
 										{
-											"start": 10900,
-											"end": 11600,
-											"text": "training"
+											"start": 10800,
+											"end": 11900,
+											"text": "to our  training  course "
 										},
 										{
-											"start": 11600,
-											"end": 12900,
-											"text": "course that  ship "
+											"start": 11900,
+											"end": 12600,
+											"text": "entrepreneurship"
 										},
 										{
-											"start": 12900,
-											"end": 13300,
-											"text": "101."
+											"start": 12600,
+											"end": 13200,
+											"text": "101"
 										}
 									],
 									"asset": {
-										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Mgzg4KKfEuzCd4Tpa_en-US.srt",
-										"version": 1536590166,
-										"signature": "e3c169b7da24776a1cdaa53d6f8d34bf33a75b1c",
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Xuba3cEdeidtKosm5_en-US.srt",
+										"version": 1536601133,
+										"signature": "f865f7c98bc4da9565e1a528653ef36c0b4d98a0",
 										"resource_type": "raw",
-										"created_at": "2018-09-10T14:36:06Z",
+										"created_at": "2018-09-10T17:38:53Z",
 										"tags": [],
-										"bytes": 703,
+										"bytes": 716,
 										"type": "upload",
-										"etag": "9e7f184177e95ed8bda66ad73f939755",
+										"etag": "9d9a2d41afe3096b919eafaae18ed117",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/q6a/raw/upload/v1536590166/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Mgzg4KKfEuzCd4Tpa_en-US.srt",
-										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1536590166/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Mgzg4KKfEuzCd4Tpa_en-US.srt",
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1536601133/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Xuba3cEdeidtKosm5_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1536601133/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_Xuba3cEdeidtKosm5_en-US.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true
