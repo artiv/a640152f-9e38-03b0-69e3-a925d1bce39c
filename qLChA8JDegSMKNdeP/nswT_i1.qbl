@@ -25,26 +25,32 @@
 			"fileItemGenerics": [
 				{
 					"genericGeneral": {
-						"genericGuid": "0bcf567b-9902-3587-89b3-fb63d51e5146",
-						"genericType": "simpleLabel",
+						"genericGuid": "b4d139e0-1a99-1ff8-e6f3-fb8ccfbf3beb",
+						"genericType": "genericText",
 						"genericIsVisibleCollections": [
 							"qLChA8JDegSMKNdeP"
 						],
-						"genericIsEditableCollections": [],
-						"genericIsRequiredCollections": [],
-						"genericIsMultipleCollections": []
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
 					},
 					"genericMeta": {
 						"genericCanTranslate": true,
 						"genericCanParent": false,
-						"genericCanChild": false
+						"genericCanChild": true
 					},
 					"genericSpecific": {
-						"genericInformation": "TITLE",
+						"genericInformation": "प्रथमाक्षर",
 						"genericChildren": [],
-						"genericKey": "TITLE",
+						"genericKey": "initials",
 						"genericValues": [
-							"Centre for Oncology Education and Research Translation Biobank"
+							"1.2"
 						]
 					},
 					"genericWorking": {
@@ -52,56 +58,69 @@
 						"genericOrderComment": "",
 						"specificOrderComment": "",
 						"genericJobId": "",
-						"genericJobStatus": "",
+						"genericJobStatus": "approved",
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
 				},
 				{
 					"genericGeneral": {
-						"genericGuid": "6070cfcc-211a-89b3-03be-ecb17d89021e",
-						"genericType": "simpleBlurb",
+						"genericGuid": "654ad454-a750-26ee-92ad-fbdcda6cf1db",
+						"genericType": "genericOption",
 						"genericIsVisibleCollections": [
 							"qLChA8JDegSMKNdeP"
 						],
-						"genericIsEditableCollections": [],
-						"genericIsRequiredCollections": [],
-						"genericIsMultipleCollections": []
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
 					},
 					"genericMeta": {
 						"genericCanTranslate": true,
 						"genericCanParent": false,
-						"genericCanChild": false
+						"genericCanChild": true
 					},
 					"genericSpecific": {
-						"genericInformation": "LOCATION",
+						"genericInformation": "सहमति",
 						"genericChildren": [],
-						"genericKey": "LOCATION",
+						"genericKey": "Consents",
 						"genericValues": [
 							{
-								"entityMap": {},
-								"blocks": [
+								"allowsMultiple": false,
+								"optionValues": [
 									{
-										"key": "4mjls",
-										"text": "Liverpool Hospital",
-										"type": "unstyled",
-										"depth": 0,
-										"inlineStyleRanges": [
-											{
-												"offset": 0,
-												"length": 18,
-												"style": "BOLD"
-											},
-											{
-												"offset": 0,
-												"length": 18,
-												"style": "fontsize-18"
-											}
-										],
-										"entityRanges": [],
-										"data": {}
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": true
 									}
-								]
+								],
+								"label": "कंसर्ट के लिए सहमति बैंक"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": true
+									}
+								],
+								"label": "बैंक उप अध्ययन के लिए सहमति: EpiAxis चरण I, ' ड्राई रन '"
 							}
 						]
 					},
@@ -110,7 +129,7 @@
 						"genericOrderComment": "",
 						"specificOrderComment": "",
 						"genericJobId": "",
-						"genericJobStatus": "",
+						"genericJobStatus": "approved",
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
@@ -667,7 +686,16 @@
 							"0173804c-c7db-712b-10fc-ed7534449443"
 						],
 						"genericKey": "signatures",
-						"genericValues": []
+						"genericValues": [
+							[
+								"4aafe83a-9468-5c80-e847-f3a7b574067c",
+								"fc6e13b2-7bf7-e3c7-bd51-760ef284cea3"
+							],
+							[
+								"b4d139e0-1a99-1ff8-e6f3-fb8ccfbf3beb",
+								"654ad454-a750-26ee-92ad-fbdcda6cf1db"
+							]
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -1731,6 +1759,230 @@
 						"genericKey": "ADDITIONAL NOTES",
 						"genericValues": [
 							"nothing new here"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "4aafe83a-9468-5c80-e847-f3a7b574067c",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "प्रथमाक्षर",
+						"genericChildren": [],
+						"genericKey": "initials",
+						"genericValues": [
+							"first",
+							"second"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "fc6e13b2-7bf7-e3c7-bd51-760ef284cea3",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "सहमति",
+						"genericChildren": [],
+						"genericKey": "Consents",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": false
+									}
+								],
+								"label": "कंसर्ट के लिए सहमति बैंक"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": false
+									}
+								],
+								"label": "बैंक उप अध्ययन के लिए सहमति: EpiAxis चरण I, ' ड्राई रन '"
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b4d139e0-1a99-1ff8-e6f3-fb8ccfbf3beb",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "प्रथमाक्षर",
+						"genericChildren": [],
+						"genericKey": "initials",
+						"genericValues": [
+							"first",
+							"second"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "654ad454-a750-26ee-92ad-fbdcda6cf1db",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "सहमति",
+						"genericChildren": [],
+						"genericKey": "Consents",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": false
+									}
+								],
+								"label": "कंसर्ट के लिए सहमति बैंक"
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "Yes",
+										"value": "हाँ",
+										"isTrue": false
+									},
+									{
+										"key": "No",
+										"value": "नहीं",
+										"isTrue": false
+									}
+								],
+								"label": "बैंक उप अध्ययन के लिए सहमति: EpiAxis चरण I, ' ड्राई रन '"
+							}
 						]
 					},
 					"genericWorking": {
