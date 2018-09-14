@@ -124,7 +124,67 @@
 					"fieldSpecific": {
 						"fieldInformation": "video information",
 						"fieldKey": "video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_xl0zdq",
+								"version": 1536906164,
+								"signature": "09df0b3ee442fe5e352078d9b6bcd909e71c8944",
+								"width": 640,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-09-14T06:22:44Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 3256524,
+								"type": "upload",
+								"etag": "201f64cba3e423d68bf5925a7187f2c9",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1536906164/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_xl0zdq.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1536906164/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_xl0zdq.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "96058",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "305154",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 23.976023976023978,
+								"bit_rate": 403440,
+								"duration": 64.523,
+								"rotation": 0,
+								"original_filename": "NSW_Health",
+								"path": "v1536906164/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_xl0zdq.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1536906164/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_xl0zdq.jpg",
+								"overlays": [],
+								"captions": {},
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw_health"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
