@@ -182,7 +182,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "nsw_health"
-								}
+								},
+								"viewSelection": 50
 							}
 						],
 						"fieldChildren": []
