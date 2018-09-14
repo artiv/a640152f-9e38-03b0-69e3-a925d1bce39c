@@ -178,8 +178,10 @@
 									"cropFixedX": "",
 									"cropFixedY": "",
 									"altText": "",
-									"caption": "",
-									"seoSuffix": "nsw_health"
+									"caption": "video description",
+									"seoSuffix": "nsw_health",
+									"width": "640",
+									"height": "360"
 								}
 							}
 						],
