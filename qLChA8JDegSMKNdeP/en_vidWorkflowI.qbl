@@ -1,0 +1,302 @@
+{
+	"fileName": "en_vidWorkflowI.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "361cc4c2-0476-c25a-dfe0-bab2c094531e",
+			"fileItemDate": "2018-09-15T11:36:26.017Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "s92WwXsGAnDHNAHiT",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "86af2f9a-dade-f44c-c764-9903da260cc1",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "information",
+						"fieldKey": "video key",
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8",
+								"version": 1537009479,
+								"signature": "c38a04e1bd29b711d84f4b10a709944ed1214590",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-09-15T11:04:39Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 4435228,
+								"type": "upload",
+								"etag": "0a2de109b5a0314b170846522a05a2b4",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1537009479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1537009479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "128312",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "457039",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 590900,
+								"duration": 60,
+								"rotation": 0,
+								"original_filename": "Nawazuddin Siddiqui in Aap Ki Adalat (Full Interview)",
+								"path": "v1537009479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1537009479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8.jpg",
+								"overlays": [],
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:00,000 --> 00:00:06,600\nGoing to start \n\n2\n00:00:06,600 --> 00:00:07,200\nhas been \n\n3\n00:00:07,200 --> 00:00:08,700\nOf the country's \n\n4\n00:00:08,700 --> 00:00:09,200\nBig\n\n5\n00:00:09,200 --> 00:00:10,100\nSue\n\n6\n00:00:10,100 --> 00:00:11,600\nOf you \n\n7\n00:00:11,600 --> 00:00:12,100\nCourt\n\n8\n00:00:12,100 --> 00:00:13,700\nRajat Sharma \n\n9\n00:00:13,700 --> 00:00:14,300\nWith the \n\n10\n00:00:14,300 --> 00:00:20,500\nHello\n\n11\n00:00:20,500 --> 00:00:21,900\nWelcome \n\n12\n00:00:21,900 --> 00:00:22,300\nIs\n\n13\n00:00:22,300 --> 00:00:24,800\nIn the court of you today \n\n14\n00:00:24,800 --> 00:00:25,800\nWill present film \n\n15\n00:00:25,800 --> 00:00:26,500\nWorld such \n\n16\n00:00:26,500 --> 00:00:27,500\nTo The Shining Star \n\n17\n00:00:27,500 --> 00:00:28,800\nthat you \n\n18\n00:00:28,800 --> 00:00:29,600\nEach character \n\n19\n00:00:29,600 --> 00:00:30,400\nMade love in \n\n20\n00:00:30,400 --> 00:00:31,800\nthat you \n\n21\n00:00:31,800 --> 00:00:32,700\nMade so big \n\n22\n00:00:33,400 --> 00:00:34,900\nof their struggle \n\n23\n00:00:34,900 --> 00:00:35,300\nStory\n\n24\n00:00:35,300 --> 00:00:36,900\nof their success \n\n25\n00:00:36,900 --> 00:00:37,200\nStory\n\n26\n00:00:37,200 --> 00:00:38,800\nAny youngster's \n\n27\n00:00:38,800 --> 00:00:39,900\nInspiration for \n\n28\n00:00:39,900 --> 00:00:40,900\nCan be the source of \n\n29\n00:00:40,900 --> 00:00:42,700\nPlease Wellcome\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 6600,
+											"text": "Going to start "
+										},
+										{
+											"start": 6600,
+											"end": 7200,
+											"text": "has been "
+										},
+										{
+											"start": 7200,
+											"end": 8700,
+											"text": "Of the country's "
+										},
+										{
+											"start": 8700,
+											"end": 9200,
+											"text": "Big"
+										},
+										{
+											"start": 9200,
+											"end": 10100,
+											"text": "Sue"
+										},
+										{
+											"start": 10100,
+											"end": 11600,
+											"text": "Of you "
+										},
+										{
+											"start": 11600,
+											"end": 12100,
+											"text": "Court"
+										},
+										{
+											"start": 12100,
+											"end": 13700,
+											"text": "Rajat Sharma "
+										},
+										{
+											"start": 13700,
+											"end": 14300,
+											"text": "With the "
+										},
+										{
+											"start": 14300,
+											"end": 20500,
+											"text": "Hello"
+										},
+										{
+											"start": 20500,
+											"end": 21900,
+											"text": "Welcome "
+										},
+										{
+											"start": 21900,
+											"end": 22300,
+											"text": "Is"
+										},
+										{
+											"start": 22300,
+											"end": 24800,
+											"text": "In the court of you today "
+										},
+										{
+											"start": 24800,
+											"end": 25800,
+											"text": "Will present film "
+										},
+										{
+											"start": 25800,
+											"end": 26500,
+											"text": "World such "
+										},
+										{
+											"start": 26500,
+											"end": 27500,
+											"text": "To The Shining Star "
+										},
+										{
+											"start": 27500,
+											"end": 28800,
+											"text": "that you "
+										},
+										{
+											"start": 28800,
+											"end": 29600,
+											"text": "Each character "
+										},
+										{
+											"start": 29600,
+											"end": 30400,
+											"text": "Made love in "
+										},
+										{
+											"start": 30400,
+											"end": 31800,
+											"text": "that you "
+										},
+										{
+											"start": 31800,
+											"end": 32700,
+											"text": "Made so big "
+										},
+										{
+											"start": 33400,
+											"end": 34900,
+											"text": "of their struggle "
+										},
+										{
+											"start": 34900,
+											"end": 35300,
+											"text": "Story"
+										},
+										{
+											"start": 35300,
+											"end": 36900,
+											"text": "of their success "
+										},
+										{
+											"start": 36900,
+											"end": 37200,
+											"text": "Story"
+										},
+										{
+											"start": 37200,
+											"end": 38800,
+											"text": "Any youngster's "
+										},
+										{
+											"start": 38800,
+											"end": 39900,
+											"text": "Inspiration for "
+										},
+										{
+											"start": 39900,
+											"end": 40900,
+											"text": "Can be the source of "
+										},
+										{
+											"start": 40900,
+											"end": 42700,
+											"text": "Please Wellcome"
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_en.srt",
+										"version": 1537011395,
+										"signature": "fa71c9f7c2da00a7f8d972a46a4de9db76dcff3c",
+										"resource_type": "raw",
+										"created_at": "2018-09-15T11:36:35Z",
+										"tags": [],
+										"bytes": 1347,
+										"type": "upload",
+										"etag": "cc661a173a1ca1fb1f27cfe931c6aca8",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1537011395/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_en.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1537011395/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_en.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nawazuddin_siddiqui_in_aap_ki_adalat_full_interview"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
