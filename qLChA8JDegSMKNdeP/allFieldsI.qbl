@@ -85,7 +85,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "black"
-								}
+								},
+								"viewSelection": 50
 							},
 							{
 								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/white_t1rjcn",
@@ -122,7 +123,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "white"
-								}
+								},
+								"viewSelection": 75
 							}
 						],
 						"fieldChildren": []
@@ -221,7 +223,7 @@
 									"caption": "",
 									"seoSuffix": "nsw_health"
 								},
-								"viewSelection": 50
+								"viewSelection": 125
 							}
 						],
 						"fieldChildren": []
