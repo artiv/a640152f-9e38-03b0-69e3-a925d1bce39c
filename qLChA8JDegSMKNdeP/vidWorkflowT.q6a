@@ -4,16 +4,61 @@
 		"fileTemplateGeneral": {
 			"fileTemplateGuid": "3c39599b-e57f-3bd9-4555-d7984a224c99",
 			"fileTemplateDate": "2018-09-15T10:51:03.129Z",
-			"fileTemplateCollections": [],
-			"fileTemplateCollectionsForTranslation": []
+			"fileTemplateCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
 		},
 		"fileTemplateLanguage": {
 			"primaryLanguage": "mNoBFtySGcEGRpKRh",
-			"possibleLanguages": []
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT"
+			]
 		},
 		"fileTemplateStructure": {
 			"fileTemplateGenerics": [],
-			"fileTemplateFields": []
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "86af2f9a-dade-f44c-c764-9903da260cc1",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "information",
+						"fieldKey": "video key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
 		},
 		"fileTemplatePublish": {
 			"fileTemplateTypes": []
