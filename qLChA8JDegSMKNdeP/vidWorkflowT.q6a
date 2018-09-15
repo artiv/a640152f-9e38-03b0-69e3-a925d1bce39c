@@ -1,0 +1,22 @@
+{
+	"fileName": "vidWorkflowT.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "3faa41f9-3c43-c062-dd31-305301cc93cc",
+			"fileTemplateDate": "2018-09-15T10:35:56.068Z",
+			"fileTemplateCollections": [],
+			"fileTemplateCollectionsForTranslation": []
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "s92WwXsGAnDHNAHiT",
+			"possibleLanguages": []
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
