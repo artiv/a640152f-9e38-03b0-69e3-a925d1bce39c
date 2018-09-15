@@ -1,0 +1,69 @@
+{
+	"fileName": "vidWorkflowI.qbl",
+	"fileTemplateRepo": "a640152f-9e38-03b0-69e3-a925d1bce39c",
+	"fileTemplatePath": "qLChA8JDegSMKNdeP/vidWorkflowT.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "da998d32-004c-f291-d67e-32dae672c62a",
+			"fileItemDate": "2018-09-15T11:03:18.905Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "mNoBFtySGcEGRpKRh",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "86af2f9a-dade-f44c-c764-9903da260cc1",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "information",
+						"fieldKey": "video key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
