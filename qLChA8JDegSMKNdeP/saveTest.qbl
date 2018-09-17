@@ -85,7 +85,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "sample"
-								}
+								},
+								"viewSelection": 75
 							}
 						],
 						"fieldChildren": []
