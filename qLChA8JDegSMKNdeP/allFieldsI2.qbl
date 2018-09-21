@@ -163,7 +163,89 @@
 					"fieldSpecific": {
 						"fieldInformation": "textbox info",
 						"fieldKey": "textbox key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {
+									"0": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1530080236/black.png",
+											"height": "auto",
+											"width": "auto"
+										}
+									},
+									"1": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg",
+											"height": "auto",
+											"width": "auto"
+										}
+									}
+								},
+								"blocks": [
+									{
+										"key": "av3s3",
+										"text": "my name",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "6odp1",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 0
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "6r32u",
+										"text": "and something else",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "548kv",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 1
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "11q04",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
