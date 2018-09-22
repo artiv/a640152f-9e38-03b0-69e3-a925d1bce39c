@@ -177,7 +177,28 @@
 			]
 		},
 		"fileTemplatePublish": {
-			"fileTemplateTypes": []
+			"fileTemplateTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "426b6b21-212f-7c74-857f-bf58ca77c2cb",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "",
+						"publishTypeFrontMatter": [
+							"2b38c00b-515c-0dc0-6443-ba301b37b31e"
+						],
+						"publishTypeBackMatter": [
+							"f6983f41-bb9e-ccac-3f57-35e320e32a54"
+						],
+						"publishTypeTargets": []
+					}
+				}
+			]
 		}
 	}
 }
