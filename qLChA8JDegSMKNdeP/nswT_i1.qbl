@@ -166,7 +166,12 @@
 							"bbc9a6c2-a5c2-c775-8225-2845b8ad6e78"
 						],
 						"genericKey": "PART 1",
-						"genericValues": []
+						"genericValues": [
+							[
+								"dbf1c9dc-0bf7-f369-2851-c477c89657df",
+								"a9e5ce04-fdbb-178c-53e2-6e0f9d271292"
+							]
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -275,7 +280,12 @@
 							"d0b9c0ee-2c2e-03d3-d021-05ba98e73293"
 						],
 						"genericKey": "PART 2",
-						"genericValues": []
+						"genericValues": [
+							[
+								"a1d36dd7-7bc8-facf-a066-5b9415e5b5e3",
+								"5c67af36-7aab-6e06-5f03-b018d0006e00"
+							]
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -1985,6 +1995,142 @@
 								],
 								"label": "बैंक उप अध्ययन के लिए सहमति: EpiAxis चरण I, ' ड्राई रन '"
 							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "dbf1c9dc-0bf7-f369-2851-c477c89657df",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "परिचय",
+						"genericChildren": [],
+						"genericKey": "1.1",
+						"genericValues": [
+							"आप कैंसर विज्ञान शिक्षा और अनुसंधान अनुवाद (कंसर्ट) के लिए केंद्र में भाग लेने के लिए आमंत्रित कर रहे है बैंक । कॉंसर्ट बैंक ' एक बैंक ' है कि इकट्ठा करने और कैंसर के नमूनों और कैंसर अनुसंधान परियोजनाओं के लिए जानकारी वितरित करना है । आप इस परियोजना में भाग लेने के कारण आप कैंसर हो सकता है आमंत्रित कर रहे हैं । आप ऊतक और रक्त जो रोकथाम, जल्दी पता लगाने, निदान और कैंसर के उपचार के लिए अनुसंधान में भविष्य के उपयोग के लिए संग्रहीत किया जाएगा का एक नमूना दान करने के लिए कहा जाएगा । यह भागीदार सूचना पत्रक/सहमति फार्म आप संगीत के बारे में बताता है कि बैंक । यह बताता है कि हम कौन हैं, हम क्या करते हैं और आपकी भागीदारी में क्या शामिल है । जानने के क्या आप अगर आप इस परियोजना में भाग लेने के लिए चाहते तय में मदद मिलेगी शामिल है । कृपया इस जानकारी को ध्यानपूर्वक पढ़ें । कुछ भी है कि आप समझ में नहीं आता के बारे में प्रश्न पूछें या के बारे में अधिक जानना चाहते हैं । तय करने से पहले या नहीं भाग लेने के लिए, आप इसके बारे में एक रिश्तेदार, दोस्त या अपने स्थानीय चिकित्सक के साथ बात करना चाहते हो सकता है । इस शोध में भागीदारी स्वैच्छिक है. यदि आप भाग लेने की इच्छा नहीं है, तो आप के लिए नहीं है । तुम सबसे अच्छा संभव देखभाल प्राप्त होगा या नहीं, आप भाग लेते हैं । यदि आप निर्णय लेते है कि आप इस परियोजना में भाग लेना चाहते हैं, तो आपको सहमति अनुभाग पर हस्ताक्षर करने के लिए कहा जाएगा । यह हस्ताक्षर करके आप हमें बता रहे हैं कि आप: • समझ क्या आप पढ़ें • संगीत कार्यक्रम में भाग लेने के लिए सहमति • अपने ऊतक, रक्त और स्वास्थ्य जानकारी के उपयोग के लिए सहमति के रूप में वर्णित है । आप इस भागीदार सूचना और सहमति फार्म की एक प्रति रखने के लिए दिया जाएगा ।"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "a9e5ce04-fdbb-178c-53e2-6e0f9d271292",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "क्या है कंसर्ट के प्रयोजन के लिए बैंक?",
+						"genericChildren": [],
+						"genericKey": "1.2",
+						"genericValues": [
+							"\"बैंकिंग\" भविष्य के अनुसंधान अध्ययन के लिए ऊतक, रक्त और/ एक \"बैंक\", इस संगीत कार्यक्रम की तरह बैंक, एक जगह है जहां ऊतक, रक्त और/ हम आपके ऊतक, रक्त और भविष्य के अनुसंधान के लिए जानकारी की दुकान की अनुमति की मांग कर रहे हैं । हम चाहेंगे कि आप इस बैंक में हिस्सा लेने पर विचार करें क्योंकि आपको कैंसर हो सकता है । भविष्य में, इस और अंय चिकित्सा और अनुसंधान केंद्रों पर अंय डॉक्टरों और वैज्ञानिकों को अपने ऊतक, रक्त और जानकारी का उपयोग करने के लिए कैंसर या नए उपचार के लिए नए परीक्षणों की खोज की मदद के बारे में जानने के कैंसर या इलाज को रोकने के लिए हो सकता है ।"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "a1d36dd7-7bc8-facf-a066-5b9415e5b5e3",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "कंसर्ट का संचालन करने वाला बैंक कौन है?",
+						"genericChildren": [],
+						"genericKey": "2.9",
+						"genericValues": [
+							"कॉंसर्ट जैव बैंक जल्द ही ली प्रोफेसर द्वारा देखा जा रहा है और एप्लाइड मेडिकल रिसर्च के लिए Ingham संस्थान में वैज्ञानिकों द्वारा आयोजित, एक साथ एनएसडब्ल्यू में प्रमुख अस्पतालों में से कई पर डॉक्टरों के साथ ।"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "5c67af36-7aab-6e06-5f03-b018d0006e00",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "जो संगीत कार्यक्रम है बैंक के वित्तपोषण?",
+						"genericChildren": [],
+						"genericKey": "2.10",
+						"genericValues": [
+							"कॉंसर्ट बैंक कैंसर संस्थान एनएसडब्ल्यू द्वारा वित्त पोषित है ।"
 						]
 					},
 					"genericWorking": {
