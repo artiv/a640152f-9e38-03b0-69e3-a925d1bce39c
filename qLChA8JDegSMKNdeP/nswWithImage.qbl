@@ -1854,8 +1854,8 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
+									"altText": "alternative text",
+									"caption": "white description",
 									"seoSuffix": "black"
 								}
 							}
