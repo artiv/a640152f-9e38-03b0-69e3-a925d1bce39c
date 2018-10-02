@@ -163,7 +163,22 @@
 					"fieldSpecific": {
 						"fieldInformation": "textbox info",
 						"fieldKey": "textbox key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "27um3",
+										"text": "f",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
