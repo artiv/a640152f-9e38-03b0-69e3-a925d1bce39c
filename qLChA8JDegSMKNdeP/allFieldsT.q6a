@@ -159,7 +159,7 @@
 						"fieldCanChild": false
 					},
 					"fieldSpecific": {
-						"fieldInformation": "textbox info",
+						"fieldInformation": "textbox information",
 						"fieldKey": "textbox key",
 						"fieldValues": [],
 						"fieldChildren": []
