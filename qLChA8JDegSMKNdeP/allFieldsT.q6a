@@ -160,7 +160,7 @@
 					},
 					"fieldSpecific": {
 						"fieldInformation": "textbox information",
-						"fieldKey": "textbox key",
+						"fieldKey": "key",
 						"fieldValues": [],
 						"fieldChildren": []
 					},
