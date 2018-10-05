@@ -82,9 +82,9 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "white"
+									"altText": "some text for rose",
+									"caption": "description for white image",
+									"seoSuffix": "rose"
 								}
 							}
 						],
