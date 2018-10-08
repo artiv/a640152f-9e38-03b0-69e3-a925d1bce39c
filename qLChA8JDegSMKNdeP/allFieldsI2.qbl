@@ -211,7 +211,8 @@
 											"src": "https://res.cloudinary.com/q6a/image/upload/v1539028721/zA3KjHcEJE362dXLW/ehkumox6n6h2icjcuxac.png",
 											"height": "auto",
 											"width": "auto",
-											"alt": ""
+											"alt": "",
+											"alignment": "left"
 										}
 									},
 									"1": {
@@ -220,7 +221,8 @@
 										"data": {
 											"src": "https://res.cloudinary.com/q6a/image/upload/v1530080236/black.png",
 											"height": "auto",
-											"width": "auto"
+											"width": "auto",
+											"alignment": "right"
 										}
 									},
 									"2": {
