@@ -283,7 +283,22 @@
 									"altText": "alt",
 									"caption": "",
 									"seoSuffix": "warren"
-								}
+								},
+								"videoOverlays": [
+									{
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_aetdij_tges8g",
+										"x": "0",
+										"y": "0",
+										"width": "20",
+										"height": "20",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "4"
+									}
+								],
+								"viewSelection": 75
 							}
 						],
 						"fieldChildren": []
