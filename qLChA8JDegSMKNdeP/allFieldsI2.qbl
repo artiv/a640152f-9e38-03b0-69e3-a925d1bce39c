@@ -298,7 +298,8 @@
 										"end_offset": "4"
 									}
 								],
-								"viewSelection": 75
+								"viewSelection": 75,
+								"isMuted": true
 							}
 						],
 						"fieldChildren": []
