@@ -374,7 +374,162 @@
 								"path": "v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.mp3",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.jpg",
 								"overlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Arial",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:00,000 --> 00:00:06,900\nशुरू होने  जा  रहा \n\n2\n00:00:06,900 --> 00:00:07,200\nहै\n\n3\n00:00:07,200 --> 00:00:08,700\nदेश का  सबसे \n\n4\n00:00:08,700 --> 00:00:09,400\nबड़ा\n\n5\n00:00:09,400 --> 00:00:10,100\nमुकदमा\n\n6\n00:00:10,100 --> 00:00:11,600\nआप की \n\n7\n00:00:11,600 --> 00:00:12,300\nअदालत रजत \n\n8\n00:00:12,300 --> 00:00:13,700\nशर्मा\n\n9\n00:00:13,700 --> 00:00:14,300\nके साथ \n\n10\n00:00:14,300 --> 00:00:24,800\nआप की  अदालत  में  आज \n\n11\n00:00:24,800 --> 00:00:25,800\nपेश करेंगे  फिल्मी \n\n12\n00:00:25,800 --> 00:00:26,500\nदुनिया कैसे \n\n13\n00:00:26,500 --> 00:00:27,500\nचमकते सितारे  को \n\n14\n00:00:27,500 --> 00:00:28,800\nजिसे आपने \n\n15\n00:00:28,800 --> 00:00:29,600\nहर किरदार \n\n16\n00:00:29,600 --> 00:00:30,300\nमें प्यार  किया \n\n17\n00:00:30,300 --> 00:00:31,800\nजिसे आपने \n\n18\n00:00:31,800 --> 00:00:32,700\nइतना बड़ा  बनाया \n\n19\n00:00:33,800 --> 00:00:34,900\nइनके संघर्ष  की \n\n20\n00:00:34,900 --> 00:00:35,300\nकहानी\n\n21\n00:00:35,300 --> 00:00:36,900\nइन की  सफलता  की  कहानी \n\n22\n00:00:36,900 --> 00:00:38,900\nकिसी भी  नौजवान  के \n\n23\n00:00:38,900 --> 00:00:39,900\nलिए प्रेरणा \n\n24\n00:00:39,900 --> 00:00:40,900\nका स्रोत  हो  सकती  है \n\n25\n00:00:40,900 --> 00:00:42,400\nप्लीज वेलकम \n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 6900,
+											"text": "शुरू होने  जा  रहा "
+										},
+										{
+											"start": 6900,
+											"end": 7200,
+											"text": "है"
+										},
+										{
+											"start": 7200,
+											"end": 8700,
+											"text": "देश का  सबसे "
+										},
+										{
+											"start": 8700,
+											"end": 9400,
+											"text": "बड़ा"
+										},
+										{
+											"start": 9400,
+											"end": 10100,
+											"text": "मुकदमा"
+										},
+										{
+											"start": 10100,
+											"end": 11600,
+											"text": "आप की "
+										},
+										{
+											"start": 11600,
+											"end": 12300,
+											"text": "अदालत रजत "
+										},
+										{
+											"start": 12300,
+											"end": 13700,
+											"text": "शर्मा"
+										},
+										{
+											"start": 13700,
+											"end": 14300,
+											"text": "के साथ "
+										},
+										{
+											"start": 14300,
+											"end": 24800,
+											"text": "आप की  अदालत  में  आज "
+										},
+										{
+											"start": 24800,
+											"end": 25800,
+											"text": "पेश करेंगे  फिल्मी "
+										},
+										{
+											"start": 25800,
+											"end": 26500,
+											"text": "दुनिया कैसे "
+										},
+										{
+											"start": 26500,
+											"end": 27500,
+											"text": "चमकते सितारे  को "
+										},
+										{
+											"start": 27500,
+											"end": 28800,
+											"text": "जिसे आपने "
+										},
+										{
+											"start": 28800,
+											"end": 29600,
+											"text": "हर किरदार "
+										},
+										{
+											"start": 29600,
+											"end": 30300,
+											"text": "में प्यार  किया "
+										},
+										{
+											"start": 30300,
+											"end": 31800,
+											"text": "जिसे आपने "
+										},
+										{
+											"start": 31800,
+											"end": 32700,
+											"text": "इतना बड़ा  बनाया "
+										},
+										{
+											"start": 33800,
+											"end": 34900,
+											"text": "इनके संघर्ष  की "
+										},
+										{
+											"start": 34900,
+											"end": 35300,
+											"text": "कहानी"
+										},
+										{
+											"start": 35300,
+											"end": 36900,
+											"text": "इन की  सफलता  की  कहानी "
+										},
+										{
+											"start": 36900,
+											"end": 38900,
+											"text": "किसी भी  नौजवान  के "
+										},
+										{
+											"start": 38900,
+											"end": 39900,
+											"text": "लिए प्रेरणा "
+										},
+										{
+											"start": 39900,
+											"end": 40900,
+											"text": "का स्रोत  हो  सकती  है "
+										},
+										{
+											"start": 40900,
+											"end": 42400,
+											"text": "प्लीज वेलकम"
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn_jvQdmL7EYgkXMqsXp_hi-IN.srt",
+										"version": 1539667546,
+										"signature": "7e1aa3d5a5ef26d986ead77cfe9c4eb668035afb",
+										"resource_type": "raw",
+										"created_at": "2018-10-16T05:25:46Z",
+										"tags": [],
+										"bytes": 1660,
+										"type": "upload",
+										"etag": "43012ced6e21628ecde5a54313639c29",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1539667546/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn_jvQdmL7EYgkXMqsXp_hi-IN.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1539667546/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn_jvQdmL7EYgkXMqsXp_hi-IN.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"embed": {
 									"width": 0,
 									"height": 0,
