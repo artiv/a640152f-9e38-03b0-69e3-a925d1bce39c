@@ -341,7 +341,58 @@
 					"fieldSpecific": {
 						"fieldInformation": "audio information",
 						"fieldKey": "audio key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn",
+								"version": 1539666479,
+								"signature": "749abe346b089d6241664430a1685105e7d716cf",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2018-10-16T05:07:59Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 960826,
+								"type": "upload",
+								"etag": "5ffb48b58d342fa136203e6b9af32cc3",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.mp3",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128047,
+								"duration": 60.029388,
+								"original_filename": "Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8",
+								"path": "v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.mp3",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1539666479/a640152f-9e38-03b0-69e3-a925d1bce39c/Nawazuddin_Siddiqui_in_Aap_Ki_Adalat_Full_Interview_jvarw8_rgzprn.jpg",
+								"overlays": [],
+								"captions": {},
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nawazuddin_siddiqui_in_aap_ki_adalat_full_interview_jvarw8"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
