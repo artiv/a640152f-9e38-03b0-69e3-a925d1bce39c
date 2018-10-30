@@ -71,7 +71,72 @@
 								"original_filename": "sample",
 								"path": "v1540928949/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_t9chst.jpg",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1540928949/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_t9chst.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "3gbu9",
+													"text": "some text",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 9,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 9,
+															"style": "ITALIC"
+														},
+														{
+															"offset": 0,
+															"length": 9,
+															"style": "UNDERLINE"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "center"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": true,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "center",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "some text"
+									}
+								],
 								"embed": {
 									"width": 864,
 									"height": 576,
