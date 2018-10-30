@@ -518,7 +518,18 @@
 										"text": "Testing if translation works",
 										"type": "unstyled",
 										"depth": 0,
-										"inlineStyleRanges": [],
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 28,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 28,
+												"style": "ITALIC"
+											}
+										],
 										"entityRanges": [],
 										"data": {}
 									},
@@ -542,9 +553,17 @@
 										"text": "Below the image",
 										"type": "unstyled",
 										"depth": 0,
-										"inlineStyleRanges": [],
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 15,
+												"style": "UNDERLINE"
+											}
+										],
 										"entityRanges": [],
-										"data": {}
+										"data": {
+											"text-align": "center"
+										}
 									}
 								]
 							}
