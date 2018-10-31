@@ -20,7 +20,96 @@
 			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "fa934b54-1b79-dd3b-22a1-ae8ed929bbac",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "key",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "7e99d",
+										"text": "this is some blurb center",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 25,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "center"
+										}
+									},
+									{
+										"key": "3v7r7",
+										"text": "and some styling",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 16,
+												"style": "ITALIC"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "cuejg",
+										"text": "bold right",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 10,
+												"style": "BOLD"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "right"
+										}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": [
 				{
 					"fieldGeneral": {
