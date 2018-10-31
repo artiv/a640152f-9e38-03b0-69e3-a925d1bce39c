@@ -428,7 +428,142 @@
 					"fieldSpecific": {
 						"fieldInformation": "textbox information what",
 						"fieldKey": "key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "475o3",
+										"text": "BOLD",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 4,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 4,
+												"style": "fontsize-24"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "left"
+										}
+									},
+									{
+										"key": "endiq",
+										"text": "UNDER",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 5,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "center"
+										}
+									},
+									{
+										"key": "43odu",
+										"text": "ITALICS",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 7,
+												"style": "ITALIC"
+											}
+										],
+										"entityRanges": [],
+										"data": {
+											"text-align": "right"
+										}
+									}
+								]
+							},
+							{
+								"entityMap": {
+									"0": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									}
+								},
+								"blocks": [
+									{
+										"key": "bvrf2",
+										"text": "SOME IMAGE ABOVE",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "af41r",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "4h9qc",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "cgitq",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 0
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "87j16",
+										"text": "BELOW",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 5,
+												"style": "fontsize-30"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
