@@ -21,7 +21,45 @@
 			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "448a6268-5247-1dbd-57fd-d9dc1c973dea",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "key",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "simple",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": []
 		},
 		"fileTemplatePublish": {
