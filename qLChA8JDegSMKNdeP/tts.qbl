@@ -214,7 +214,28 @@
 					"fieldSpecific": {
 						"fieldInformation": "audio information",
 						"fieldKey": "audio key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"captions": {
+									"captionString": "this is some text"
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
