@@ -214,7 +214,29 @@
 					"fieldSpecific": {
 						"fieldInformation": "audio information",
 						"fieldKey": "audio key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "86f0d2bb-3ba5-10e1-33b6-1d4d2fe5b71e",
+								"captions": {
+									"captionString": "some test here needs to be spoken ouy"
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
