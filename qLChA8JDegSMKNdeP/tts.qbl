@@ -214,7 +214,55 @@
 					"fieldSpecific": {
 						"fieldInformation": "audio information",
 						"fieldKey": "audio key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "3fe8e238-4efe-8735-2ea4-e5b9429ecf9b",
+								"captions": {
+									"captionString": "please speak out this",
+									"font": "Arial",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"asset": {
+										"public_id": "3fe8e238-4efe-8735-2ea4-e5b9429ecf9b_wqXzZFD34nMhKT2qJ_en.srt",
+										"version": 1541657907,
+										"signature": "46323726217ca957b8de98f2c1f0702bb4d0f980",
+										"resource_type": "raw",
+										"created_at": "2018-11-08T06:18:27Z",
+										"tags": [],
+										"bytes": 21,
+										"type": "upload",
+										"etag": "1ff07766b01296aac626d1a34124a529",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1541657907/3fe8e238-4efe-8735-2ea4-e5b9429ecf9b_wqXzZFD34nMhKT2qJ_en.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1541657907/3fe8e238-4efe-8735-2ea4-e5b9429ecf9b_wqXzZFD34nMhKT2qJ_en.srt",
+										"access_mode": "public"
+									}
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
