@@ -164,7 +164,125 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Textbox here?",
 						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {
+									"0": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									},
+									"1": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/raw/upload/v1542074980/a640152f-9e38-03b0-69e3-a925d1bce39c/kqwebc4o3dgoduruhwnr",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									},
+									"2": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/video/upload/v1541658396/a640152f-9e38-03b0-69e3-a925d1bce39c/AH_1_Final_in4cqb_aetdij_tges8g_vflo7s_qtbyq3.mp3",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									}
+								},
+								"blocks": [
+									{
+										"key": "gtcd",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "8mor6",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 0
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "fprkl",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "81p92",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 1
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "89s2m",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "74bla",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 2
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "au6qo",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
