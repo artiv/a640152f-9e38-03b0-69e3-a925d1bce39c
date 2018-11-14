@@ -171,7 +171,7 @@
 										"type": "IMAGE",
 										"mutability": "MUTABLE",
 										"data": {
-											"src": "https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg",
+											"src": "https://res.cloudinary.com/q6a/video/upload/v1542221033/a640152f-9e38-03b0-69e3-a925d1bce39c/jweze1hz1e0ypt6chtbq.webm",
 											"height": "auto",
 											"width": "auto",
 											"alt": ""
@@ -181,13 +181,23 @@
 										"type": "IMAGE",
 										"mutability": "MUTABLE",
 										"data": {
-											"src": "https://res.cloudinary.com/q6a/raw/upload/v1542074980/a640152f-9e38-03b0-69e3-a925d1bce39c/kqwebc4o3dgoduruhwnr",
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg",
 											"height": "auto",
 											"width": "auto",
 											"alt": ""
 										}
 									},
 									"2": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/raw/upload/v1542074980/a640152f-9e38-03b0-69e3-a925d1bce39c/kqwebc4o3dgoduruhwnr",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									},
+									"3": {
 										"type": "IMAGE",
 										"mutability": "MUTABLE",
 										"data": {
@@ -209,7 +219,7 @@
 										"data": {}
 									},
 									{
-										"key": "8mor6",
+										"key": "cp943",
 										"text": " ",
 										"type": "atomic",
 										"depth": 0,
@@ -219,6 +229,30 @@
 												"offset": 0,
 												"length": 1,
 												"key": 0
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "231ep",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "8mor6",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 1
 											}
 										],
 										"data": {}
@@ -242,7 +276,7 @@
 											{
 												"offset": 0,
 												"length": 1,
-												"key": 1
+												"key": 2
 											}
 										],
 										"data": {}
@@ -266,7 +300,7 @@
 											{
 												"offset": 0,
 												"length": 1,
-												"key": 2
+												"key": 3
 											}
 										],
 										"data": {}
