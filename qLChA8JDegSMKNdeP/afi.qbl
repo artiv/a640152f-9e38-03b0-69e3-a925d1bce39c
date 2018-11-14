@@ -131,7 +131,55 @@
 								"original_filename": "NSW_Health",
 								"path": "v1542223745/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_ox8gzl.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1542223745/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_ox8gzl.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "4",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "14tt8",
+													"text": "testing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "testing"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
