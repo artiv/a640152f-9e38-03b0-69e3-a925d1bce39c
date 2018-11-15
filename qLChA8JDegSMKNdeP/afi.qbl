@@ -381,7 +381,57 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Textbox here?",
 						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {
+									"0": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/q6a/image/upload/v1530080236/black.png",
+											"height": "auto",
+											"width": "auto",
+											"alt": ""
+										}
+									}
+								},
+								"blocks": [
+									{
+										"key": "eq24o",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "cu6mb",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 0
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "32esp",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
