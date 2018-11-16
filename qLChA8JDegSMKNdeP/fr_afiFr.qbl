@@ -343,7 +343,29 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Audio here?",
 						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "362604eb-fc46-577a-95de-5425694672af",
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:01,800\nExpériences de chacun \n\n2\n00:00:01,800 --> 00:00:02,600\nl'anxiété à certains \n\n3\n00:00:02,600 --> 00:00:03,700\ntemps, mais un dans \n\n4\n00:00:03,700 --> 00:00:04,600\n7 seront affectés \n\n5\n00:00:04,600 --> 00:00:05,400\npar une anxiété \n\n6\n00:00:05,400 --> 00:00:06,800\ndésordre beaucoup peuvent \n\n7\n00:00:06,800 --> 00:00:07,500\nVivez avec anxiété \n\n8\n00:00:07,500 --> 00:00:08,800\ndésordre et non \n\n9\n00:00:08,800 --> 00:00:09,800\nréaliser quand \n\n10\n00:00:09,800 --> 00:00:10,800\nl'anxiété affecte \n\n11\n00:00:10,800 --> 00:00:11,500\nvotre vie quotidienne. \n\n12\n00:00:11,500 --> 00:00:12,800\nIl est temps d'obtenir de l'aide \n\n13\n00:00:12,800 --> 00:00:13,800\npour en savoir plus sur \n\n14\n00:00:13,800 --> 00:00:14,200\nAnxiété\n\n15\n00:00:14,200 --> 00:00:15,500\nVisitez votre GP \n\n16\n00:00:15,500 --> 00:00:16,900\naller à la compréhension \n\n17\n00:00:16,900 --> 00:00:17,100\nAnxiété\n\n18\n00:00:17,100 --> 00:00:18,600\ndotcom.au\n\n19\n00:00:18,600 --> 00:00:19,900\nou appeler l'anxiété \n\n20\n00:00:19,900 --> 00:00:20,700\nligne d'assistance sur \n\n21\n00:00:20,700 --> 00:00:23,700\n1300794919 à \n\n22\n00:00:23,700 --> 00:00:24,900\nparce qu'il y a une raison \n\n23\n00:00:24,900 --> 00:00:25,600\nvous vous sentez comme ça, \n\n24\n00:00:25,600 --> 00:00:26,700\nmais il n'y a pas \n\n25\n00:00:26,700 --> 00:00:27,500\nraison pour laquelle vous devez.\n"
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
