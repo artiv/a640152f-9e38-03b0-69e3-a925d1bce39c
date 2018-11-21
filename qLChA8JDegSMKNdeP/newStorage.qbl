@@ -197,7 +197,282 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Arial",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:00,000 --> 00:00:05,900\nAn\n\n2\n00:00:05,900 --> 00:00:06,800\nunderstanding cost  of \n\n3\n00:00:06,800 --> 00:00:07,900\nhealthcare one  is \n\n4\n00:00:07,900 --> 00:00:08,900\nable to  do \n\n5\n00:00:08,900 --> 00:00:10,800\na number  of  things  better \n\n6\n00:00:10,800 --> 00:00:12,900\nmanagement is \n\n7\n00:00:12,900 --> 00:00:13,900\nabsolutely\n\n8\n00:00:13,900 --> 00:00:14,800\nfundamental\n\n9\n00:00:14,800 --> 00:00:15,800\nthe New  South \n\n10\n00:00:15,800 --> 00:00:16,900\nWales health \n\n11\n00:00:16,900 --> 00:00:17,600\nstrategic\n\n12\n00:00:17,600 --> 00:00:18,100\nplan.\n\n13\n00:00:18,100 --> 00:00:19,900\nOne of  our \n\n14\n00:00:19,900 --> 00:00:20,500\npriority\n\n15\n00:00:20,500 --> 00:00:21,800\nis better \n\n16\n00:00:21,800 --> 00:00:22,400\nvalue care. \n\n17\n00:00:22,400 --> 00:00:23,700\nIt's a  rich \n\n18\n00:00:23,700 --> 00:00:24,100\ninformation\n\n19\n00:00:24,100 --> 00:00:25,700\nsource, and  it  means \n\n20\n00:00:25,700 --> 00:00:26,600\nour\n\n21\n00:00:26,600 --> 00:00:27,900\nfinancial data  from \n\n22\n00:00:27,900 --> 00:00:28,600\nour financial \n\n23\n00:00:28,600 --> 00:00:29,900\nsystems to  our \n\n24\n00:00:29,900 --> 00:00:30,800\nclinical data' \n\n25\n00:00:30,800 --> 00:00:31,700\nfrom our  patient \n\n26\n00:00:31,700 --> 00:00:32,600\nsystem for \n\n27\n00:00:32,600 --> 00:00:37,900\ncollaboration cross \n\n28\n00:00:37,900 --> 00:00:38,500\nthe system \n\n29\n00:00:38,500 --> 00:00:39,900\nthe last  5  years \n\n30\n00:00:39,900 --> 00:00:40,900\nof being  5 \n\n31\n00:00:40,900 --> 00:00:41,500\nyears of \n\n32\n00:00:41,500 --> 00:00:43,700\nExtraordinary\n\n33\n00:00:43,700 --> 00:00:44,500\ngrowth\n\n34\n00:00:44,500 --> 00:00:45,700\nin very \n\n35\n00:00:45,700 --> 00:00:46,900\nclose daily \n\n36\n00:00:46,900 --> 00:00:47,900\ncollaboration\n\n37\n00:00:47,900 --> 00:00:48,800\nwith my  clinical \n\n38\n00:00:48,800 --> 00:00:49,800\nteams in  the \n\n39\n00:00:49,800 --> 00:00:50,500\nway in  which  we \n\n40\n00:00:50,500 --> 00:00:51,200\njointly\n\n41\n00:00:51,200 --> 00:00:52,600\nrun. The  business \n\n42\n00:00:52,600 --> 00:00:53,900\nthe way  in  which \n\n43\n00:00:53,900 --> 00:00:54,600\nwe jointly \n\n44\n00:00:54,600 --> 00:00:55,900\ntalked about  and  care  about \n\n45\n00:00:55,900 --> 00:00:56,800\nthe experience  of \n\n46\n00:00:56,800 --> 00:00:57,900\npatient and  the \n\n47\n00:00:57,900 --> 00:00:58,800\nway in  which  we  are \n\n48\n00:00:58,800 --> 00:00:59,900\nimagining.\n\n49\n00:01:00,000 --> 00:01:00,400\nfuture\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 5900,
+											"text": "An"
+										},
+										{
+											"start": 5900,
+											"end": 6800,
+											"text": "understanding cost  of "
+										},
+										{
+											"start": 6800,
+											"end": 7900,
+											"text": "healthcare one  is "
+										},
+										{
+											"start": 7900,
+											"end": 8900,
+											"text": "able to  do "
+										},
+										{
+											"start": 8900,
+											"end": 10800,
+											"text": "a number  of  things  better "
+										},
+										{
+											"start": 10800,
+											"end": 12900,
+											"text": "management is "
+										},
+										{
+											"start": 12900,
+											"end": 13900,
+											"text": "absolutely"
+										},
+										{
+											"start": 13900,
+											"end": 14800,
+											"text": "fundamental"
+										},
+										{
+											"start": 14800,
+											"end": 15800,
+											"text": "the New  South "
+										},
+										{
+											"start": 15800,
+											"end": 16900,
+											"text": "Wales health "
+										},
+										{
+											"start": 16900,
+											"end": 17600,
+											"text": "strategic"
+										},
+										{
+											"start": 17600,
+											"end": 18100,
+											"text": "plan."
+										},
+										{
+											"start": 18100,
+											"end": 19900,
+											"text": "One of  our "
+										},
+										{
+											"start": 19900,
+											"end": 20500,
+											"text": "priority"
+										},
+										{
+											"start": 20500,
+											"end": 21800,
+											"text": "is better "
+										},
+										{
+											"start": 21800,
+											"end": 22400,
+											"text": "value care. "
+										},
+										{
+											"start": 22400,
+											"end": 23700,
+											"text": "It's a  rich "
+										},
+										{
+											"start": 23700,
+											"end": 24100,
+											"text": "information"
+										},
+										{
+											"start": 24100,
+											"end": 25700,
+											"text": "source, and  it  means "
+										},
+										{
+											"start": 25700,
+											"end": 26600,
+											"text": "our"
+										},
+										{
+											"start": 26600,
+											"end": 27900,
+											"text": "financial data  from "
+										},
+										{
+											"start": 27900,
+											"end": 28600,
+											"text": "our financial "
+										},
+										{
+											"start": 28600,
+											"end": 29900,
+											"text": "systems to  our "
+										},
+										{
+											"start": 29900,
+											"end": 30800,
+											"text": "clinical data' "
+										},
+										{
+											"start": 30800,
+											"end": 31700,
+											"text": "from our  patient "
+										},
+										{
+											"start": 31700,
+											"end": 32600,
+											"text": "system for "
+										},
+										{
+											"start": 32600,
+											"end": 37900,
+											"text": "collaboration cross "
+										},
+										{
+											"start": 37900,
+											"end": 38500,
+											"text": "the system "
+										},
+										{
+											"start": 38500,
+											"end": 39900,
+											"text": "the last  5  years "
+										},
+										{
+											"start": 39900,
+											"end": 40900,
+											"text": "of being  5 "
+										},
+										{
+											"start": 40900,
+											"end": 41500,
+											"text": "years of "
+										},
+										{
+											"start": 41500,
+											"end": 43700,
+											"text": "Extraordinary"
+										},
+										{
+											"start": 43700,
+											"end": 44500,
+											"text": "growth"
+										},
+										{
+											"start": 44500,
+											"end": 45700,
+											"text": "in very "
+										},
+										{
+											"start": 45700,
+											"end": 46900,
+											"text": "close daily "
+										},
+										{
+											"start": 46900,
+											"end": 47900,
+											"text": "collaboration"
+										},
+										{
+											"start": 47900,
+											"end": 48800,
+											"text": "with my  clinical "
+										},
+										{
+											"start": 48800,
+											"end": 49800,
+											"text": "teams in  the "
+										},
+										{
+											"start": 49800,
+											"end": 50500,
+											"text": "way in  which  we "
+										},
+										{
+											"start": 50500,
+											"end": 51200,
+											"text": "jointly"
+										},
+										{
+											"start": 51200,
+											"end": 52600,
+											"text": "run. The  business "
+										},
+										{
+											"start": 52600,
+											"end": 53900,
+											"text": "the way  in  which "
+										},
+										{
+											"start": 53900,
+											"end": 54600,
+											"text": "we jointly "
+										},
+										{
+											"start": 54600,
+											"end": 55900,
+											"text": "talked about  and  care  about "
+										},
+										{
+											"start": 55900,
+											"end": 56800,
+											"text": "the experience  of "
+										},
+										{
+											"start": 56800,
+											"end": 57900,
+											"text": "patient and  the "
+										},
+										{
+											"start": 57900,
+											"end": 58800,
+											"text": "way in  which  we  are "
+										},
+										{
+											"start": 58800,
+											"end": 59900,
+											"text": "imagining."
+										},
+										{
+											"start": 60000,
+											"end": 60400,
+											"text": "future"
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_ewz5dv_ztAxKreD5wbCbGtJ5_en-AU.srt",
+										"version": 1542837279,
+										"signature": "11b92e4096a9631bf8601731a24aebaef136664f",
+										"resource_type": "raw",
+										"created_at": "2018-11-21T21:54:39Z",
+										"tags": [],
+										"bytes": 2389,
+										"type": "upload",
+										"etag": "6ad7e2cd13b0d79e6de191d8c721b489",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1542837279/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_ewz5dv_ztAxKreD5wbCbGtJ5_en-AU.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1542837279/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_ewz5dv_ztAxKreD5wbCbGtJ5_en-AU.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"embed": {
 									"width": 640,
 									"height": 360,
