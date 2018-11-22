@@ -47,7 +47,7 @@
 						"genericCanChild": false
 					},
 					"genericSpecific": {
-						"genericInformation": "Please add a Text here?",
+						"genericInformation": "Please add a Text here? 1",
 						"genericChildren": [],
 						"genericParent": "",
 						"genericKey": "c9fe33d1-b66e-c10d-980d-c20e019af6d3",
@@ -131,6 +131,45 @@
 						"genericChildren": [],
 						"genericParent": "5ca1e8c5-0fe4-99b7-b239-602e3ce742c3",
 						"genericKey": "2aedc802-81ae-dbfc-6b43-4bcec113f158",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b797ab1c-f139-6492-fef5-99e8f692fbd4",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Please add a Text here? 2",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "e0b1d9e6-6e4d-16f9-a051-6a9b9704bf9d",
 						"genericValues": []
 					},
 					"genericWorking": {
