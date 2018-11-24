@@ -28,7 +28,7 @@
 			"fileItemGenerics": [
 				{
 					"genericGeneral": {
-						"genericGuid": "6aa9d5cc-50d7-a65c-b117-14d35a7a1660",
+						"genericGuid": "72f13cb8-5a16-0f21-02fc-7d61c2867faf",
 						"genericType": "genericText",
 						"genericIsVisibleCollections": [
 							"qLChA8JDegSMKNdeP"
@@ -46,14 +46,16 @@
 					"genericMeta": {
 						"genericCanTranslate": true,
 						"genericCanParent": false,
-						"genericCanChild": false
+						"genericCanChild": true
 					},
 					"genericSpecific": {
-						"genericInformation": "Please add a Text here? 1",
+						"genericInformation": "Please add a Text here?",
 						"genericChildren": [],
-						"genericParent": "",
-						"genericKey": "c9fe33d1-b66e-c10d-980d-c20e019af6d3",
-						"genericValues": []
+						"genericParent": "5ca1e8c5-0fe4-99b7-b239-602e3ce742c3",
+						"genericKey": "2aedc802-81ae-dbfc-6b43-4bcec113f158",
+						"genericValues": [
+							"parent text"
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -94,7 +96,11 @@
 						],
 						"genericParent": "",
 						"genericKey": "a8d4fa86-7de1-87ee-fa01-2283abf5b4c1",
-						"genericValues": []
+						"genericValues": [
+							[
+								"72f13cb8-5a16-0f21-02fc-7d61c2867faf"
+							]
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -172,6 +178,47 @@
 						"genericChildren": [],
 						"genericParent": "",
 						"genericKey": "e0b1d9e6-6e4d-16f9-a051-6a9b9704bf9d",
+						"genericValues": [
+							"text 2"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "72f13cb8-5a16-0f21-02fc-7d61c2867faf",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"genericIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Please add a Text here?",
+						"genericChildren": [],
+						"genericParent": "5ca1e8c5-0fe4-99b7-b239-602e3ce742c3",
+						"genericKey": "2aedc802-81ae-dbfc-6b43-4bcec113f158",
 						"genericValues": []
 					},
 					"genericWorking": {
