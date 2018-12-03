@@ -25,7 +25,42 @@
 		},
 		"fileTemplateStructure": {
 			"fileTemplateGenerics": [],
-			"fileTemplateFields": []
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fc9addfd-51ae-bf02-278d-a62141f0c7ec",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Textbox here?",
+						"fieldKey": "4617b362-9bb8-2ca6-5938-1675b884fc69",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
 		},
 		"fileTemplatePublish": {
 			"fileTemplateTypes": []
