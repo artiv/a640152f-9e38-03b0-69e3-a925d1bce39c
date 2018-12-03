@@ -59,6 +59,40 @@
 						"fieldJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "b61e6d36-4313-b6cf-d6c3-a373980f43f5",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here?",
+						"fieldKey": "7fa8a114-3172-a211-10a3-10191fac0a65",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			]
 		},
