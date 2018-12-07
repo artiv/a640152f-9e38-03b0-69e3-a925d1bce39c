@@ -307,6 +307,67 @@
 									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-_nrl"
 								},
 								"resourceFormat": "ogv"
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ChangePlan_intro_version_4a_flipped_zjjb0v",
+								"version": 1544160321,
+								"signature": "0e4e7208aebe6b0303ba0925563c2d63abf0897a",
+								"width": 1920,
+								"height": 1080,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-12-07T05:25:21Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 94745424,
+								"type": "upload",
+								"etag": "c830732704c9e7deb518646e5b851cde",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1544160321/a640152f-9e38-03b0-69e3-a925d1bce39c/ChangePlan_intro_version_4a_flipped_zjjb0v.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1544160321/a640152f-9e38-03b0-69e3-a925d1bce39c/ChangePlan_intro_version_4a_flipped_zjjb0v.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "317375",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 41,
+									"profile": "Main",
+									"bit_rate": "10779320",
+									"dar": "0:1"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 11096044,
+								"duration": 68.267867,
+								"rotation": 0,
+								"original_filename": "ChangePlan_intro_version_4a_flipped",
+								"path": "v1544160321/a640152f-9e38-03b0-69e3-a925d1bce39c/ChangePlan_intro_version_4a_flipped_zjjb0v.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1544160321/a640152f-9e38-03b0-69e3-a925d1bce39c/ChangePlan_intro_version_4a_flipped_zjjb0v.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "changeplan_intro_version_4a_flipped"
+								}
 							}
 						],
 						"fieldChildren": []
