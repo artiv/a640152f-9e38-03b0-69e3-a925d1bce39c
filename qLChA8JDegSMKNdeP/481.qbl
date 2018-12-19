@@ -89,43 +89,6 @@
 									"caption": "",
 									"seoSuffix": "sample"
 								}
-							},
-							{
-								"public_id": "sample_zgwweh",
-								"version": 1545239965,
-								"signature": "43e14c6f95e0266fa1f0645b4a5159de3f69cef8",
-								"width": 864,
-								"height": 576,
-								"format": "jpg",
-								"resource_type": "image",
-								"created_at": "2018-12-19T17:19:25Z",
-								"tags": [],
-								"bytes": 109669,
-								"type": "upload",
-								"etag": "3e297c2d8da6cb1310727332e862ece4",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/q6a/image/upload/v1545239965/sample_zgwweh.jpg",
-								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1545239965/sample_zgwweh.jpg",
-								"access_mode": "public",
-								"existing": false,
-								"original_filename": "sample",
-								"path": "v1545239965/sample_zgwweh.jpg",
-								"thumbnail_url": "https://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1545239965/sample_zgwweh.jpg",
-								"overlays": [],
-								"embed": {
-									"width": 864,
-									"height": 576,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "sample"
-								}
 							}
 						],
 						"fieldChildren": []
