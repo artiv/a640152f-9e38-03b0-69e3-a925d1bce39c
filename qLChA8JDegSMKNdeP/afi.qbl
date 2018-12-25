@@ -751,7 +751,184 @@
 								"original_filename": "NSW_Health",
 								"path": "v1544516563/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_wvpbcw.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1544516563/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_wvpbcw.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"hex": "#fffcfc",
+											"rgb": {
+												"r": 255,
+												"g": 252,
+												"b": 252,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "da01j",
+													"text": "hello world",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "hello world",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"da01j": {
+																"key": "da01j",
+																"type": "unstyled",
+																"text": "hello world",
+																"characterList": [
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "da01j",
+															"anchorOffset": 0,
+															"focusKey": "da01j",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "da01j",
+															"anchorOffset": 0,
+															"focusKey": "da01j",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"da01j": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "da01j",
+														"anchorOffset": 0,
+														"focusKey": "da01j",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"da01j": [
+															{
+																"start": 0,
+																"end": 11,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 11
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": false,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"showOriginal": false
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -766,7 +943,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": true,
+									"isAttached": false,
 									"parsed": [
 										{
 											"start": 0,
