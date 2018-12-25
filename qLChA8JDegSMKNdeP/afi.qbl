@@ -356,7 +356,183 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "hello again"
+										"text": "hello again",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"75frj": {
+																"key": "75frj",
+																"type": "unstyled",
+																"text": "hello again",
+																"characterList": [
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "75frj",
+															"anchorOffset": 0,
+															"focusKey": "75frj",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "75frj",
+															"anchorOffset": 0,
+															"focusKey": "75frj",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"75frj": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "75frj",
+														"anchorOffset": 0,
+														"focusKey": "75frj",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"75frj": [
+															{
+																"start": 0,
+																"end": 11,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 11
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": false,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"showOriginal": false
+									},
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "dpac3",
+													"text": "random test",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "random test"
 									}
 								],
 								"videoOverlays": [],
