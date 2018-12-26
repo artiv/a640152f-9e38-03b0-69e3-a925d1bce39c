@@ -224,10 +224,11 @@
 										"font": "Arial",
 										"size": 30,
 										"color": {
+											"hex": "#1a1919",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 26,
+												"g": 25,
+												"b": 25,
 												"a": 1
 											}
 										},
@@ -236,16 +237,16 @@
 										"width": "default",
 										"height": "default",
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "west",
 										"crop": "scale",
 										"start_offset": "0",
-										"end_offset": "30",
+										"end_offset": "20",
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
 												{
 													"key": "9iue4",
-													"text": "testing 497",
+													"text": "testing 497 again",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -264,7 +265,7 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "testing 497"
+										"text": "testing 497 again"
 									}
 								],
 								"videoOverlays": [],
