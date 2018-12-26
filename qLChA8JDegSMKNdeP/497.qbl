@@ -265,7 +265,207 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "testing 497 again"
+										"text": "testing 497 again",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"9iue4": {
+																"key": "9iue4",
+																"type": "unstyled",
+																"text": "testing 497 again",
+																"characterList": [
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "9iue4",
+															"anchorOffset": 0,
+															"focusKey": "9iue4",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "9iue4",
+															"anchorOffset": 0,
+															"focusKey": "9iue4",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"9iue4": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "9iue4",
+														"anchorOffset": 0,
+														"focusKey": "9iue4",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"9iue4": [
+															{
+																"start": 0,
+																"end": 17,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 17
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": false,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"showOriginal": false
+									},
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"hex": "#2a2828",
+											"rgb": {
+												"r": 42,
+												"g": 40,
+												"b": 40,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "10",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "2g7ju",
+													"text": "2nd one",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "2nd one"
 									}
 								],
 								"videoOverlays": [],
