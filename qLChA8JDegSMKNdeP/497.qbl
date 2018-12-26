@@ -74,7 +74,56 @@
 								"original_filename": "transCopy",
 								"path": "v1545809026/a640152f-9e38-03b0-69e3-a925d1bce39c/transCopy_tfay5r.png",
 								"thumbnail_url": "https://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1545809026/a640152f-9e38-03b0-69e3-a925d1bce39c/transCopy_tfay5r.png",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 30,
+										"color": {
+											"hex": "#000000",
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "3vd6u",
+													"text": "hello world changed",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "hello world changed"
+									}
+								],
 								"embed": {
 									"width": 1152,
 									"height": 648,
