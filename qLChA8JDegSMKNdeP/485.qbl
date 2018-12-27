@@ -90,7 +90,68 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Video here?",
 						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/rassegna2_r6wwnu",
+								"version": 1545888996,
+								"signature": "e0dfba0271bf9520d7b1c876aee944c875fc5c0e",
+								"width": 512,
+								"height": 384,
+								"format": "avi",
+								"resource_type": "video",
+								"created_at": "2018-12-27T05:36:36Z",
+								"tags": [],
+								"pages": 600,
+								"bytes": 1642344,
+								"type": "upload",
+								"etag": "266d8041cec6fc4f094132f1ece292da",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1545888996/a640152f-9e38-03b0-69e3-a925d1bce39c/rassegna2_r6wwnu.avi",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1545888996/a640152f-9e38-03b0-69e3-a925d1bce39c/rassegna2_r6wwnu.avi",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "95856",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "mpeg4",
+									"level": -99,
+									"bit_rate": "439888",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 547448,
+								"duration": 24,
+								"rotation": 0,
+								"original_filename": "rassegna2",
+								"path": "v1545888996/a640152f-9e38-03b0-69e3-a925d1bce39c/rassegna2_r6wwnu.avi",
+								"thumbnail_url": "https://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1545888996/a640152f-9e38-03b0-69e3-a925d1bce39c/rassegna2_r6wwnu.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"embed": {
+									"width": 512,
+									"height": 384,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "rassegna2"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
