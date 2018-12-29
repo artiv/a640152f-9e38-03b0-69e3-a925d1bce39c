@@ -431,21 +431,21 @@
 										}
 									],
 									"asset": {
-										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_qHuNuMW94gQp9vw3u_en-AU.srt",
-										"version": 1545822314,
-										"signature": "dafbc2eb5f623ae2e6df2c7595da0575294a528a",
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_JSftrcZKTDEZfiepe_en-AU.srt",
+										"version": 1546089383,
+										"signature": "3e1c80cf86b102156cd04d9f6409d008ad2a951b",
 										"resource_type": "raw",
-										"created_at": "2018-12-26T11:05:14Z",
+										"created_at": "2018-12-29T13:16:23Z",
 										"tags": [],
 										"bytes": 1324,
 										"type": "upload",
 										"etag": "d1e56bdf685f83cf16fc15416ba7b397",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/q6a/raw/upload/v1545822314/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_qHuNuMW94gQp9vw3u_en-AU.srt",
-										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1545822314/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_qHuNuMW94gQp9vw3u_en-AU.srt",
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1546089383/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_JSftrcZKTDEZfiepe_en-AU.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1546089383/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_c6ab8t_JSftrcZKTDEZfiepe_en-AU.srt",
 										"access_mode": "public"
 									},
-									"isAttached": false
+									"isAttached": true
 								},
 								"embed": {
 									"width": 1280,
