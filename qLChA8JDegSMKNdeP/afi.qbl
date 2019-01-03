@@ -90,7 +90,69 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Video here?",
 						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL",
+								"version": 1546494695,
+								"signature": "90147b2e18facfbb60c35ed7a94b87de84fce8e3",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-01-03T05:51:35Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 4483072,
+								"type": "upload",
+								"etag": "f585120e033e452691a1a1e9d64a791f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1546494695/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1546494695/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "125588",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1067728",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1196404,
+								"duration": 29.96,
+								"rotation": 0,
+								"original_filename": "NSW_Health_Anxiety_Awareness_Campaigns_-_NRL",
+								"path": "v1546494695/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1546494695/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
