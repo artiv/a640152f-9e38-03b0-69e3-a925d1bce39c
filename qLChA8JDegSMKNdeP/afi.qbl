@@ -315,7 +315,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-"
-								}
+								},
+								"viewSelection": 50
 							}
 						],
 						"fieldChildren": []
