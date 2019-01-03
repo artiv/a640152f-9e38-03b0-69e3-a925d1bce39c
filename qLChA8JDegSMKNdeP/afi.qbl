@@ -185,12 +185,12 @@
 											"a": 1
 										}
 									},
-									"captionString": "1\n00:00:00,000 --> 00:00:01,800\nfirst change\n\n2\n00:00:01,800 --> 00:00:02,800\nanxiety at some time\n\n3\n00:00:02,800 --> 00:00:03,700\nbut one in\n\n4\n00:00:03,700 --> 00:00:04,600\n7 will be affected\n\n5\n00:00:04,600 --> 00:00:05,400\nby an anxiety\n\n6\n00:00:05,400 --> 00:00:06,800\ndisorder many may\n\n7\n00:00:06,800 --> 00:00:07,500\nlive with anxiety\n\n8\n00:00:07,500 --> 00:00:08,800\ndisorder and not\n\n9\n00:00:08,800 --> 00:00:09,800\nrealise when\n\n10\n00:00:09,800 --> 00:00:10,800\nanxiety affects\n\n11\n00:00:10,800 --> 00:00:11,700\nyour everyday life\n\n12\n00:00:11,700 --> 00:00:12,900\nit's time to get help to\n\n13\n00:00:12,900 --> 00:00:13,800\nfind out more about\n\n14\n00:00:13,800 --> 00:00:14,200\nanxiety\n\n15\n00:00:14,200 --> 00:00:15,500\nvisit your GP\n\n16\n00:00:15,500 --> 00:00:16,900\ngo to understanding\n\n17\n00:00:16,900 --> 00:00:17,100\nanxiety\n\n18\n00:00:17,100 --> 00:00:18,600\ndotcom.au\n\n19\n00:00:18,600 --> 00:00:19,900\nor call the anxiety\n\n20\n00:00:19,900 --> 00:00:20,700\nhelpline on\n\n21\n00:00:20,700 --> 00:00:21,400\n1 300\n\n22\n00:00:21,400 --> 00:00:22,600\n794\n\n23\n00:00:22,600 --> 00:00:23,700\n192\n\n24\n00:00:23,700 --> 00:00:24,900\nbecause there is a reason\n\n25\n00:00:24,900 --> 00:00:25,600\nyou feel this way\n\n26\n00:00:25,600 --> 00:00:26,700\nbut there's no\n\n27\n00:00:26,700 --> 00:00:27,500\nreason you have to\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:01,800\neveryone experiences\n\n2\n00:00:01,800 --> 00:00:02,800\nanxiety at some time\n\n3\n00:00:02,800 --> 00:00:03,700\nbut one in\n\n4\n00:00:03,700 --> 00:00:04,600\n7 will be affected\n\n5\n00:00:04,600 --> 00:00:05,400\nby an anxiety\n\n6\n00:00:05,400 --> 00:00:06,800\ndisorder many may\n\n7\n00:00:06,800 --> 00:00:07,500\nlive with anxiety\n\n8\n00:00:07,500 --> 00:00:08,800\ndisorder and not\n\n9\n00:00:08,800 --> 00:00:09,800\nrealise when\n\n10\n00:00:09,800 --> 00:00:10,800\nanxiety affects\n\n11\n00:00:10,800 --> 00:00:11,700\nyour everyday life\n\n12\n00:00:11,700 --> 00:00:12,900\nit's time to get help to\n\n13\n00:00:12,900 --> 00:00:13,800\nfind out more about\n\n14\n00:00:13,800 --> 00:00:14,200\nanxiety\n\n15\n00:00:14,200 --> 00:00:15,500\nvisit your GP\n\n16\n00:00:15,500 --> 00:00:16,900\ngo to understanding\n\n17\n00:00:16,900 --> 00:00:17,100\nanxiety\n\n18\n00:00:17,100 --> 00:00:18,600\ndotcom.au\n\n19\n00:00:18,600 --> 00:00:19,900\nor call the anxiety\n\n20\n00:00:19,900 --> 00:00:20,700\nhelpline on\n\n21\n00:00:20,700 --> 00:00:21,400\n1 300\n\n22\n00:00:21,400 --> 00:00:22,600\n794\n\n23\n00:00:22,600 --> 00:00:23,700\n192\n\n24\n00:00:23,700 --> 00:00:24,900\nbecause there is a reason\n\n25\n00:00:24,900 --> 00:00:25,600\nyou feel this way\n\n26\n00:00:25,600 --> 00:00:26,700\nbut there's no\n\n27\n00:00:26,700 --> 00:00:27,500\nreason you have to\n",
 									"parsed": [
 										{
 											"start": 0,
 											"end": 1800,
-											"text": "first change"
+											"text": "everyone experiences"
 										},
 										{
 											"start": 1800,
@@ -324,18 +324,18 @@
 										}
 									],
 									"asset": {
-										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en.srt",
-										"version": 1546495009,
-										"signature": "051bb5e4053d2cedf0c76a1604f41f4c41aa00df",
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en-AU.srt",
+										"version": 1546504280,
+										"signature": "174972b426920a9623456b0f9f5de5c4e28515b8",
 										"resource_type": "raw",
-										"created_at": "2019-01-03T05:56:49Z",
+										"created_at": "2019-01-03T08:31:20Z",
 										"tags": [],
-										"bytes": 1316,
+										"bytes": 1324,
 										"type": "upload",
-										"etag": "4f333f6756b7244365cff096ff90a06c",
+										"etag": "d1e56bdf685f83cf16fc15416ba7b397",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/q6a/raw/upload/v1546495009/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en.srt",
-										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1546495009/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en.srt",
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1546504280/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en-AU.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1546504280/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_en-AU.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true
