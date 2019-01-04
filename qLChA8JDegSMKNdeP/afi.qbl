@@ -88,7 +88,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "transparent"
-								}
+								},
+								"viewSelection": 50
 							}
 						],
 						"fieldChildren": []
