@@ -130,9 +130,9 @@
 						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
 						"fieldValues": [
 							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/cicz3e1zedsaw6tcyvj7",
+								"public_id": "7d966f1e-1cfc-05b1-c160-b8979a6225f7",
 								"captions": {
-									"captionString": "everyone experiences anxiety at some time but one in 7 will be affected by an anxiety disorder many may live with anxiety disorder and not realise when anxiety affects your everyday life it's time to get help to find out more about anxiety visit your GP go to understanding anxiety dotcom.au or call the anxiety helpline on 1 300 794 192 because there is a reason you feel this way but there's no reason you have to"
+									"captionString": "someone experiences anxiety at some time but one in 7 will be affected by an anxiety disorder many may live with anxiety disorder and not realise when anxiety affects your everyday life it's time to get help to find out more about anxiety visit your GP go to understanding anxiety dotcom.au or call the anxiety helpline on 1 300 794 192 because there is a reason you feel this way but there's no reason you have to"
 								},
 								"overlays": [],
 								"embed": {
@@ -148,34 +148,7 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": ""
-								},
-								"version": 1546603327,
-								"signature": "e8331e10c289e7b35a879496ccc5220ee61f20d1",
-								"width": 0,
-								"height": 0,
-								"format": "mp3",
-								"resource_type": "video",
-								"created_at": "2019-01-04T12:02:07Z",
-								"tags": [],
-								"pages": 0,
-								"bytes": 118560,
-								"type": "upload",
-								"etag": "c1bf9215415825967a87b43f02320f9d",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/q6a/video/upload/v1546603327/a640152f-9e38-03b0-69e3-a925d1bce39c/cicz3e1zedsaw6tcyvj7.mp3",
-								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1546603327/a640152f-9e38-03b0-69e3-a925d1bce39c/cicz3e1zedsaw6tcyvj7.mp3",
-								"access_mode": "public",
-								"audio": {
-									"codec": "mp3",
-									"bit_rate": "32000",
-									"frequency": 24000,
-									"channels": 1,
-									"channel_layout": "mono"
-								},
-								"video": {},
-								"is_audio": true,
-								"bit_rate": 32000,
-								"duration": 29.64
+								}
 							}
 						],
 						"fieldChildren": []
