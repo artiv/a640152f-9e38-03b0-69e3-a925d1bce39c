@@ -1,0 +1,337 @@
+{
+	"fileName": "hi_afi.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "a15a0b19-952d-c05a-a019-07ff1fe24567",
+			"fileItemDate": "2019-01-04T12:20:26.877Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "mNoBFtySGcEGRpKRh",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT",
+				"mNoBFtySGcEGRpKRh",
+				"CeA8p4vd4QGtNpMkb",
+				"8MkX5fX6HeXvZ6MBT",
+				"Y4FbmNRvZboJQLruG",
+				"HJrvRHnjTmFXptL3x"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "3849bcec-cb46-c668-d536-8b5ec5302ec0",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here?",
+						"fieldKey": "e750c8fc-dbf0-f654-920f-66c4d370f607",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "de489a90-ba1c-a3b5-c33b-6f663646dc8c",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here?",
+						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9b1c98d7-00be-6273-f04c-f0304cb7a05d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Audio here?",
+						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo",
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:00,000\nकिसी को कुछ समय में चिंता अनुभव लेकिन एक 7 में एक चिंता विकार से प्रभावित हो जाएगा कई चिंता विकार के साथ रहते है और महसूस नहीं हो सकता है जब चिंता अपने रोजमर्रा के जीवन को प्रभावित करता है यह समय के लिए मदद पाने के लिए और अधिक चिंता के बारे में पता लगाने के लिए अपने जीपी जाने समझ एक nxiety dotcom.au या १ ३०० ७९४ १९२ पर चिंता हेल्पलाइन कॉल क्योंकि वहां एक कारण आप इस तरह लग रहा है, लेकिन वहां कोई कारण नहीं है तुम\n",
+									"font": "Arial",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"parsed": [
+										{
+											"start": 0,
+											"end": 0,
+											"text": "किसी को कुछ समय में चिंता अनुभव लेकिन एक 7 में एक चिंता विकार से प्रभावित हो जाएगा कई चिंता विकार के साथ रहते है और महसूस नहीं हो सकता है जब चिंता अपने रोजमर्रा के जीवन को प्रभावित करता है यह समय के लिए मदद पाने के लिए और अधिक चिंता के बारे में पता लगाने के लिए अपने जीपी जाने समझ एक nxiety dotcom.au या १ ३०० ७९४ १९२ पर चिंता हेल्पलाइन कॉल क्योंकि वहां एक कारण आप इस तरह लग रहा है, लेकिन वहां कोई कारण नहीं है तुम"
+										}
+									],
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo_hi.srt",
+										"version": 1546604435,
+										"signature": "a25e5142e2e0c5e6e62ac73a3972774d6fc9eecf",
+										"resource_type": "raw",
+										"created_at": "2019-01-04T12:20:35Z",
+										"tags": [],
+										"bytes": 1059,
+										"type": "upload",
+										"etag": "3706a6e2c3c0d6c960396c533eab3669",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1546604435/a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo_hi.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1546604435/a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo_hi.srt",
+										"access_mode": "public"
+									},
+									"originalCaptionString": "someone experiences anxiety at some time but one in 7 will be affected by an anxiety disorder many may live with anxiety disorder and not realise when anxiety affects your everyday life it's time to get help to find out more about anxiety visit your GP go to understanding anxiety dotcom.au or call the anxiety helpline on 1 300 794 192 because there is a reason you feel this way but there's no reason you have to"
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1546604237,
+								"signature": "3988dad0d180754a57bee6e70859d5560590add7",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-01-04T12:17:17Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 112992,
+								"type": "upload",
+								"etag": "1cd05998041b546750d69453d6626468",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1546604237/a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo.mp3",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1546604237/a640152f-9e38-03b0-69e3-a925d1bce39c/tkmsameqx2kgcmwjrmwo.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 32000,
+								"duration": 28.248
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "22c59325-6eda-cf22-24c7-a8d896c66457",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Textbox here?",
+						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "63c1d1b3-5840-4ceb-05cc-d6048df8806a",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here? singular",
+						"fieldKey": "8ed7de98-ce53-2ed2-b66c-ae8eaa82bfe7",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "99c2bc18-91fe-2ab4-ae85-a3c15769c751",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here? singular",
+						"fieldKey": "b0656885-63d1-e265-1e28-7521b1970ceb",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
