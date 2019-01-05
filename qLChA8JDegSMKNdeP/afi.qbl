@@ -136,7 +136,7 @@
 								"overlays": [
 									{
 										"public_id": "transparent",
-										"background": "#ef111175",
+										"background": "#e40c0c73",
 										"gravity": "south",
 										"width": 1280,
 										"height": 72,
@@ -158,11 +158,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -170,7 +170,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ek0op",
+													"key": "c2k91",
 													"text": "everyone experiences",
 													"type": "unstyled",
 													"depth": 0,
@@ -211,11 +211,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -223,7 +223,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5sopc",
+													"key": "7mdsl",
 													"text": "anxiety at some time",
 													"type": "unstyled",
 													"depth": 0,
@@ -264,11 +264,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -276,7 +276,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "fubpm",
+													"key": "ddhv",
 													"text": "but one in",
 													"type": "unstyled",
 													"depth": 0,
@@ -317,11 +317,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -329,7 +329,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3gsjv",
+													"key": "5tl6o",
 													"text": "7 will be affected",
 													"type": "unstyled",
 													"depth": 0,
@@ -370,11 +370,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -382,7 +382,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9c3s8",
+													"key": "7lrsc",
 													"text": "by an anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -423,11 +423,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -435,7 +435,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9g5h4",
+													"key": "7na3s",
 													"text": "disorder many may",
 													"type": "unstyled",
 													"depth": 0,
@@ -476,11 +476,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -488,7 +488,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "s2ng",
+													"key": "fqnej",
 													"text": "live with anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -529,11 +529,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -541,7 +541,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "81ui6",
+													"key": "6s3ef",
 													"text": "disorder and not",
 													"type": "unstyled",
 													"depth": 0,
@@ -582,11 +582,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -594,7 +594,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "bepd6",
+													"key": "dhoka",
 													"text": "realise when",
 													"type": "unstyled",
 													"depth": 0,
@@ -635,11 +635,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -647,7 +647,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "370le",
+													"key": "9epni",
 													"text": "anxiety affects",
 													"type": "unstyled",
 													"depth": 0,
@@ -688,11 +688,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -700,7 +700,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "bbh6s",
+													"key": "2dofu",
 													"text": "your everyday life",
 													"type": "unstyled",
 													"depth": 0,
@@ -741,11 +741,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -753,7 +753,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9j7fg",
+													"key": "dlang",
 													"text": "it's time to get help to",
 													"type": "unstyled",
 													"depth": 0,
@@ -794,11 +794,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -806,7 +806,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "7n846",
+													"key": "bplbe",
 													"text": "find out more about",
 													"type": "unstyled",
 													"depth": 0,
@@ -847,11 +847,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -859,7 +859,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "996me",
+													"key": "d1a1b",
 													"text": "anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -900,11 +900,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -912,7 +912,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6tl1d",
+													"key": "bft2n",
 													"text": "visit your GP",
 													"type": "unstyled",
 													"depth": 0,
@@ -953,11 +953,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -965,7 +965,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "coodk",
+													"key": "a3vdh",
 													"text": "go to understanding",
 													"type": "unstyled",
 													"depth": 0,
@@ -1006,11 +1006,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1018,7 +1018,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "meu7",
+													"key": "1o864",
 													"text": "anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -1059,11 +1059,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1071,7 +1071,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1u799",
+													"key": "bs3fo",
 													"text": "dotcom.au",
 													"type": "unstyled",
 													"depth": 0,
@@ -1112,11 +1112,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1124,7 +1124,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2loia",
+													"key": "da932",
 													"text": "or call the anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -1165,11 +1165,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1177,7 +1177,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dm419",
+													"key": "br0jd",
 													"text": "helpline on",
 													"type": "unstyled",
 													"depth": 0,
@@ -1218,11 +1218,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1230,7 +1230,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1v49r",
+													"key": "5katk",
 													"text": "1 300",
 													"type": "unstyled",
 													"depth": 0,
@@ -1271,11 +1271,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1283,7 +1283,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "bjf1m",
+													"key": "3icqj",
 													"text": "794",
 													"type": "unstyled",
 													"depth": 0,
@@ -1324,11 +1324,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1336,7 +1336,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "t7jp",
+													"key": "44ros",
 													"text": "192",
 													"type": "unstyled",
 													"depth": 0,
@@ -1377,11 +1377,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1389,7 +1389,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "f2llk",
+													"key": "6efni",
 													"text": "because there is a reason",
 													"type": "unstyled",
 													"depth": 0,
@@ -1430,11 +1430,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1442,7 +1442,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "fh4l2",
+													"key": "3150q",
 													"text": "you feel this way",
 													"type": "unstyled",
 													"depth": 0,
@@ -1483,11 +1483,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1495,7 +1495,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9ef11",
+													"key": "72n3j",
 													"text": "but there's no",
 													"type": "unstyled",
 													"depth": 0,
@@ -1536,11 +1536,11 @@
 										"font": "Arial",
 										"size": 48,
 										"color": {
-											"hex": "#f1e8e8",
+											"hex": "#f3efef",
 											"rgb": {
-												"r": 241,
-												"g": 232,
-												"b": 232,
+												"r": 243,
+												"g": 239,
+												"b": 239,
 												"a": 1
 											}
 										},
@@ -1548,7 +1548,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "95pr3",
+													"key": "ah51a",
 													"text": "reason you have to",
 													"type": "unstyled",
 													"depth": 0,
