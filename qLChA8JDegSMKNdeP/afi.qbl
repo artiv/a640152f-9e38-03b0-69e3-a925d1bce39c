@@ -420,7 +420,716 @@
 								"original_filename": "sea_waves_gkenf5",
 								"path": "v1547452311/a640152f-9e38-03b0-69e3-a925d1bce39c/sea_waves_gkenf5_xs908r.webm",
 								"thumbnail_url": "https://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1547452311/a640152f-9e38-03b0-69e3-a925d1bce39c/sea_waves_gkenf5_xs908r.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"public_id": "transparent",
+										"background": {
+											"rgb": {
+												"r": 255,
+												"g": 0,
+												"b": 0,
+												"a": 0.43
+											},
+											"hex": "#ff0000"
+										},
+										"gravity": "north",
+										"width": 538,
+										"height": 21,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 13.04,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 0,
+										"end_offset": 1.8,
+										"text": "everyone experiences",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "14mrm",
+													"text": "everyone experiences",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 1.8,
+										"end_offset": 2.8,
+										"text": "anxiety at some time",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "8mpoq",
+													"text": "anxiety at some time",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 2.8,
+										"end_offset": 3.7,
+										"text": "but one in",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "8idjm",
+													"text": "but one in",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 3.7,
+										"end_offset": 4.6,
+										"text": "7 will be affected",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "1ui10",
+													"text": "7 will be affected",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 4.6,
+										"end_offset": 5.4,
+										"text": "by an anxiety",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "8oa0a",
+													"text": "by an anxiety",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 5.4,
+										"end_offset": 6.8,
+										"text": "disorder many may",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "7fcmv",
+													"text": "disorder many may",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 6.8,
+										"end_offset": 7.5,
+										"text": "live with anxiety",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "djcj",
+													"text": "live with anxiety",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 7.5,
+										"end_offset": 8.8,
+										"text": "disorder and not",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "6j7n2",
+													"text": "disorder and not",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 8.8,
+										"end_offset": 9.8,
+										"text": "realise when",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "d1jp9",
+													"text": "realise when",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 9.8,
+										"end_offset": 10.8,
+										"text": "anxiety affects",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "5ksfv",
+													"text": "anxiety affects",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 10.8,
+										"end_offset": 11.7,
+										"text": "your everyday life",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "15l2n",
+													"text": "your everyday life",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 11.7,
+										"end_offset": 12.9,
+										"text": "it's time to get help to",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "1q1e2",
+													"text": "it's time to get help to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": 12.9,
+										"end_offset": 13.8,
+										"text": "find out more about",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f1e9e9",
+											"rgb": {
+												"r": 241,
+												"g": 233,
+												"b": 233,
+												"a": 1
+											}
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "fibtt",
+													"text": "find out more about",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -502,7 +1211,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": true,
+									"isAttached": false,
 									"asset": {
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sea_waves_gkenf5_xs908r_en.srt",
 										"version": 1547452562,
