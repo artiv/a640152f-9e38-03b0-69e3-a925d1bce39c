@@ -135,23 +135,42 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1547683302/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_rwj6jl.jpg",
 								"overlays": [
 									{
+										"public_id": "transparent",
+										"background": {
+											"rgb": {
+												"r": 245,
+												"g": 39,
+												"b": 39,
+												"a": 0.3
+											},
+											"hex": "#f52727"
+										},
+										"gravity": "north",
+										"width": 480,
+										"height": 36,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.083984,
+										"isAutoOverlayed": true
+									},
+									{
 										"x": "0",
 										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "very cool guy",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -159,7 +178,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "fqicn",
+													"key": "9lt26",
 													"text": "very cool guy",
 													"type": "unstyled",
 													"depth": 0,
@@ -194,17 +213,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "guy that's that's my",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -212,7 +231,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "eqp7h",
+													"key": "emm1n",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -247,17 +266,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "thing",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -265,7 +284,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "chehd",
+													"key": "dmijd",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -300,17 +319,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "I'm",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -318,7 +337,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2fhgu",
+													"key": "4qeg4",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -353,17 +372,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "happy I surf",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -371,7 +390,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "a1iek",
+													"key": "664p1",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -406,17 +425,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "the web I",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -424,7 +443,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "an1hu",
+													"key": "5crak",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -459,17 +478,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "text LOL",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -477,7 +496,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dta8t",
+													"key": "7ur2c",
 													"text": "text LOL",
 													"type": "unstyled",
 													"depth": 0,
@@ -512,17 +531,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "laugh out loud",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -530,7 +549,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9ur9b",
+													"key": "fhfu",
 													"text": "laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -565,17 +584,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "OMG oh my",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -583,7 +602,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "c37ct",
+													"key": "824c7",
 													"text": "OMG oh my",
 													"type": "unstyled",
 													"depth": 0,
@@ -618,17 +637,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "God WTF",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -636,7 +655,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5qhfk",
+													"key": "fmpg8",
 													"text": "God WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -671,17 +690,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "why the FaZe",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -689,7 +708,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "e2b50",
+													"key": "ejgib",
 													"text": "why the FaZe",
 													"type": "unstyled",
 													"depth": 0,
@@ -724,17 +743,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "you know I",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -742,7 +761,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "cogu8",
+													"key": "emqf5",
 													"text": "you know I",
 													"type": "unstyled",
 													"depth": 0,
@@ -777,17 +796,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "know all the dances to High",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -795,7 +814,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "cac35",
+													"key": "ci4lb",
 													"text": "know all the dances to High",
 													"type": "unstyled",
 													"depth": 0,
@@ -830,17 +849,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "School Musical",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -848,7 +867,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2jtci",
+													"key": "fmorr",
 													"text": "School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -883,17 +902,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "We're All",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -901,7 +920,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4tg5d",
+													"key": "rske",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -936,17 +955,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "in This",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -954,7 +973,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "d2m5d",
+													"key": "429mt",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -989,17 +1008,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "Together",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1007,7 +1026,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1nqf3",
+													"key": "3d1v0",
 													"text": "Together",
 													"type": "unstyled",
 													"depth": 0,
@@ -1042,17 +1061,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "yes we are",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1060,7 +1079,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "b3fqk",
+													"key": "bqmvd",
 													"text": "yes we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -1095,17 +1114,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "we're all",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1113,7 +1132,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2voh5",
+													"key": "20i53",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1148,17 +1167,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "stars and",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1166,7 +1185,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "bvkdk",
+													"key": "f4304",
 													"text": "stars and",
 													"type": "unstyled",
 													"depth": 0,
@@ -1201,17 +1220,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "you",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1219,7 +1238,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "15vnt",
+													"key": "9u444",
 													"text": "you",
 													"type": "unstyled",
 													"depth": 0,
@@ -1254,17 +1273,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "know it",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Ubuntu",
+										"size": 24,
 										"color": {
-											"hex": "#080707",
+											"hex": "#f9f6f6",
 											"rgb": {
-												"r": 8,
-												"g": 7,
-												"b": 7,
+												"r": 249,
+												"g": 246,
+												"b": 246,
 												"a": 1
 											}
 										},
@@ -1272,7 +1291,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "53cmr",
+													"key": "bm7gj",
 													"text": "know it",
 													"type": "unstyled",
 													"depth": 0,
