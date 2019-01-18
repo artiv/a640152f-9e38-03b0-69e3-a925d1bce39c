@@ -135,44 +135,23 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1547683302/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_rwj6jl.jpg",
 								"overlays": [
 									{
-										"public_id": "transparent",
-										"background": {
-											"rgb": {
-												"r": 239,
-												"g": 233,
-												"b": 233,
-												"a": 0.45
-											},
-											"hex": "#efe9e9"
-										},
-										"gravity": "center",
-										"width": 480,
-										"height": 36,
-										"isAttached": true,
-										"start_offset": 0,
-										"end_offset": 30.083333,
-										"isAutoOverlayed": true
-									},
-									{
 										"x": "0",
 										"y": "0",
 										"width": "default",
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
-										"text": "I'm a cool",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"text": "very cool guy",
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -180,8 +159,8 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "aj854",
-													"text": "I'm a cool",
+													"key": "fqicn",
+													"text": "very cool guy",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -204,6 +183,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -213,19 +194,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "guy that's that's my",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -233,7 +212,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1u6l1",
+													"key": "eqp7h",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -257,6 +236,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -266,19 +247,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"text": "thing",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -286,7 +265,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "83ju0",
+													"key": "chehd",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -310,6 +289,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -319,19 +300,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "I'm",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -339,7 +318,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3oot",
+													"key": "2fhgu",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -363,6 +342,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -372,19 +353,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "happy I surf",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -392,7 +371,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9qac2",
+													"key": "a1iek",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -416,6 +395,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -425,19 +406,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "the web I",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -445,7 +424,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "8qjgs",
+													"key": "an1hu",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -469,6 +448,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -478,19 +459,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10.6,
 										"text": "text LOL",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -498,7 +477,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ei1a5",
+													"key": "dta8t",
 													"text": "text LOL",
 													"type": "unstyled",
 													"depth": 0,
@@ -522,6 +501,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -531,19 +512,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
 										"text": "laugh out loud",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -551,7 +530,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "58ove",
+													"key": "9ur9b",
 													"text": "laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -575,6 +554,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -584,19 +565,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 12.7,
 										"text": "OMG oh my",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -604,7 +583,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "7amkj",
+													"key": "c37ct",
 													"text": "OMG oh my",
 													"type": "unstyled",
 													"depth": 0,
@@ -628,6 +607,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 12.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -637,19 +618,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 12.7,
-										"end_offset": 13.7,
 										"text": "God WTF",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -657,7 +636,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1p4k0",
+													"key": "5qhfk",
 													"text": "God WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -681,6 +660,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 12.7,
+										"end_offset": 13.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -690,19 +671,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 13.7,
-										"end_offset": 14.7,
 										"text": "why the FaZe",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -710,7 +689,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3svpu",
+													"key": "e2b50",
 													"text": "why the FaZe",
 													"type": "unstyled",
 													"depth": 0,
@@ -734,6 +713,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.7,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -743,19 +724,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 16.8,
 										"text": "you know I",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -763,7 +742,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ecqcn",
+													"key": "cogu8",
 													"text": "you know I",
 													"type": "unstyled",
 													"depth": 0,
@@ -787,6 +766,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 16.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -796,19 +777,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 16.8,
-										"end_offset": 17.9,
 										"text": "know all the dances to High",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -816,7 +795,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "7h6qj",
+													"key": "cac35",
 													"text": "know all the dances to High",
 													"type": "unstyled",
 													"depth": 0,
@@ -840,6 +819,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 16.8,
+										"end_offset": 17.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -849,19 +830,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 17.9,
-										"end_offset": 18.3,
 										"text": "School Musical",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -869,7 +848,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "anbn4",
+													"key": "2jtci",
 													"text": "School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -893,6 +872,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 17.9,
+										"end_offset": 18.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -902,19 +883,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 18.3,
-										"end_offset": 19.9,
 										"text": "We're All",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -922,7 +901,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "692st",
+													"key": "4tg5d",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -946,6 +925,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.3,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -955,19 +936,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.7,
 										"text": "in This",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -975,7 +954,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "8mk52",
+													"key": "d2m5d",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -999,6 +978,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1008,19 +989,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 20.7,
-										"end_offset": 21.6,
 										"text": "Together",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1028,7 +1007,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3dsn9",
+													"key": "1nqf3",
 													"text": "Together",
 													"type": "unstyled",
 													"depth": 0,
@@ -1052,6 +1031,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.7,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1061,19 +1042,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
 										"text": "yes we are",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1081,7 +1060,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dklbc",
+													"key": "b3fqk",
 													"text": "yes we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -1105,6 +1084,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1114,19 +1095,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
 										"text": "we're all",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1134,7 +1113,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "evdq0",
+													"key": "2voh5",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1158,6 +1137,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1167,19 +1148,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.9,
 										"text": "stars and",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1187,7 +1166,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "cadj7",
+													"key": "bvkdk",
 													"text": "stars and",
 													"type": "unstyled",
 													"depth": 0,
@@ -1211,6 +1190,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1220,19 +1201,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 26.8,
 										"text": "you",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1240,7 +1219,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5rue9",
+													"key": "15vnt",
 													"text": "you",
 													"type": "unstyled",
 													"depth": 0,
@@ -1264,6 +1243,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 26.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1273,19 +1254,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 26.8,
-										"end_offset": 27.7,
 										"text": "know it",
-										"font": "Roboto Condensed",
-										"size": 16,
+										"font": "Raleway",
+										"size": 14,
 										"color": {
-											"hex": "#e60909",
+											"hex": "#080707",
 											"rgb": {
-												"r": 230,
-												"g": 9,
-												"b": 9,
+												"r": 8,
+												"g": 7,
+												"b": 7,
 												"a": 1
 											}
 										},
@@ -1293,7 +1272,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3hrvr",
+													"key": "53cmr",
 													"text": "know it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1317,6 +1296,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 26.8,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
