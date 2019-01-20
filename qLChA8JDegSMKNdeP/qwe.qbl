@@ -139,12 +139,11 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
-										"text": "I'm a cool",
-										"font": "Lato",
+										"text": "I'm a cool very cool",
+										"font": "Ubuntu",
 										"size": 14,
 										"color": {
 											"hex": "#f9f5f5",
@@ -160,10 +159,16 @@
 											"blocks": [
 												{
 													"key": "3r9mv",
-													"text": "I'm a cool",
+													"text": "I'm a cool very cool",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 20,
+															"style": "fontfamily-Ubuntu"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -173,10 +178,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
