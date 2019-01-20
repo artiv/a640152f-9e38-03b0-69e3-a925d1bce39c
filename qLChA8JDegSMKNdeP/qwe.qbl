@@ -192,19 +192,18 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
-										"text": "guy that's that's my",
-										"font": "Lato",
-										"size": 14,
+										"text": "guy that is my west",
+										"font": "Raleway",
+										"size": 30,
 										"color": {
-											"hex": "#f9f5f5",
+											"hex": "#fa0c0c",
 											"rgb": {
-												"r": 249,
-												"g": 245,
-												"b": 245,
+												"r": 250,
+												"g": 12,
+												"b": 12,
 												"a": 1
 											}
 										},
@@ -213,10 +212,21 @@
 											"blocks": [
 												{
 													"key": "d37ja",
-													"text": "guy that's that's my",
+													"text": "guy that is my west",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 19,
+															"style": "fontfamily-Raleway"
+														},
+														{
+															"offset": 0,
+															"length": 19,
+															"style": "fontsize-30"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -226,10 +236,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
