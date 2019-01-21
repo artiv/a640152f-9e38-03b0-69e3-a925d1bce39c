@@ -135,11 +135,10 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548081285/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_so7fg8.jpg",
 								"overlays": [
 									{
-										"x": "0",
-										"y": "0",
+										"x": "100",
+										"y": "100",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
@@ -173,10 +172,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
@@ -185,7 +181,8 @@
 										"isText": true,
 										"start_offset": 3,
 										"end_offset": 4.8,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"useXY": true
 									},
 									{
 										"x": "0",
