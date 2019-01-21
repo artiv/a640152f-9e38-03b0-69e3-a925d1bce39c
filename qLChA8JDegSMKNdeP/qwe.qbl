@@ -303,57 +303,73 @@
 										"isAutoOverlayed": true
 									},
 									{
+										"isText": true,
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#f7eaea",
+											"rgb": {
+												"r": 247,
+												"g": 234,
+												"b": 234,
+												"a": 1
+											}
+										},
 										"x": "0",
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
-										"text": "I'm",
-										"font": "Lato",
-										"size": 14,
-										"color": {
-											"hex": "#f9f5f5",
-											"rgb": {
-												"r": 249,
-												"g": 245,
-												"b": 245,
-												"a": 1
-											}
-										},
+										"start_offset": "0",
+										"end_offset": "30",
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6s7jn",
-													"text": "I'm",
+													"key": "7uarr",
+													"text": "this is some bold text with font",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 32,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 32,
+															"style": "ITALIC"
+														},
+														{
+															"offset": 0,
+															"length": 32,
+															"style": "fontfamily-Raleway"
+														},
+														{
+															"offset": 0,
+															"length": 32,
+															"style": "fontsize-18"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
 											]
 										},
 										"inlineStyle": {
-											"BOLD": false,
-											"ITALIC": false,
+											"BOLD": true,
+											"ITALIC": true,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"isText": true,
-										"start_offset": 7.4,
-										"end_offset": 7.8,
-										"isAutoOverlayed": true
+										"text": "this is some bold text with font"
 									},
 									{
 										"x": "0",
