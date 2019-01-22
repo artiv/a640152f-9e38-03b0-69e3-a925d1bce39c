@@ -409,58 +409,6 @@
 									}
 								},
 								"viewSelection": 125
-							},
-							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/flame_wfsek8",
-								"version": 1548182720,
-								"signature": "3dd0f058c1123e9845debb5c52dad803ce7270d1",
-								"width": 256,
-								"height": 240,
-								"format": "webm",
-								"resource_type": "video",
-								"created_at": "2019-01-22T18:45:20Z",
-								"tags": [],
-								"pages": 110,
-								"bytes": 289280,
-								"type": "upload",
-								"etag": "a7472e216ca549950e15d51c14c4a265",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1548182720/a640152f-9e38-03b0-69e3-a925d1bce39c/flame_wfsek8.avi",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1548182720/a640152f-9e38-03b0-69e3-a925d1bce39c/flame_wfsek8.avi",
-								"access_mode": "public",
-								"existing": false,
-								"audio": {},
-								"video": {
-									"pix_format": "yuv410p",
-									"codec": "indeo4",
-									"level": -99,
-									"bit_rate": "731000"
-								},
-								"frame_rate": 35,
-								"bit_rate": 736349,
-								"duration": 3.142857,
-								"rotation": 0,
-								"original_filename": "flame",
-								"path": "v1548182720/a640152f-9e38-03b0-69e3-a925d1bce39c/flame_wfsek8.avi",
-								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548182720/a640152f-9e38-03b0-69e3-a925d1bce39c/flame_wfsek8.jpg",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [],
-								"captions": {},
-								"embed": {
-									"width": 256,
-									"height": 240,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "flame"
-								}
 							}
 						],
 						"fieldChildren": []
