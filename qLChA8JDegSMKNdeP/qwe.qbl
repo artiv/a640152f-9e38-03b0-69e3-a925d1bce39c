@@ -135,27 +135,26 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548131627/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_l70ueo.jpg",
 								"overlays": [
 									{
-										"x": "0",
-										"y": "0",
+										"x": "20",
+										"y": "20",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
 										"text": "I'm a cool",
-										"font": "Raleway",
-										"size": 14,
+										"font": "Roboto Condensed",
+										"size": 24,
 										"color": {
-											"hex": "#f4ebeb",
+											"hex": "#e1ff00",
 											"rgb": {
-												"r": 244,
-												"g": 235,
-												"b": 235,
+												"r": 225,
+												"g": 255,
+												"b": 0,
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
@@ -164,7 +163,18 @@
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 10,
+															"style": "fontsize-24"
+														},
+														{
+															"offset": 0,
+															"length": 10,
+															"style": "fontfamily-Roboto Condensed"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -174,10 +184,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
