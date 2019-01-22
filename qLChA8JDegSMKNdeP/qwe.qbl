@@ -139,19 +139,18 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
 										"text": "I'm a cool",
 										"font": "Noto Sans",
-										"size": 14,
+										"size": 18,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ff00",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 255,
+												"b": 0,
 												"a": 1
 											}
 										},
@@ -164,7 +163,13 @@
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 10,
+															"style": "fontsize-18"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -174,10 +179,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
