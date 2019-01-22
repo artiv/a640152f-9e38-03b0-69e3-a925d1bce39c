@@ -133,10 +133,252 @@
 								"original_filename": "modernFamily",
 								"path": "v1548131627/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_l70ueo.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548131627/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_l70ueo.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f4ebeb",
+											"rgb": {
+												"r": 244,
+												"g": 235,
+												"b": 235,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "4pmon",
+													"text": "I'm a cool",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 0,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "guy that's that's my",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f4ebeb",
+											"rgb": {
+												"r": 244,
+												"g": 235,
+												"b": 235,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "77kuk",
+													"text": "guy that's that's my",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "happy I surf",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f4ebeb",
+											"rgb": {
+												"r": 244,
+												"g": 235,
+												"b": 235,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "e605n",
+													"text": "happy I surf",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "the web I",
+										"font": "Raleway",
+										"size": 14,
+										"color": {
+											"hex": "#f4ebeb",
+											"rgb": {
+												"r": 244,
+												"g": 235,
+												"b": 235,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "bo8c2",
+													"text": "the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy that's that's my"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "happy I surf"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "the web I"
+										}
+									],
+									"isAttached": false
+								},
 								"embed": {
 									"width": 480,
 									"height": 360,
@@ -150,6 +392,21 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfamily"
+								},
+								"originalPublicId": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_l70ueo",
+								"originalUrl": "https://res.cloudinary.com/qblm/video/upload/v1548131627/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_l70ueo.mp4",
+								"underlay": {
+									"show": "stripe",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 255,
+											"g": 0,
+											"b": 0,
+											"a": 0.17
+										},
+										"hex": "#ff0000"
+									}
 								}
 							}
 						],
