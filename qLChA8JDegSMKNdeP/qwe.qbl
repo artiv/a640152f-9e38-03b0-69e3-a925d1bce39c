@@ -151,6 +151,67 @@
 									"caption": "",
 									"seoSuffix": "joint_press_briefing_by_pm_modi_norwegian_pm_erna_solberg"
 								}
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_ai4qbk",
+								"version": 1548361143,
+								"signature": "6358ea007ee8994791d0a06da35cbfaf1eed1c20",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-01-24T20:19:03Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1398635,
+								"type": "upload",
+								"etag": "323bb8e393e9654e4c88af020b0ff00c",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1548361143/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_ai4qbk.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1548361143/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_ai4qbk.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "273006",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 371257,
+								"duration": 30.138333,
+								"rotation": 0,
+								"original_filename": "modernFamily",
+								"path": "v1548361143/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_ai4qbk.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548361143/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_ai4qbk.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
 							}
 						],
 						"fieldChildren": []
