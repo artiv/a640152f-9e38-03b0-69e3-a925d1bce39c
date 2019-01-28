@@ -137,7 +137,7 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"font": "Noto Sans",
+									"font": "Roboto Condensed",
 									"size": 24,
 									"color": {
 										"hex": "#ff0000",
