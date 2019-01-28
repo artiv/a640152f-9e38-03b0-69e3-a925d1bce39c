@@ -1,0 +1,256 @@
+{
+	"fileName": "qwe.qbl",
+	"fileTemplateRepo": "a640152f-9e38-03b0-69e3-a925d1bce39c",
+	"fileTemplatePath": "qLChA8JDegSMKNdeP/allFieldsT.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "5ca96c89-99a4-8658-ab8c-1ddec3a2a6b0",
+			"fileItemDate": "2019-01-28T17:00:01.388Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "s92WwXsGAnDHNAHiT",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT",
+				"mNoBFtySGcEGRpKRh",
+				"CeA8p4vd4QGtNpMkb",
+				"8MkX5fX6HeXvZ6MBT",
+				"Y4FbmNRvZboJQLruG",
+				"HJrvRHnjTmFXptL3x"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "3849bcec-cb46-c668-d536-8b5ec5302ec0",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here?",
+						"fieldKey": "e750c8fc-dbf0-f654-920f-66c4d370f607",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "de489a90-ba1c-a3b5-c33b-6f663646dc8c",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here?",
+						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9b1c98d7-00be-6273-f04c-f0304cb7a05d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Audio here?",
+						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "22c59325-6eda-cf22-24c7-a8d896c66457",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Textbox here?",
+						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "63c1d1b3-5840-4ceb-05cc-d6048df8806a",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here? singular",
+						"fieldKey": "8ed7de98-ce53-2ed2-b66c-ae8eaa82bfe7",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "99c2bc18-91fe-2ab4-ae85-a3c15769c751",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here? singular",
+						"fieldKey": "b0656885-63d1-e265-1e28-7521b1970ceb",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
