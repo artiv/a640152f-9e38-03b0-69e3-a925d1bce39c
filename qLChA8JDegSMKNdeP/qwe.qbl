@@ -339,7 +339,58 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Audio here?",
 						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_v5yifq",
+								"version": 1548785606,
+								"signature": "a5203336123c8a7d26b3114c68a19711151d60c3",
+								"width": 0,
+								"height": 0,
+								"format": "wav",
+								"resource_type": "video",
+								"created_at": "2019-01-29T18:13:26Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 3059814,
+								"type": "upload",
+								"etag": "de43c2818e728dab39add6392d7c4f78",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1548785606/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_v5yifq.wav",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1548785606/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_v5yifq.wav",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "pcm_s16le",
+									"bit_rate": "4608000",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 4608153,
+								"duration": 5.312,
+								"original_filename": "sampleVideo",
+								"path": "v1548785606/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_v5yifq.wav",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548785606/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_v5yifq.jpg",
+								"overlays": [],
+								"captions": {},
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
