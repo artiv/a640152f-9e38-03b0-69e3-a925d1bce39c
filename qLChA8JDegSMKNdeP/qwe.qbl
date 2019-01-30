@@ -367,6 +367,73 @@
 									"caption": "",
 									"seoSuffix": "samplevideo"
 								}
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu",
+								"version": 1548877222,
+								"signature": "31b864c2a43856e160709da8cf56a4ab6d3b1821",
+								"width": 854,
+								"height": 480,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-01-30T19:40:22Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 22573052,
+								"type": "upload",
+								"etag": "bc23df19c29c5805d49fe740f4000a63",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1548877222/a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1548877222/a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "93589",
+									"frequency": 44100,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "781715",
+									"dar": "427:240"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 883161,
+								"duration": 204.475,
+								"rotation": 0,
+								"original_filename": "Discover_How_GOFAR_Works",
+								"path": "v1548877222/a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548877222/a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1548877222/a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu.mp4"
+								],
+								"transformedPublicIds": [
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/Discover_How_GOFAR_Works_dyixxu"
+								],
+								"embed": {
+									"width": 854,
+									"height": 480,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "discover_how_gofar_works"
+								}
 							}
 						],
 						"fieldChildren": []
