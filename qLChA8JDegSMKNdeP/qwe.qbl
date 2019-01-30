@@ -134,7 +134,20 @@
 								"path": "v1548694938/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_qodgxw.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1548694938/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_qodgxw.jpg",
 								"overlays": [],
-								"videoOverlays": [],
+								"videoOverlays": [
+									{
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_fg6hdz",
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0"
+									}
+								],
 								"audioOverlays": [],
 								"captions": {
 									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances to High\n\n14\n00:00:17,900 --> 00:00:18,300\nSchool Musical\n\n15\n00:00:18,300 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,700\nin This\n\n17\n00:00:20,700 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n",
