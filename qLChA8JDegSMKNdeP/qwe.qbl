@@ -140,7 +140,7 @@
 										"x": "400",
 										"y": "0",
 										"width": "100",
-										"height": "default",
+										"height": "100",
 										"isAttached": true,
 										"gravity": "north_west",
 										"crop": "scale",
