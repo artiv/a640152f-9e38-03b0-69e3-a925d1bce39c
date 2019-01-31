@@ -262,18 +262,18 @@
 										}
 									],
 									"asset": {
-										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_vkn4.srt",
-										"version": 1548916643,
-										"signature": "0319915fbd5fd01fd0bc0d860e61f7a11eb15e27",
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_ghAC.srt",
+										"version": 1548916789,
+										"signature": "07eb9095304200fad2b3d21c0438c13a03c22706",
 										"resource_type": "raw",
-										"created_at": "2019-01-31T06:37:23Z",
+										"created_at": "2019-01-31T06:39:49Z",
 										"tags": [],
 										"bytes": 982,
 										"type": "upload",
 										"etag": "a93a619ca87952379f7592bc65a140e8",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1548916643/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_vkn4.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1548916643/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_vkn4.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1548916789/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_ghAC.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1548916789/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_kiqzsd_en-US_ghAC.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true
