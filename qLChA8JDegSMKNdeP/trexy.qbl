@@ -166,7 +166,83 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Textbox here?",
 						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "b3h2i",
+										"text": "Forces ffmpeg to stop transcoding after a specific output duration. The time parameter may be a number (in seconds) or a timestamp string (with format ",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 71,
+												"style": "color-rgb(36,41,46)"
+											},
+											{
+												"offset": 77,
+												"length": 73,
+												"style": "color-rgb(36,41,46)"
+											},
+											{
+												"offset": 0,
+												"length": 71,
+												"style": "bgcolor-rgb(255,255,255)"
+											},
+											{
+												"offset": 77,
+												"length": 73,
+												"style": "bgcolor-rgb(255,255,255)"
+											},
+											{
+												"offset": 0,
+												"length": 71,
+												"style": "fontsize-16"
+											},
+											{
+												"offset": 77,
+												"length": 73,
+												"style": "fontsize-16"
+											},
+											{
+												"offset": 0,
+												"length": 71,
+												"style": "fontfamily--apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol"
+											},
+											{
+												"offset": 77,
+												"length": 73,
+												"style": "fontfamily--apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol"
+											},
+											{
+												"offset": 0,
+												"length": 151,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 151,
+												"style": "UNDERLINE"
+											},
+											{
+												"offset": 0,
+												"length": 151,
+												"style": "fontfamily-Noto Sans"
+											},
+											{
+												"offset": 72,
+												"length": 4,
+												"style": "CODE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
