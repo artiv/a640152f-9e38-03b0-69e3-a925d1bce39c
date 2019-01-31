@@ -137,7 +137,7 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"font": "Raleway",
+									"font": "Ubuntu",
 									"size": 16,
 									"color": {
 										"hex": "#ffffff",
