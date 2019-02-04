@@ -208,27 +208,27 @@
 								}
 							},
 							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh",
-								"version": 1549018641,
-								"signature": "6643bb176bbc62bb44030f7dd12664c26cd2d635",
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_ajh1nh_vvqyvx",
+								"version": 1549311813,
+								"signature": "bd90cfb8cf70be348deb9902f6543d68c3323694",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-02-01T10:57:21Z",
+								"created_at": "2019-02-04T20:23:33Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1055736,
+								"bytes": 1299362,
 								"type": "upload",
-								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"etag": "d0a6ae7a6ffcecee9e5c677212c71f3b",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1549311813/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_ajh1nh_vvqyvx.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549311813/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_ajh1nh_vvqyvx.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "384828",
+									"bit_rate": "351751",
 									"frequency": 48000,
 									"channels": 6,
 									"channel_layout": "5.1"
@@ -237,16 +237,16 @@
 									"pix_format": "yuv420p",
 									"codec": "h264",
 									"level": 31,
-									"profile": "Main",
-									"bit_rate": "1205959",
+									"profile": "High",
+									"bit_rate": "1605430",
 									"dar": "16:9"
 								},
 								"is_audio": false,
 								"frame_rate": 25,
-								"bit_rate": 1589963,
+								"bit_rate": 1948799,
 								"duration": 5.312,
 								"rotation": 0,
-								"original_filename": "sampleVideo",
+								"original_filename": "ffmpeged_sampleVideo_ajh1nh",
 								"path": "v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.jpg",
 								"overlays": [
@@ -310,10 +310,12 @@
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1549311813/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_ajh1nh_vvqyvx.mp4"
 								],
 								"transformedPublicIds": [
-									"a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh"
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh",
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_ajh1nh_vvqyvx"
 								],
 								"embed": {
 									"width": 1280,
