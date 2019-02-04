@@ -130,19 +130,6 @@
 								"overlays": [],
 								"videoOverlays": [
 									{
-										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh",
-										"x": "0",
-										"y": "0",
-										"width": "100",
-										"height": "default",
-										"isAttached": true,
-										"gravity": "center",
-										"crop": "scale",
-										"start_offset": "0",
-										"end_offset": "0",
-										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4"
-									},
-									{
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_yzwnlr_n8sye9",
 										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549049240/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_yzwnlr_n8sye9.mp4",
 										"x": "10",
@@ -154,7 +141,21 @@
 										"crop": "scale",
 										"start_offset": "0",
 										"end_offset": "0",
-										"useXY": false
+										"useXY": false,
+										"hasChanged": false
+									},
+									{
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549018641/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh.mp4"
 									},
 									{
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ajh1nh",
