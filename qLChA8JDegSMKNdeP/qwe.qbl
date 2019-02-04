@@ -142,7 +142,7 @@
 										"width": "60",
 										"height": "default",
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": "0",
 										"end_offset": "0",
