@@ -194,7 +194,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "samplevideo"
-								}
+								},
+								"isMuted": true
 							}
 						],
 						"fieldChildren": []
