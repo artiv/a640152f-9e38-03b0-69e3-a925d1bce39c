@@ -179,6 +179,61 @@
 										"start_offset": "2",
 										"end_offset": "6",
 										"useXY": false
+									},
+									{
+										"isText": true,
+										"font": "Raleway",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30",
+										"useXY": false,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "81k5j",
+													"text": "test too west",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 13,
+															"style": "fontfamily-Raleway"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "test too west"
 									}
 								],
 								"videoOverlays": [
