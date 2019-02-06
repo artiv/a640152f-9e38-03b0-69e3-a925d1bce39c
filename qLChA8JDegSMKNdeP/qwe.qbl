@@ -361,7 +361,15 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1549438617/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lxfv2l.jpg",
 								"overlays": [],
 								"videoOverlays": [],
-								"audioOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_lv8svx",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549399797/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_lv8svx.wav",
+										"isAttached": true,
+										"start_offset": "0",
+										"end_offset": "0"
+									}
+								],
 								"captions": {},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1549438617/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lxfv2l.mp4"
