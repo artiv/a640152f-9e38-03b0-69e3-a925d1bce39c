@@ -52,45 +52,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Image here?",
 						"fieldKey": "e750c8fc-dbf0-f654-920f-66c4d370f607",
-						"fieldValues": [
-							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ghfsgy",
-								"version": 1549317113,
-								"signature": "acbd1719644eecd9d55d903dac779e4da110260b",
-								"width": 864,
-								"height": 576,
-								"format": "jpg",
-								"resource_type": "image",
-								"created_at": "2019-02-04T21:51:53Z",
-								"tags": [],
-								"bytes": 109669,
-								"type": "upload",
-								"etag": "3e297c2d8da6cb1310727332e862ece4",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/image/upload/v1549317113/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ghfsgy.jpg",
-								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1549317113/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ghfsgy.jpg",
-								"access_mode": "public",
-								"existing": false,
-								"original_filename": "sample",
-								"path": "v1549317113/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ghfsgy.jpg",
-								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1549317113/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ghfsgy.jpg",
-								"overlays": [],
-								"embed": {
-									"width": 864,
-									"height": 576,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "sample"
-								}
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
