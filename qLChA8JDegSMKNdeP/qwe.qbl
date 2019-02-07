@@ -173,7 +173,7 @@
 										"y": "0",
 										"width": "50",
 										"height": "50",
-										"isAttached": true,
+										"isAttached": false,
 										"gravity": "center",
 										"crop": "scale",
 										"start_offset": "0",
