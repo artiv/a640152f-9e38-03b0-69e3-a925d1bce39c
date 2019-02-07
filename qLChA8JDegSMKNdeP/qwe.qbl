@@ -169,7 +169,7 @@
 									{
 										"isText": true,
 										"font": "Lato",
-										"size": 30,
+										"size": 24,
 										"color": {
 											"hex": "#ffffff",
 											"rgb": {
@@ -196,7 +196,13 @@
 													"text": "testing timing",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 14,
+															"style": "fontsize-24"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
