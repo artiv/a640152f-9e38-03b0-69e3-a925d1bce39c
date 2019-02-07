@@ -130,22 +130,22 @@
 						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
 						"fieldValues": [
 							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk",
-								"version": 1549483177,
-								"signature": "3e5cfa012e336a3ae34f21b68119657afa5caf6a",
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_pf911c",
+								"version": 1549563153,
+								"signature": "55b2241353eb7ad84e2b738e5d4e2fb59842167c",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-02-06T19:59:37Z",
+								"created_at": "2019-02-07T18:12:33Z",
 								"tags": [],
 								"pages": 0,
 								"bytes": 962305,
 								"type": "upload",
 								"etag": "4db104aced0a938a80900867f5c81ec0",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1549483177/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549483177/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1549563153/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_pf911c.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549563153/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_pf911c.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {},
@@ -185,11 +185,13 @@
 								"captions": {},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1549480618/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ytp50m.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1549483177/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1549483177/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1549563153/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_pf911c.mp4"
 								],
 								"transformedPublicIds": [
 									"a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_ytp50m",
-									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk"
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_kcgxvk",
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_noAudio_sampleVideo_ytp50m_pf911c"
 								],
 								"embed": {
 									"width": 1280,
