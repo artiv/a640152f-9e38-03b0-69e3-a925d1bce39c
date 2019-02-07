@@ -168,7 +168,7 @@
 								"overlays": [
 									{
 										"isText": true,
-										"font": "Ubuntu",
+										"font": "Raleway",
 										"size": 24,
 										"color": {
 											"hex": "#f9eaea",
@@ -193,19 +193,24 @@
 											"blocks": [
 												{
 													"key": "58ndi",
-													"text": "testing",
+													"text": "testingw",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [
 														{
 															"offset": 0,
-															"length": 7,
+															"length": 8,
 															"style": "fontsize-24"
 														},
 														{
 															"offset": 0,
-															"length": 7,
+															"length": 8,
 															"style": "fontfamily-Ubuntu"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "fontfamily-Raleway"
 														}
 													],
 													"entityRanges": [],
@@ -223,7 +228,7 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "testing"
+										"text": "testingw"
 									},
 									{
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ywaid8",
