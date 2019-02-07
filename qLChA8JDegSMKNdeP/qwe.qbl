@@ -168,7 +168,7 @@
 								"overlays": [
 									{
 										"isText": true,
-										"font": "Lato",
+										"font": "Ubuntu",
 										"size": 24,
 										"color": {
 											"hex": "#ffffff",
@@ -193,14 +193,19 @@
 											"blocks": [
 												{
 													"key": "58ndi",
-													"text": "testing timing",
+													"text": "testing",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [
 														{
 															"offset": 0,
-															"length": 14,
+															"length": 7,
 															"style": "fontsize-24"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontfamily-Ubuntu"
 														}
 													],
 													"entityRanges": [],
@@ -218,7 +223,7 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "testing timing"
+										"text": "testing"
 									},
 									{
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sample_ywaid8",
