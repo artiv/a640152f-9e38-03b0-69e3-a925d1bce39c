@@ -286,7 +286,7 @@
 									"seoSuffix": "modernfamily"
 								},
 								"underlay": {
-									"gravity": "north",
+									"gravity": "south",
 									"show": "stripe",
 									"boxcolor": {
 										"hex": "#f31212",
