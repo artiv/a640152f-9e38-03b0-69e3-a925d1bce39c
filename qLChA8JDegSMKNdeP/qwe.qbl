@@ -52,7 +52,45 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Image here?",
 						"fieldKey": "e750c8fc-dbf0-f654-920f-66c4d370f607",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sample_oyfhzo",
+								"version": 1549563071,
+								"signature": "28128dfc19ff8bb9f75c84b888641e7ca64cd970",
+								"width": 864,
+								"height": 576,
+								"format": "jpg",
+								"resource_type": "image",
+								"created_at": "2019-02-07T18:11:11Z",
+								"tags": [],
+								"bytes": 109669,
+								"type": "upload",
+								"etag": "3e297c2d8da6cb1310727332e862ece4",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1549563071/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_oyfhzo.jpg",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1549563071/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_oyfhzo.jpg",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "sample",
+								"path": "v1549563071/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_oyfhzo.jpg",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1549563071/a640152f-9e38-03b0-69e3-a925d1bce39c/sample_oyfhzo.jpg",
+								"overlays": [],
+								"embed": {
+									"width": 864,
+									"height": 576,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sample"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
