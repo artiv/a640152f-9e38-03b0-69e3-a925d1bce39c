@@ -126,7 +126,82 @@
 								"original_filename": "ffmpeged_Volantio-AirPitch-Video_qjxuyc",
 								"path": "v1550010663/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_qjxuyc.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550010663/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_qjxuyc.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "4fs2p",
+													"text": "and , ' : \" . ; [ ] ( ) 0s ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 26,
+															"style": "color-rgba(0,0,0,0.87)"
+														},
+														{
+															"offset": 0,
+															"length": 26,
+															"style": "bgcolor-rgb(255,255,255)"
+														},
+														{
+															"offset": 0,
+															"length": 26,
+															"style": "fontfamily-Roboto, sans-serif"
+														},
+														{
+															"offset": 0,
+															"length": 27,
+															"style": "fontsize-24"
+														},
+														{
+															"offset": 0,
+															"length": 27,
+															"style": "fontfamily-Noto Sans"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "and , ' : \" . ; [ ] ( ) 0s "
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
