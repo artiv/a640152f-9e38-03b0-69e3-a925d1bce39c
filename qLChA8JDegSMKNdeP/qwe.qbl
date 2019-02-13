@@ -130,7 +130,7 @@
 									{
 										"isText": true,
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 18,
 										"color": {
 											"hex": "#ffffff",
 											"rgb": {
@@ -182,6 +182,11 @@
 															"offset": 0,
 															"length": 27,
 															"style": "fontfamily-Noto Sans"
+														},
+														{
+															"offset": 0,
+															"length": 27,
+															"style": "fontsize-18"
 														}
 													],
 													"entityRanges": [],
