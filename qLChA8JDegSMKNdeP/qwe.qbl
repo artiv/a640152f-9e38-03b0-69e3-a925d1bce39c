@@ -141,9 +141,9 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "My name is whatever and , ' :",
+										"text": "whatever and , ' :",
 										"font": "Noto Sans",
-										"size": 14,
+										"size": 24,
 										"color": {
 											"hex": "#ffffff",
 											"rgb": {
@@ -159,10 +159,16 @@
 											"blocks": [
 												{
 													"key": "cdd6",
-													"text": "My name is whatever and , ' :",
+													"text": "whatever and , ' :",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 18,
+															"style": "fontsize-24"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
