@@ -141,9 +141,9 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "whatever and , ' :",
+										"text": "and , ' :",
 										"font": "Noto Sans",
-										"size": 24,
+										"size": 18,
 										"color": {
 											"hex": "#ffffff",
 											"rgb": {
@@ -159,14 +159,14 @@
 											"blocks": [
 												{
 													"key": "cdd6",
-													"text": "whatever and , ' :",
+													"text": "and , ' :",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [
 														{
 															"offset": 0,
-															"length": 18,
-															"style": "fontsize-24"
+															"length": 9,
+															"style": "fontsize-18"
 														}
 													],
 													"entityRanges": [],
