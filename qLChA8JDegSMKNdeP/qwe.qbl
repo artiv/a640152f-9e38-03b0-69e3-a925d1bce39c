@@ -135,7 +135,7 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "and , ' : \" . ; [ ] ( ) 0",
+										"text": "and , ' : \" . ; [ ] ( ) 0s",
 										"font": "Noto Sans",
 										"size": 16,
 										"color": {
@@ -153,18 +153,18 @@
 											"blocks": [
 												{
 													"key": "cdd6",
-													"text": "and , ' : \" . ; [ ] ( ) 0",
+													"text": "and , ' : \" . ; [ ] ( ) 0s",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [
 														{
 															"offset": 0,
-															"length": 25,
+															"length": 26,
 															"style": "fontsize-30"
 														},
 														{
 															"offset": 0,
-															"length": 25,
+															"length": 26,
 															"style": "fontsize-16"
 														}
 													],
