@@ -141,7 +141,7 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "and , ' :",
+										"text": "and , ' : \" .",
 										"font": "Noto Sans",
 										"size": 18,
 										"color": {
@@ -159,13 +159,13 @@
 											"blocks": [
 												{
 													"key": "cdd6",
-													"text": "and , ' :",
+													"text": "and , ' : \" .",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [
 														{
 															"offset": 0,
-															"length": 9,
+															"length": 13,
 															"style": "fontsize-24"
 														}
 													],
