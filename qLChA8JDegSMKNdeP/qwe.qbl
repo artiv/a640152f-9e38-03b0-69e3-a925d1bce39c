@@ -137,7 +137,7 @@
 										"crop": "scale",
 										"text": "and , ' : \" . ; [ ] ( ) 0",
 										"font": "Noto Sans",
-										"size": 18,
+										"size": 16,
 										"color": {
 											"hex": "#ffffff",
 											"rgb": {
@@ -161,6 +161,11 @@
 															"offset": 0,
 															"length": 25,
 															"style": "fontsize-30"
+														},
+														{
+															"offset": 0,
+															"length": 25,
+															"style": "fontsize-16"
 														}
 													],
 													"entityRanges": [],
