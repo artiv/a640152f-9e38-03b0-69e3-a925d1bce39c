@@ -138,11 +138,10 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "My name is Azim and",
+										"text": "My name is whatever and",
 										"font": "Noto Sans",
 										"size": 14,
 										"color": {
@@ -160,7 +159,7 @@
 											"blocks": [
 												{
 													"key": "cdd6",
-													"text": "My name is Azim and",
+													"text": "My name is whatever and",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -173,10 +172,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
