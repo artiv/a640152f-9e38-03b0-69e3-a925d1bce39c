@@ -92,36 +92,42 @@
 						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
 						"fieldValues": [
 							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf",
-								"version": 1550063528,
-								"signature": "3017dd14d561005f73d440b95da1a6b1d864e865",
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_lszpsv",
+								"version": 1550084742,
+								"signature": "acd1bb1fd9d78896af8951b0d285740b28c40e33",
 								"width": 960,
 								"height": 540,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-02-13T13:12:08Z",
+								"created_at": "2019-02-13T19:05:42Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 13650405,
+								"bytes": 15064386,
 								"type": "upload",
-								"etag": "8a8e4184454ca8b325e37cb2a9b3c214",
+								"etag": "2e255d546cde62880aab88a4f2103242",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1550063528/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550063528/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550084742/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_lszpsv.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550084742/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_lszpsv.mp4",
 								"access_mode": "public",
 								"existing": false,
-								"audio": {},
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "102096",
+									"frequency": 48000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
 									"level": 31,
 									"profile": "High",
-									"bit_rate": "910291"
+									"bit_rate": "896810"
 								},
 								"is_audio": false,
 								"frame_rate": 29.97002997002997,
-								"bit_rate": 913169,
-								"duration": 119.587,
+								"bit_rate": 1007524,
+								"duration": 119.615,
 								"rotation": 0,
 								"original_filename": "ffmpeged_Volantio-AirPitch-Video_qjxuyc",
 								"path": "v1550010663/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_qjxuyc.mp4",
@@ -805,14 +811,16 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1550010898/a640152f-9e38-03b0-69e3-a925d1bce39c/transcribed_Volantio-AirPitch-Video_qjxuyc_inqsc6.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1550047041/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_gyfxfm.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1550048545/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_khcyvo.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1550063528/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1550063528/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1550084742/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_lszpsv.mp4"
 								],
 								"transformedPublicIds": [
 									"a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_qjxuyc",
 									"a640152f-9e38-03b0-69e3-a925d1bce39c/transcribed_Volantio-AirPitch-Video_qjxuyc_inqsc6",
 									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_gyfxfm",
 									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_khcyvo",
-									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf"
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_fefnvf",
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_qjxuyc_lszpsv"
 								],
 								"embed": {
 									"width": 960,
