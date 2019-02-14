@@ -6905,6 +6905,73 @@
 										"hex": "#ff0000"
 									}
 								}
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe",
+								"version": 1550142513,
+								"signature": "f4f8f568da4c4d9a00d6108bd990a6cd10b5a0b6",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-02-14T11:08:33Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1055736,
+								"type": "upload",
+								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550142513/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550142513/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "384828",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1205959",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1589963,
+								"duration": 5.312,
+								"rotation": 0,
+								"original_filename": "sampleVideo",
+								"path": "v1550142513/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550142513/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1550142513/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe.mp4"
+								],
+								"transformedPublicIds": [
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_iwhdhe"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo"
+								}
 							}
 						],
 						"fieldChildren": []
