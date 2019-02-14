@@ -6909,16 +6909,16 @@
 								},
 								"isMuted": false,
 								"underlay": {
-									"show": "stripe",
 									"gravity": "south",
+									"show": "background",
 									"boxcolor": {
+										"hex": "#ff0000",
 										"rgb": {
 											"r": 255,
 											"g": 0,
 											"b": 0,
-											"a": 0.1
-										},
-										"hex": "#ff0000"
+											"a": 0.47
+										}
 									}
 								}
 							},
