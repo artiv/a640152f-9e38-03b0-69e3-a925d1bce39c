@@ -1,0 +1,912 @@
+{
+	"fileName": "zh-Hans_qwe.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "1c079c4e-dc8b-787e-f7e9-660efbe45846",
+			"fileItemDate": "2019-02-16T09:54:01.825Z",
+			"fileItemCollections": [
+				"qLChA8JDegSMKNdeP"
+			],
+			"fileItemCollectionsForTranslation": [
+				"qLChA8JDegSMKNdeP"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "CeA8p4vd4QGtNpMkb",
+			"possibleLanguages": [
+				"s92WwXsGAnDHNAHiT",
+				"mNoBFtySGcEGRpKRh",
+				"CeA8p4vd4QGtNpMkb",
+				"8MkX5fX6HeXvZ6MBT",
+				"Y4FbmNRvZboJQLruG",
+				"HJrvRHnjTmFXptL3x"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "3849bcec-cb46-c668-d536-8b5ec5302ec0",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here?",
+						"fieldKey": "e750c8fc-dbf0-f654-920f-66c4d370f607",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "de489a90-ba1c-a3b5-c33b-6f663646dc8c",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here?",
+						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis",
+								"version": 1550219131,
+								"signature": "f81b2b8bb6904b4a2cd19faa307f19867cf1b28f",
+								"width": 960,
+								"height": 540,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-02-15T08:25:31Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 23986315,
+								"type": "upload",
+								"etag": "83ce1d4d3bf948b039449d7b7cc2ca0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "102096",
+									"frequency": 48000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "High",
+									"bit_rate": "1497758"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 1604234,
+								"duration": 119.615,
+								"rotation": 0,
+								"original_filename": "Volantio-AirPitch-Video",
+								"path": "v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:00,700 --> 00:00:01,900\n我的名字是阿齐姆和\n\n2\n00:00:01,900 --> 00:00:02,900\n我是\n\n3\n00:00:02,900 --> 00:00:03,500\n沃兰蒂奥\n\n4\n00:00:03,500 --> 00:00:04,700\n旅游技术\n\n5\n00:00:04,700 --> 00:00:05,900\n公司专注于\n\n6\n00:00:05,900 --> 00:00:06,800\n开得更高\n\n7\n00:00:06,800 --> 00:00:07,400\n收入\n\n8\n00:00:07,400 --> 00:00:08,600\n更高效的操作,\n\n9\n00:00:08,600 --> 00:00:09,600\n和\n\n10\n00:00:09,600 --> 00:00:10,600\n改善乘客\n\n11\n00:00:10,600 --> 00:00:11,500\n的经验\n\n12\n00:00:11,500 --> 00:00:12,100\n航空公司。\n\n13\n00:00:12,100 --> 00:00:13,800\n我们很高兴\n\n14\n00:00:13,800 --> 00:00:14,600\n适用于空气\n\n15\n00:00:14,600 --> 00:00:15,800\n间距和\n\n16\n00:00:15,800 --> 00:00:16,900\n讨论沃尔蒂奥如何\n\n17\n00:00:16,900 --> 00:00:17,500\n解决 方案\n\n18\n00:00:17,500 --> 00:00:18,700\n专门解决了\n\n19\n00:00:18,700 --> 00:00:19,800\n的支柱, 创造了一个\n\n20\n00:00:19,800 --> 00:00:20,600\n伟大的和\n\n21\n00:00:20,600 --> 00:00:21,900\n独特的旅行体验,\n\n22\n00:00:21,900 --> 00:00:22,800\n和\n\n23\n00:00:22,800 --> 00:00:23,400\n反思\n\n24\n00:00:23,400 --> 00:00:24,600\n航空公司运营。\n\n25\n00:00:24,600 --> 00:00:25,800\n现在我们已经\n\n26\n00:00:25,800 --> 00:00:26,700\n都是以前去过那里\n\n27\n00:00:26,700 --> 00:00:27,800\n你得到的\n\n28\n00:00:27,800 --> 00:00:28,900\n机场为那 6:00\n\n29\n00:00:28,900 --> 00:00:29,600\n上午飞行,\n\n30\n00:00:29,600 --> 00:00:30,800\n突然间\n\n31\n00:00:30,800 --> 00:00:31,900\n发现自己在中间\n\n32\n00:00:31,900 --> 00:00:32,900\n一个活的\n\n33\n00:00:32,900 --> 00:00:33,900\n拍卖为您的\n\n34\n00:00:33,900 --> 00:00:34,300\n座位。\n\n35\n00:00:34,300 --> 00:00:36,600\n300美元, 然后\n\n36\n00:00:36,600 --> 00:00:37,700\n500块然后\n\n37\n00:00:37,700 --> 00:00:39,500\n1500美元\n\n38\n00:00:39,500 --> 00:00:40,900\n而你却在想\n\n39\n00:00:40,900 --> 00:00:41,800\n你自己, 我会有\n\n40\n00:00:41,800 --> 00:00:42,800\n愉快地改变了\n\n41\n00:00:42,800 --> 00:00:43,800\n我的航班少了\n\n42\n00:00:43,800 --> 00:00:44,800\n如果他们有\n\n43\n00:00:44,800 --> 00:00:45,800\n只是告诉我提前\n\n44\n00:00:45,800 --> 00:00:46,100\n的时间,\n\n45\n00:00:46,100 --> 00:00:47,800\n而不是当我坐在\n\n46\n00:00:47,800 --> 00:00:48,000\n门。\n\n47\n00:00:49,000 --> 00:00:50,500\n沃兰蒂奥已经决定\n\n48\n00:00:50,500 --> 00:00:51,700\n解决这一挑战。\n\n49\n00:00:51,700 --> 00:00:52,600\n我们\n\n50\n00:00:52,600 --> 00:00:53,800\n自动化平台\n\n51\n00:00:53,800 --> 00:00:54,600\n杠杆机\n\n52\n00:00:54,600 --> 00:00:55,300\n学习帮助\n\n53\n00:00:55,300 --> 00:00:56,900\n航空公司主动\n\n54\n00:00:56,900 --> 00:00:57,500\n识别\n\n55\n00:00:57,500 --> 00:00:58,900\n灵活的客人在目标\n\n56\n00:00:58,900 --> 00:00:59,400\n航班\n\n57\n00:00:59,400 --> 00:01:00,800\n让他们提供\n\n58\n00:01:00,800 --> 00:01:01,300\n移动另一个\n\n59\n00:01:01,300 --> 00:01:02,900\n航班, 并重新预订\n\n60\n00:01:02,900 --> 00:01:03,700\n他们一旦他们\n\n61\n00:01:03,700 --> 00:01:04,300\n接受。\n\n62\n00:01:04,300 --> 00:01:05,500\n客人包括\n\n63\n00:01:05,500 --> 00:01:06,800\n通知通过\n\n64\n00:01:06,800 --> 00:01:07,300\n移动\n\n65\n00:01:07,300 --> 00:01:08,500\n在之前的\n\n66\n00:01:08,500 --> 00:01:09,800\n出发, 最大限度地减少\n\n67\n00:01:09,800 --> 00:01:10,900\n最后一刻的麻烦,\n\n68\n00:01:10,900 --> 00:01:11,800\n并提供足够的\n\n69\n00:01:11,800 --> 00:01:12,500\n时间来改变\n\n70\n00:01:12,500 --> 00:01:13,600\n计划相应。\n\n71\n00:01:13,600 --> 00:01:15,900\n我们的平台还可以\n\n72\n00:01:15,900 --> 00:01:16,700\n用于驱动\n\n73\n00:01:16,700 --> 00:01:17,800\n增加的收入,\n\n74\n00:01:17,800 --> 00:01:18,700\n和\n\n75\n00:01:18,700 --> 00:01:19,800\n帮助航空公司处理\n\n76\n00:01:19,800 --> 00:01:20,800\n与不规则的\n\n77\n00:01:20,800 --> 00:01:21,100\n操作。\n\n78\n00:01:22,300 --> 00:01:23,900\n沃兰蒂奥已经收到了严重的\n\n79\n00:01:23,900 --> 00:01:24,800\n牵引力在\n\n80\n00:01:24,800 --> 00:01:25,400\n市场。\n\n81\n00:01:25,400 --> 00:01:26,600\n我们的解决方案是\n\n82\n00:01:26,600 --> 00:01:27,500\n住在七点\n\n83\n00:01:27,500 --> 00:01:28,700\n今天, 全球航空公司,\n\n84\n00:01:28,700 --> 00:01:29,800\n和\n\n85\n00:01:29,800 --> 00:01:30,800\n收到的资金来自\n\n86\n00:01:30,800 --> 00:01:31,600\n捷蓝科技\n\n87\n00:01:31,600 --> 00:01:32,100\n企业\n\n88\n00:01:32,100 --> 00:01:33,700\niag\n\n89\n00:01:33,700 --> 00:01:34,800\n企业和\n\n90\n00:01:34,800 --> 00:01:35,800\n澳航创投。\n\n91\n00:01:35,800 --> 00:01:36,900\n我们也在\n\n92\n00:01:36,900 --> 00:01:37,900\n驾驶2倍\n\n93\n00:01:37,900 --> 00:01:38,800\n到5倍返回\n\n94\n00:01:38,800 --> 00:01:39,600\n投资。\n\n95\n00:01:40,200 --> 00:01:40,600\n我们\n\n96\n00:01:40,600 --> 00:01:41,200\n解决方案是\n\n97\n00:01:41,200 --> 00:01:42,800\n改变旅行体验,\n\n98\n00:01:42,800 --> 00:01:43,900\n和\n\n99\n00:01:43,900 --> 00:01:44,500\n减少\n\n100\n00:01:44,500 --> 00:01:45,700\n操作上的难题。\n\n101\n00:01:45,700 --> 00:01:46,800\n航空公司 a\n\n102\n00:01:46,800 --> 00:01:47,900\n双赢。\n\n103\n00:01:47,900 --> 00:01:48,800\n给\n\n104\n00:01:48,800 --> 00:01:49,800\n其规模和\n\n105\n00:01:49,800 --> 00:01:50,900\n个人资料, 我们相信\n\n106\n00:01:50,900 --> 00:01:51,700\n斯基夫特全球\n\n107\n00:01:51,700 --> 00:01:52,700\n论坛是\n\n108\n00:01:52,700 --> 00:01:53,800\n完美的场地\n\n109\n00:01:53,800 --> 00:01:54,500\n沃兰蒂奥到\n\n110\n00:01:54,500 --> 00:01:55,800\n展示我们的创新\n\n111\n00:01:55,800 --> 00:01:56,600\n解决 方案。\n\n112\n00:01:56,600 --> 00:01:57,900\n谢谢。\n",
+									"parsed": [
+										{
+											"start": 700,
+											"end": 1900,
+											"text": "我的名字是阿齐姆和"
+										},
+										{
+											"start": 1900,
+											"end": 2900,
+											"text": "我是"
+										},
+										{
+											"start": 2900,
+											"end": 3500,
+											"text": "沃兰蒂奥"
+										},
+										{
+											"start": 3500,
+											"end": 4700,
+											"text": "旅游技术"
+										},
+										{
+											"start": 4700,
+											"end": 5900,
+											"text": "公司专注于"
+										},
+										{
+											"start": 5900,
+											"end": 6800,
+											"text": "开得更高"
+										},
+										{
+											"start": 6800,
+											"end": 7400,
+											"text": "收入"
+										},
+										{
+											"start": 7400,
+											"end": 8600,
+											"text": "更高效的操作,"
+										},
+										{
+											"start": 8600,
+											"end": 9600,
+											"text": "和"
+										},
+										{
+											"start": 9600,
+											"end": 10600,
+											"text": "改善乘客"
+										},
+										{
+											"start": 10600,
+											"end": 11500,
+											"text": "的经验"
+										},
+										{
+											"start": 11500,
+											"end": 12100,
+											"text": "航空公司。"
+										},
+										{
+											"start": 12100,
+											"end": 13800,
+											"text": "我们很高兴"
+										},
+										{
+											"start": 13800,
+											"end": 14600,
+											"text": "适用于空气"
+										},
+										{
+											"start": 14600,
+											"end": 15800,
+											"text": "间距和"
+										},
+										{
+											"start": 15800,
+											"end": 16900,
+											"text": "讨论沃尔蒂奥如何"
+										},
+										{
+											"start": 16900,
+											"end": 17500,
+											"text": "解决 方案"
+										},
+										{
+											"start": 17500,
+											"end": 18700,
+											"text": "专门解决了"
+										},
+										{
+											"start": 18700,
+											"end": 19800,
+											"text": "的支柱, 创造了一个"
+										},
+										{
+											"start": 19800,
+											"end": 20600,
+											"text": "伟大的和"
+										},
+										{
+											"start": 20600,
+											"end": 21900,
+											"text": "独特的旅行体验,"
+										},
+										{
+											"start": 21900,
+											"end": 22800,
+											"text": "和"
+										},
+										{
+											"start": 22800,
+											"end": 23400,
+											"text": "反思"
+										},
+										{
+											"start": 23400,
+											"end": 24600,
+											"text": "航空公司运营。"
+										},
+										{
+											"start": 24600,
+											"end": 25800,
+											"text": "现在我们已经"
+										},
+										{
+											"start": 25800,
+											"end": 26700,
+											"text": "都是以前去过那里"
+										},
+										{
+											"start": 26700,
+											"end": 27800,
+											"text": "你得到的"
+										},
+										{
+											"start": 27800,
+											"end": 28900,
+											"text": "机场为那 6:00"
+										},
+										{
+											"start": 28900,
+											"end": 29600,
+											"text": "上午飞行,"
+										},
+										{
+											"start": 29600,
+											"end": 30800,
+											"text": "突然间"
+										},
+										{
+											"start": 30800,
+											"end": 31900,
+											"text": "发现自己在中间"
+										},
+										{
+											"start": 31900,
+											"end": 32900,
+											"text": "一个活的"
+										},
+										{
+											"start": 32900,
+											"end": 33900,
+											"text": "拍卖为您的"
+										},
+										{
+											"start": 33900,
+											"end": 34300,
+											"text": "座位。"
+										},
+										{
+											"start": 34300,
+											"end": 36600,
+											"text": "300美元, 然后"
+										},
+										{
+											"start": 36600,
+											"end": 37700,
+											"text": "500块然后"
+										},
+										{
+											"start": 37700,
+											"end": 39500,
+											"text": "1500美元"
+										},
+										{
+											"start": 39500,
+											"end": 40900,
+											"text": "而你却在想"
+										},
+										{
+											"start": 40900,
+											"end": 41800,
+											"text": "你自己, 我会有"
+										},
+										{
+											"start": 41800,
+											"end": 42800,
+											"text": "愉快地改变了"
+										},
+										{
+											"start": 42800,
+											"end": 43800,
+											"text": "我的航班少了"
+										},
+										{
+											"start": 43800,
+											"end": 44800,
+											"text": "如果他们有"
+										},
+										{
+											"start": 44800,
+											"end": 45800,
+											"text": "只是告诉我提前"
+										},
+										{
+											"start": 45800,
+											"end": 46100,
+											"text": "的时间,"
+										},
+										{
+											"start": 46100,
+											"end": 47800,
+											"text": "而不是当我坐在"
+										},
+										{
+											"start": 47800,
+											"end": 48000,
+											"text": "门。"
+										},
+										{
+											"start": 49000,
+											"end": 50500,
+											"text": "沃兰蒂奥已经决定"
+										},
+										{
+											"start": 50500,
+											"end": 51700,
+											"text": "解决这一挑战。"
+										},
+										{
+											"start": 51700,
+											"end": 52600,
+											"text": "我们"
+										},
+										{
+											"start": 52600,
+											"end": 53800,
+											"text": "自动化平台"
+										},
+										{
+											"start": 53800,
+											"end": 54600,
+											"text": "杠杆机"
+										},
+										{
+											"start": 54600,
+											"end": 55300,
+											"text": "学习帮助"
+										},
+										{
+											"start": 55300,
+											"end": 56900,
+											"text": "航空公司主动"
+										},
+										{
+											"start": 56900,
+											"end": 57500,
+											"text": "识别"
+										},
+										{
+											"start": 57500,
+											"end": 58900,
+											"text": "灵活的客人在目标"
+										},
+										{
+											"start": 58900,
+											"end": 59400,
+											"text": "航班"
+										},
+										{
+											"start": 59400,
+											"end": 60800,
+											"text": "让他们提供"
+										},
+										{
+											"start": 60800,
+											"end": 61300,
+											"text": "移动另一个"
+										},
+										{
+											"start": 61300,
+											"end": 62900,
+											"text": "航班, 并重新预订"
+										},
+										{
+											"start": 62900,
+											"end": 63700,
+											"text": "他们一旦他们"
+										},
+										{
+											"start": 63700,
+											"end": 64300,
+											"text": "接受。"
+										},
+										{
+											"start": 64300,
+											"end": 65500,
+											"text": "客人包括"
+										},
+										{
+											"start": 65500,
+											"end": 66800,
+											"text": "通知通过"
+										},
+										{
+											"start": 66800,
+											"end": 67300,
+											"text": "移动"
+										},
+										{
+											"start": 67300,
+											"end": 68500,
+											"text": "在之前的"
+										},
+										{
+											"start": 68500,
+											"end": 69800,
+											"text": "出发, 最大限度地减少"
+										},
+										{
+											"start": 69800,
+											"end": 70900,
+											"text": "最后一刻的麻烦,"
+										},
+										{
+											"start": 70900,
+											"end": 71800,
+											"text": "并提供足够的"
+										},
+										{
+											"start": 71800,
+											"end": 72500,
+											"text": "时间来改变"
+										},
+										{
+											"start": 72500,
+											"end": 73600,
+											"text": "计划相应。"
+										},
+										{
+											"start": 73600,
+											"end": 75900,
+											"text": "我们的平台还可以"
+										},
+										{
+											"start": 75900,
+											"end": 76700,
+											"text": "用于驱动"
+										},
+										{
+											"start": 76700,
+											"end": 77800,
+											"text": "增加的收入,"
+										},
+										{
+											"start": 77800,
+											"end": 78700,
+											"text": "和"
+										},
+										{
+											"start": 78700,
+											"end": 79800,
+											"text": "帮助航空公司处理"
+										},
+										{
+											"start": 79800,
+											"end": 80800,
+											"text": "与不规则的"
+										},
+										{
+											"start": 80800,
+											"end": 81100,
+											"text": "操作。"
+										},
+										{
+											"start": 82300,
+											"end": 83900,
+											"text": "沃兰蒂奥已经收到了严重的"
+										},
+										{
+											"start": 83900,
+											"end": 84800,
+											"text": "牵引力在"
+										},
+										{
+											"start": 84800,
+											"end": 85400,
+											"text": "市场。"
+										},
+										{
+											"start": 85400,
+											"end": 86600,
+											"text": "我们的解决方案是"
+										},
+										{
+											"start": 86600,
+											"end": 87500,
+											"text": "住在七点"
+										},
+										{
+											"start": 87500,
+											"end": 88700,
+											"text": "今天, 全球航空公司,"
+										},
+										{
+											"start": 88700,
+											"end": 89800,
+											"text": "和"
+										},
+										{
+											"start": 89800,
+											"end": 90800,
+											"text": "收到的资金来自"
+										},
+										{
+											"start": 90800,
+											"end": 91600,
+											"text": "捷蓝科技"
+										},
+										{
+											"start": 91600,
+											"end": 92100,
+											"text": "企业"
+										},
+										{
+											"start": 92100,
+											"end": 93700,
+											"text": "iag"
+										},
+										{
+											"start": 93700,
+											"end": 94800,
+											"text": "企业和"
+										},
+										{
+											"start": 94800,
+											"end": 95800,
+											"text": "澳航创投。"
+										},
+										{
+											"start": 95800,
+											"end": 96900,
+											"text": "我们也在"
+										},
+										{
+											"start": 96900,
+											"end": 97900,
+											"text": "驾驶2倍"
+										},
+										{
+											"start": 97900,
+											"end": 98800,
+											"text": "到5倍返回"
+										},
+										{
+											"start": 98800,
+											"end": 99600,
+											"text": "投资。"
+										},
+										{
+											"start": 100200,
+											"end": 100600,
+											"text": "我们"
+										},
+										{
+											"start": 100600,
+											"end": 101200,
+											"text": "解决方案是"
+										},
+										{
+											"start": 101200,
+											"end": 102800,
+											"text": "改变旅行体验,"
+										},
+										{
+											"start": 102800,
+											"end": 103900,
+											"text": "和"
+										},
+										{
+											"start": 103900,
+											"end": 104500,
+											"text": "减少"
+										},
+										{
+											"start": 104500,
+											"end": 105700,
+											"text": "操作上的难题。"
+										},
+										{
+											"start": 105700,
+											"end": 106800,
+											"text": "航空公司 a"
+										},
+										{
+											"start": 106800,
+											"end": 107900,
+											"text": "双赢。"
+										},
+										{
+											"start": 107900,
+											"end": 108800,
+											"text": "给"
+										},
+										{
+											"start": 108800,
+											"end": 109800,
+											"text": "其规模和"
+										},
+										{
+											"start": 109800,
+											"end": 110900,
+											"text": "个人资料, 我们相信"
+										},
+										{
+											"start": 110900,
+											"end": 111700,
+											"text": "斯基夫特全球"
+										},
+										{
+											"start": 111700,
+											"end": 112700,
+											"text": "论坛是"
+										},
+										{
+											"start": 112700,
+											"end": 113800,
+											"text": "完美的场地"
+										},
+										{
+											"start": 113800,
+											"end": 114500,
+											"text": "沃兰蒂奥到"
+										},
+										{
+											"start": 114500,
+											"end": 115800,
+											"text": "展示我们的创新"
+										},
+										{
+											"start": 115800,
+											"end": 116600,
+											"text": "解决 方案。"
+										},
+										{
+											"start": 116600,
+											"end": 117900,
+											"text": "谢谢。"
+										}
+									],
+									"font": "Noto Sans SC Regular",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis_zh-Hans_waLL.srt",
+										"version": 1550310850,
+										"signature": "7c0894a055fcbec70daab6e08cb35b141be1da51",
+										"resource_type": "raw",
+										"created_at": "2019-02-16T09:54:10Z",
+										"tags": [],
+										"bytes": 5520,
+										"type": "upload",
+										"etag": "9fbb2118bb6518dc250e056861a29387",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1550310850/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis_zh-Hans_waLL.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1550310850/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis_zh-Hans_waLL.srt",
+										"access_mode": "public"
+									},
+									"originalCaptionString": "1\n00:00:00,700 --> 00:00:01,900\nMy name is Azim and\n\n2\n00:00:01,900 --> 00:00:02,900\nI'm the CEO of\n\n3\n00:00:02,900 --> 00:00:03,500\nVolantio,\n\n4\n00:00:03,500 --> 00:00:04,700\na travel technology\n\n5\n00:00:04,700 --> 00:00:05,900\ncompany focused on\n\n6\n00:00:05,900 --> 00:00:06,800\ndriving higher\n\n7\n00:00:06,800 --> 00:00:07,400\nrevenues,\n\n8\n00:00:07,400 --> 00:00:08,600\nmore efficient operations,\n\n9\n00:00:08,600 --> 00:00:09,600\nand\n\n10\n00:00:09,600 --> 00:00:10,600\nimproved passenger\n\n11\n00:00:10,600 --> 00:00:11,500\nexperiences for\n\n12\n00:00:11,500 --> 00:00:12,100\nAirlines.\n\n13\n00:00:12,100 --> 00:00:13,800\nWe're very excited to\n\n14\n00:00:13,800 --> 00:00:14,600\napply to Air\n\n15\n00:00:14,600 --> 00:00:15,800\nPitch and to\n\n16\n00:00:15,800 --> 00:00:16,900\ndiscuss how Volantio\n\n17\n00:00:16,900 --> 00:00:17,500\nSolutions\n\n18\n00:00:17,500 --> 00:00:18,700\nspecifically addresses the\n\n19\n00:00:18,700 --> 00:00:19,800\npillars of creating a\n\n20\n00:00:19,800 --> 00:00:20,600\ngreat and\n\n21\n00:00:20,600 --> 00:00:21,900\nunique travel experience,\n\n22\n00:00:21,900 --> 00:00:22,800\nand\n\n23\n00:00:22,800 --> 00:00:23,400\nrethinking\n\n24\n00:00:23,400 --> 00:00:24,600\nairline operations.\n\n25\n00:00:24,600 --> 00:00:25,800\nNow we've\n\n26\n00:00:25,800 --> 00:00:26,700\nall been there before,\n\n27\n00:00:26,700 --> 00:00:27,800\nyou get to the\n\n28\n00:00:27,800 --> 00:00:28,900\nairport for that 6:00\n\n29\n00:00:28,900 --> 00:00:29,600\na.m. flight,\n\n30\n00:00:29,600 --> 00:00:30,800\nand suddenly\n\n31\n00:00:30,800 --> 00:00:31,900\nfind yourself in the middle\n\n32\n00:00:31,900 --> 00:00:32,900\nof a live\n\n33\n00:00:32,900 --> 00:00:33,900\nauction for your\n\n34\n00:00:33,900 --> 00:00:34,300\nseat.\n\n35\n00:00:34,300 --> 00:00:36,600\n$300, then\n\n36\n00:00:36,600 --> 00:00:37,700\n$500. then\n\n37\n00:00:37,700 --> 00:00:39,500\n$1,500,\n\n38\n00:00:39,500 --> 00:00:40,900\nand you're thinking to\n\n39\n00:00:40,900 --> 00:00:41,800\nyourself I would have\n\n40\n00:00:41,800 --> 00:00:42,800\nhappily changed\n\n41\n00:00:42,800 --> 00:00:43,800\nmy flight for less,\n\n42\n00:00:43,800 --> 00:00:44,800\nif they had\n\n43\n00:00:44,800 --> 00:00:45,800\njust told me ahead\n\n44\n00:00:45,800 --> 00:00:46,100\nof time,\n\n45\n00:00:46,100 --> 00:00:47,800\ninstead of when I'm sitting at the\n\n46\n00:00:47,800 --> 00:00:48,000\ngate.\n\n47\n00:00:49,000 --> 00:00:50,500\nVolantio has decided to\n\n48\n00:00:50,500 --> 00:00:51,700\nsolve this challenge.\n\n49\n00:00:51,700 --> 00:00:52,600\nOur\n\n50\n00:00:52,600 --> 00:00:53,800\nautomated platform\n\n51\n00:00:53,800 --> 00:00:54,600\nleverages machine\n\n52\n00:00:54,600 --> 00:00:55,300\nlearning to help\n\n53\n00:00:55,300 --> 00:00:56,900\nairlines proactively\n\n54\n00:00:56,900 --> 00:00:57,500\nidentify\n\n55\n00:00:57,500 --> 00:00:58,900\nflexible guest on target\n\n56\n00:00:58,900 --> 00:00:59,400\nflights,\n\n57\n00:00:59,400 --> 00:01:00,800\nmake them offers to\n\n58\n00:01:00,800 --> 00:01:01,300\nmove the other\n\n59\n00:01:01,300 --> 00:01:02,900\nflights, and re-book\n\n60\n00:01:02,900 --> 00:01:03,700\nthem once they\n\n61\n00:01:03,700 --> 00:01:04,300\naccept.\n\n62\n00:01:04,300 --> 00:01:05,500\nGuests are\n\n63\n00:01:05,500 --> 00:01:06,800\nnotified via\n\n64\n00:01:06,800 --> 00:01:07,300\nmobile,\n\n65\n00:01:07,300 --> 00:01:08,500\nin advance of\n\n66\n00:01:08,500 --> 00:01:09,800\ndeparture, minimising\n\n67\n00:01:09,800 --> 00:01:10,900\nlast-minute hassle,\n\n68\n00:01:10,900 --> 00:01:11,800\nand providing enough\n\n69\n00:01:11,800 --> 00:01:12,500\ntime to change\n\n70\n00:01:12,500 --> 00:01:13,600\nplans accordingly.\n\n71\n00:01:13,600 --> 00:01:15,900\nOur platform can also\n\n72\n00:01:15,900 --> 00:01:16,700\nbe used to drive\n\n73\n00:01:16,700 --> 00:01:17,800\nincremental revenue,\n\n74\n00:01:17,800 --> 00:01:18,700\nand to\n\n75\n00:01:18,700 --> 00:01:19,800\nhelp airlines deal\n\n76\n00:01:19,800 --> 00:01:20,800\nwith irregular\n\n77\n00:01:20,800 --> 00:01:21,100\noperations.\n\n78\n00:01:22,300 --> 00:01:23,900\nVolantio has received serious\n\n79\n00:01:23,900 --> 00:01:24,800\ntraction in the\n\n80\n00:01:24,800 --> 00:01:25,400\nmarketplace.\n\n81\n00:01:25,400 --> 00:01:26,600\nOur solution is\n\n82\n00:01:26,600 --> 00:01:27,500\nlive at seven\n\n83\n00:01:27,500 --> 00:01:28,700\nairlines globally today,\n\n84\n00:01:28,700 --> 00:01:29,800\nand\n\n85\n00:01:29,800 --> 00:01:30,800\nreceived funding from\n\n86\n00:01:30,800 --> 00:01:31,600\nJetBlue Technology\n\n87\n00:01:31,600 --> 00:01:32,100\nVentures,\n\n88\n00:01:32,100 --> 00:01:33,700\nIAG\n\n89\n00:01:33,700 --> 00:01:34,800\nVentures and\n\n90\n00:01:34,800 --> 00:01:35,800\nQantas Ventures.\n\n91\n00:01:35,800 --> 00:01:36,900\nWe are also\n\n92\n00:01:36,900 --> 00:01:37,900\ndriving 2X\n\n93\n00:01:37,900 --> 00:01:38,800\nto 5X return\n\n94\n00:01:38,800 --> 00:01:39,600\non investment.\n\n95\n00:01:40,200 --> 00:01:40,600\nOur\n\n96\n00:01:40,600 --> 00:01:41,200\nsolution is\n\n97\n00:01:41,200 --> 00:01:42,800\ntransforming the travel experience,\n\n98\n00:01:42,800 --> 00:01:43,900\nand\n\n99\n00:01:43,900 --> 00:01:44,500\nreducing\n\n100\n00:01:44,500 --> 00:01:45,700\noperational headaches for\n\n101\n00:01:45,700 --> 00:01:46,800\nairlines, a\n\n102\n00:01:46,800 --> 00:01:47,900\nwin-win.\n\n103\n00:01:47,900 --> 00:01:48,800\nGiven\n\n104\n00:01:48,800 --> 00:01:49,800\nits scale and\n\n105\n00:01:49,800 --> 00:01:50,900\nprofile, we believe\n\n106\n00:01:50,900 --> 00:01:51,700\nthe Skift Global\n\n107\n00:01:51,700 --> 00:01:52,700\nForum is the\n\n108\n00:01:52,700 --> 00:01:53,800\nperfect venue for\n\n109\n00:01:53,800 --> 00:01:54,500\nVolantio to\n\n110\n00:01:54,500 --> 00:01:55,800\npresent our innovative\n\n111\n00:01:55,800 --> 00:01:56,600\nsolution.\n\n112\n00:01:56,600 --> 00:01:57,900\nThank you."
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4"
+								],
+								"transformedPublicIds": [
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis"
+								],
+								"embed": {
+									"width": 960,
+									"height": 540,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "volantio-airpitch-video"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9b1c98d7-00be-6273-f04c-f0304cb7a05d",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Audio here?",
+						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "22c59325-6eda-cf22-24c7-a8d896c66457",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsMultipleCollections": [
+							"qLChA8JDegSMKNdeP"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Textbox here?",
+						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "63c1d1b3-5840-4ceb-05cc-d6048df8806a",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Image here? singular",
+						"fieldKey": "8ed7de98-ce53-2ed2-b66c-ae8eaa82bfe7",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "99c2bc18-91fe-2ab4-ae85-a3c15769c751",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsEditableCollections": [
+							"qLChA8JDegSMKNdeP"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please add a Video here? singular",
+						"fieldKey": "b0656885-63d1-e265-1e28-7521b1970ceb",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
