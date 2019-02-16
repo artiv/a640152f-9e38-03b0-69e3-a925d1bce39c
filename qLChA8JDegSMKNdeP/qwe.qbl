@@ -709,7 +709,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": true,
+									"isAttached": false,
 									"asset": {
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis_en_R4Hg.srt",
 										"version": 1550219535,
