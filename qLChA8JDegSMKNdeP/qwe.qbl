@@ -1132,7 +1132,7 @@
 										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1550601377/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_xax6gu_en-AU_j3KW.srt",
 										"access_mode": "public"
 									},
-									"isAttached": true
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1550601312/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_xax6gu.mp4",
