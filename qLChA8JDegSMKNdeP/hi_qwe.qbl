@@ -90,22 +90,22 @@
 						"fieldKey": "8e777054-9da5-873c-2bc0-6fae2f9f3d72",
 						"fieldValues": [
 							{
-								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis",
-								"version": 1550219131,
-								"signature": "f81b2b8bb6904b4a2cd19faa307f19867cf1b28f",
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_xcmsis_y3xgcg",
+								"version": 1550616066,
+								"signature": "4c71760100184c8c2581d8aaa77448107996de41",
 								"width": 960,
 								"height": 540,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-02-15T08:25:31Z",
+								"created_at": "2019-02-19T22:41:06Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 23986315,
+								"bytes": 24046982,
 								"type": "upload",
-								"etag": "83ce1d4d3bf948b039449d7b7cc2ca0b",
+								"etag": "cf02abe31473ff4a38642fae04cedd9e",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550616066/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_xcmsis_y3xgcg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550616066/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_xcmsis_y3xgcg.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -124,10 +124,10 @@
 								},
 								"is_audio": false,
 								"frame_rate": 29.97002997002997,
-								"bit_rate": 1604234,
+								"bit_rate": 1608292,
 								"duration": 119.615,
 								"rotation": 0,
-								"original_filename": "Volantio-AirPitch-Video",
+								"original_filename": "ffmpeged_Volantio-AirPitch-Video_xcmsis",
 								"path": "v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.jpg",
 								"overlays": [],
@@ -725,10 +725,12 @@
 									}
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1550616066/a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_xcmsis_y3xgcg.mp4"
 								],
 								"transformedPublicIds": [
-									"a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis"
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis",
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_Volantio-AirPitch-Video_xcmsis_y3xgcg"
 								],
 								"embed": {
 									"width": 960,
