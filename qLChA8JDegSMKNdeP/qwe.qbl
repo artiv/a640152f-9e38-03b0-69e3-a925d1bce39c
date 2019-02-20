@@ -3319,7 +3319,57 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Audio here?",
 						"fieldKey": "2f053ab5-05e4-ec91-9608-87790c273347",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_z3f9ma",
+								"version": 1550669041,
+								"signature": "4dd6de2f2a688eed7c3a606b41c8eb1f796ec393",
+								"width": 0,
+								"height": 0,
+								"format": "wav",
+								"resource_type": "video",
+								"created_at": "2019-02-20T13:24:01Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 2658382,
+								"type": "upload",
+								"etag": "e4903f667ddc74ef4024e3333a57d26e",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550669041/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_z3f9ma.wav",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550669041/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_z3f9ma.wav",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "pcm_s16le",
+									"bit_rate": "705600",
+									"frequency": 44100,
+									"channels": 1
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 705620,
+								"duration": 30.139501,
+								"original_filename": "modernFamily",
+								"path": "v1550669041/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_z3f9ma.wav",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550669041/a640152f-9e38-03b0-69e3-a925d1bce39c/modernFamily_z3f9ma.jpg",
+								"overlays": [],
+								"captions": {},
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
