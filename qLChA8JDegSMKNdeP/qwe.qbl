@@ -3368,6 +3368,55 @@
 									"caption": "",
 									"seoSuffix": "modernfamily"
 								}
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_h1uecy",
+								"version": 1550669118,
+								"signature": "9498775b5752664f113ad66821d989bb9b350647",
+								"width": 0,
+								"height": 0,
+								"format": "wav",
+								"resource_type": "video",
+								"created_at": "2019-02-20T13:25:18Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 2644046,
+								"type": "upload",
+								"etag": "6640ba3b4448fa1106ba3559ed60a6ab",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550669118/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_h1uecy.wav",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550669118/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_h1uecy.wav",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "pcm_s16le",
+									"bit_rate": "705600",
+									"frequency": 44100,
+									"channels": 1
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 705620,
+								"duration": 29.976961,
+								"original_filename": "NSW",
+								"path": "v1550669118/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_h1uecy.wav",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550669118/a640152f-9e38-03b0-69e3-a925d1bce39c/NSW_h1uecy.jpg",
+								"overlays": [],
+								"captions": {},
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw"
+								}
 							}
 						],
 						"fieldChildren": []
