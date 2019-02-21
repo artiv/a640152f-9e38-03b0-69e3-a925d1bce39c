@@ -132,7 +132,62 @@
 								"original_filename": "ffmpeged_Volantio-AirPitch-Video_xcmsis",
 								"path": "v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550219131/a640152f-9e38-03b0-69e3-a925d1bce39c/Volantio-AirPitch-Video_xcmsis.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ff6767",
+											"rgb": {
+												"r": 255,
+												"g": 103,
+												"b": 103,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "10",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "3kfeh",
+													"text": "raleway",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontfamily-Raleway"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "raleway"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
