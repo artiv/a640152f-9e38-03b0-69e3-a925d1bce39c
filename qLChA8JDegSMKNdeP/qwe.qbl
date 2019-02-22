@@ -3421,6 +3421,73 @@
 									"caption": "",
 									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-_nrl"
 								}
+							},
+							{
+								"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv",
+								"version": 1550819143,
+								"signature": "ab92a6042f6e776fcbd21a13762a060135da1765",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-02-22T07:05:43Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 60909614,
+								"type": "upload",
+								"etag": "b23cba120e3dbdb91d6f1a1dbbd28aaf",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550819143/a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550819143/a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "501634",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 633230,
+								"duration": 769.509277,
+								"rotation": 0,
+								"original_filename": "Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg",
+								"path": "v1550819143/a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550819143/a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1550819143/a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv.mp4"
+								],
+								"transformedPublicIds": [
+									"a640152f-9e38-03b0-69e3-a925d1bce39c/Joint_press_briefing_by_PM_Modi_Norwegian_PM_Erna_Solberg_d869fv"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "joint_press_briefing_by_pm_modi_norwegian_pm_erna_solberg"
+								}
 							}
 						],
 						"fieldChildren": []
