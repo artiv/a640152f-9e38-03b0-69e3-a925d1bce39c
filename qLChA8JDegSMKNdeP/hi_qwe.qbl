@@ -178,7 +178,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": true,
+									"isAttached": false,
 									"asset": {
 										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/ffmpeged_sampleVideo_lfkm4b_z8sjf5_hi_zC7e.srt",
 										"version": 1551036448,
