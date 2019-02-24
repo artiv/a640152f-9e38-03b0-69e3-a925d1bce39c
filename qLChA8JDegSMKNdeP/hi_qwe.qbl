@@ -299,7 +299,22 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please add a Textbox here?",
 						"fieldKey": "9bdd539b-85c2-314b-4fcc-88c072e7388b",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "6s0f7",
+										"text": "some text",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
