@@ -136,7 +136,67 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy that's that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "happy I surf"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "the web I"
+										}
+									],
+									"font": "Noto Sans",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"asset": {
+										"public_id": "a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lfkm4b_en_unfj.srt",
+										"version": 1551036303,
+										"signature": "8e39159ffd9859b5a1e8f038cee5f00162df7477",
+										"resource_type": "raw",
+										"created_at": "2019-02-24T19:25:03Z",
+										"tags": [],
+										"bytes": 261,
+										"type": "upload",
+										"etag": "d8bb1ce533cdebb761e8b67cc5e5d4ef",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1551036303/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lfkm4b_en_unfj.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1551036303/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lfkm4b_en_unfj.srt",
+										"access_mode": "public"
+									}
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1551022410/a640152f-9e38-03b0-69e3-a925d1bce39c/sampleVideo_lfkm4b.mp4"
 								],
